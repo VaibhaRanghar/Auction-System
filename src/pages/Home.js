@@ -16,7 +16,7 @@ export default function Home() {
           <br />
           and discover something amazing today!
         </p>
-        <button className="bg-emerald-700 p-5 rounded-full text-white">
+        <button className="bg-emerald-700 p-5 rounded-full text-white hover:bg-emerald-800">
           START EXPLORING
         </button>
       </div>

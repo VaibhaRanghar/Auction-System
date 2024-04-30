@@ -55,7 +55,7 @@ export default function LiveAuction() {
 
 function ItemCard({ name, imageSource, biddingPrice, timeRemaining }) {
   return (
-    <div className="relative flex flex-col items-center w-96 bg-white rounded-lg shadow-xl shadow-slate-300 overflow-hidden pt-10 p-5 hover:bg-slate-50 ">
+    <div className="relative flex flex-col items-center w-96 bg-white rounded-lg shadow-xl shadow-slate-300 overflow-hidden pt-10 p-5 hover:bg-slate-100 hover:shadow-slate-500 ">
       <p className="pt-3 text-gray-700">Time Remaining</p>
       <p className="pt-3 pb-3 text-2xl text-emerald-600 font-bold">
         {timeRemaining}
