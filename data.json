@@ -1,0 +1,797 @@
+{"data": [
+  {
+    "item_id": 1,
+    "name": "Vintage Camera (nikon)",
+    "description": "A well-maintained vintage camera in excellent working condition.",
+    "category": "Antiques & Collectibles",
+    "starting_bid": 1000.00,
+    "image_urls": ["https://wallpapercave.com/wp/wp8027576.jpg"],
+    "auction_end_time": "14:00:00",
+    "auction_start_time": "12:30:00"
+  },
+  {
+    "item_id": 2,
+    "name": "Rare Book ",
+    "description": "A first edition copy of book in best Condition.",
+    "category": "Antiques & Collectibles",
+    "starting_bid": 500.00,
+    "image_urls": ["https://img1.etsystatic.com/021/1/6298060/il_fullxfull.489255289_nkk0.jpg"],
+    "auction_end_time": "11:00:00",
+    "auction_start_time": "09:30:00"
+
+  },
+  {
+    "item_id": 3,
+    "name": "Antique Furniture (chair)",
+    "description": "A beautiful (chair) antique furniture piece from the (1970) in good condition.",
+    "category": "Antiques & Collectibles",
+    "starting_bid": 100.00,
+    "image_urls": ["https://images.saymedia-content.com/.image/t_share/MTc0MzU1NDYxOTgxMDg3MzY2/aguidetoantiquechairidentification.jpgg"],
+    "auction_end_time": "09:30:00",
+    "auction_start_time": "08:00:00"
+  },
+  {
+    "item_id": 4,
+    "name": "Sports Memorabilia (Jorden, Lakers, Jersey)",
+    "description": "A signed (Jersey) by (Micheal Jorden) from the (Lakers).",
+    "category": "Antiques & Collectibles",
+    "starting_bid": 750.00,
+    "image_urls": ["https://wickedmemorabilia.com.au/cdn/shop/products/JordanSignedRookieJerseyUpperdeck_600x.jpg?v=1609582498"],
+    "auction_end_time": "12:30:00",
+    "auction_start_time": "11:00:00"
+  },
+  {
+    "item_id": 5,
+    "name": "Coin Collection (1840-1940, us)",
+    "description": "A collection of (20) coins from ( 1840-1940) from (US).",
+    "category": "Antiques & Collectibles",
+    "starting_bid": 300.00,
+    "image_urls": ["https://auctioneersoftware.s3.amazonaws.com/mat/2021/1/medium/DHtV-iMJeqNnF7NmJ9XLdE41.jpeg"],
+    "auction_end_time": "13:00:00",
+    "auction_start_time": "11:30:00"
+  },
+  {
+    "item_id": 6,
+    "name": "Movie Poster (Doctor X, 1972)",
+    "description": "An original movie poster for the film (Doctor X) from (1972).",
+    "category": "Antiques & Collectibles",
+    "starting_bid": 150.00,
+    "image_urls": ["https://2.bp.blogspot.com/-HQiTkk16pvY/VEIPNChDfnI/AAAAAAABBeg/AbAzqY1iy2I/s1600/Vintage%2BMovie%2BPosters%2Bfrom%2BClassic%2BHollywood%2Bin%2Bthe%2B1920s%2B(3).jpg"],
+    "auction_end_time": "11:00:00",
+    "auction_start_time": "09:00:00"
+  },
+    {
+      "item_id": 7,
+      "name": "Vintage Jewelry (Pendant)",
+      "description": "A beautiful piece of vintage (Pendant) jewelry from the (600BC).",
+      "category": "Antiques & Collectibles",
+      "starting_bid": 1250.00,
+      "image_urls": ["https://cdn0.rubylane.com/shops/759489/necklace24.1L.jpg"],
+      "auction_end_time": "17:00:00",
+      "auction_start_time": "15:00:00"
+    },
+    {
+      "item_id": 8,
+      "name": "Pocket Watch (waltham, 1999)",
+      "description": "A vintage pocket watch from (Waltham) made in (Year).",
+      "category": "Antiques & Collectibles",
+      "starting_bid": 200.00,
+      "image_urls": ["https://www.antiquesboutique.com/upload/images/shopprod/14770/fancy-cased-gold-plated-waltham-pocket-watch-c1906_14770_pic1_size1.jpg"],
+      "auction_end_time":"19:00:00",
+      "auction_start_time": "17:00:00"
+    },
+    {
+      "item_id": 9,
+      "name": "Luxury Throw Blanket",
+      "category": "Antiques & Collectibles",
+      "starting_bid": 999.99,
+      "description": "Luxuriously soft and warm throw blanket",
+      "image_urls": ["https://www.comfortnerd.com/wp-content/uploads/2019/09/bedsurethrow-1024x1024.jpg"],
+      "auction_end_time": "21:00:00",
+      "auction_start_time": "19:00:00"
+    },
+    {
+      "item_id": 10,
+      "name": "Wall Mirror with Decorative Frame",
+      "category": "Antiques & Collectibles",
+      "starting_bid": 74.99,
+      "description": "Elegant wall mirror with a decorative frame for added style",
+      "image_urls": ["https://i5.walmartimages.com/asr/6edf6487-877f-414a-857d-337584114276.0d0f0f774165cb754e9f06dcd96bbf02.jpeg"],
+      "auction_end_time": "23:00:00",
+      "auction_start_time": "21:00:00"
+    },
+    
+  {
+    "item_id": 1,
+    "name": "High-End Gaming Laptop (asus, a15)",
+    "description": "A powerful gaming laptop with the latest graphics card, perfect for AAA titles. Includes (12) GB RAM and (265) GB storage.",
+    "category": "Electronics",
+    "starting_bid": 25000.00,
+    "image_urls": ["https://m.media-amazon.com/images/I/91zVSkGGZbS._SL1500_.jpg"],
+    "auction_end_time": "14:00:00Z",
+    "auction_start_time": "12:30:00Z"
+  },
+  {
+    "item_id": 2,
+    "name": "Smartphone (apple)",
+    "description": "A selection of unlocked smartphones from popular brand apple,samsung,etc with different features and specifications.",
+    "category": "Electronics",
+    "starting_bid": 20000.00,
+    "image_urls": ["https://external.webstorage.gr/Product-Images/1421066/iphone11-black-1000-1421066.jpg"],
+    "auction_end_time": "11:00:00",
+    "auction_start_time": "09:30:00"
+
+  },
+  {
+    "item_id": 3,
+    "name": "Noise-Cancelling Headphones (AKG)",
+    "description": "A pair of high-quality noise-canceling headphones from (AKG) with excellent audio quality and long battery life.",
+    "category": "Electronics",
+    "starting_bid": 150.00,
+    "image_urls": ["https://media.wired.com/photos/5abc0f56f0e5120b83803435/191:100/pass/MG_0503.jpg"],
+    "auction_end_time": "09:30:00",
+    "auction_start_time": "08:00:00"
+  },
+  {
+    "item_id": 4,
+    "name": "Smart Speaker with Voice Assistant (MI)",
+    "description": "A smart speaker from (MI) with a built-in voice assistant, perfect for controlling smart home devices and playing music.",
+    "category": "Electronics",
+    "starting_bid": 500.00,
+    "image_urls": ["https://xiaomiplanet.sk/wp-content/uploads/2020/09/xiaomi-mi-smart-speaker-cover.jpg"],
+    "auction_end_time": "12:30:00",
+    "auction_start_time": "11:00:00"
+  },
+  {
+    "item_id": 5,
+    "name": "Virtual Reality Headset (samsung, latest)",
+    "description": "A virtual reality headset from (samsung) with stunning visuals and immersive gameplay.",
+    "category": "Electronics",
+    "starting_bid": 300.00,
+    "image_urls": ["https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5980/5980201ld.jpg"],
+    "auction_end_time": "13:00:00",
+    "auction_start_time": "11:30:00"
+  },
+  {
+    "item_id": 6,
+    "name": "4K Ultra HD Television (43 inch)",
+    "description": "A large-screen 4K Ultra HD television with a size of (43) inches, perfect for watching movies and shows in stunning detail.",
+    "category": "Electronics",
+    "starting_bid": 5000.00,
+    "image_urls": ["https://example.com/tv_image1.jpg"],
+    "auction_end_time": "11:00:00",
+    "auction_start_time": "09:00:00"
+  },
+  {
+    "item_id": 7,
+    "name": "Instant Camera (instax)",
+    "description": "A fun and easy-to-use instant camera from (instax) that captures photos and prints them out instantly.",
+    "category": "Electronics",
+    "starting_bid": 75.00,
+    "image_urls": ["https://www.bhphotovideo.com/images/images2500x2500/fujifilm_16581458_instax_square_sq6_instant_1399694.jpg"],
+    "auction_end_time": "17:00:00",
+    "auction_start_time": "15:00:00"
+  },
+  {
+    "item_id": 8,
+    "name": "Wireless Earbuds (realme)",
+    "description": "A pair of true wireless earbuds from (realme) with excellent sound quality and a comfortable.",
+    "category":"Electronics",
+    "starting_bid":800.00,
+    "image_urls":["https://m.media-amazon.com/images/I/61q65Ob+nrL._SL1500_.jpg"],
+    "auction_end_time":"19:00:00",
+    "auction_start_time": "17:00:00"
+  },
+  {
+    "item_id": 1,
+    "name": "Canvas Print - Abstract Landscape",
+    "category": "Art and Decoration",
+    "starting_bid": 49.99,
+    "description": "A vibrant abstract landscape printed on high-quality canvas",
+    "image_urls": ["https://i5.walmartimages.com/asr/7f8cd5ef-3775-46e6-9d31-5e5ec1d4a2f8.4f8d09ead98c90ae81bde815f8486420.jpeg"],
+    "auction_end_time": "14:00:00Z",
+    "auction_start_time": "12:30:00Z"
+  },
+  {
+    "item_id": 2,
+    "name": "Ceramic Vase - Modern Design",
+    "category": "Art and Decoration",
+    "starting_bid": 34.99,
+    "description": "Sleek and modern ceramic vase in a variety of colors",
+    "image_urls": ["https://exceptionalhomedecor.com/wp-content/uploads/sites/2887/2020/11/61xmP5Xqn6L._AC_SL1000_.jpg"],
+    "auction_end_time": "11:00:00",
+    "auction_start_time": "09:30:00"
+
+  },
+  {
+    "item_id": 3,
+    "name": "Metal Sculpture - Geometric Art",
+    "category": "Art and Decoration",
+    "starting_bid": 99.99,
+    "description": "Unique geometric metal sculpture for a contemporary touch",
+    "image_urls": ["https://www.pastperfectsf.com/wp-content/uploads/2017/01/Abstract-Steel-Sculpture-by-Curtis-Jer%C3%A9-1.jpg"],
+    "auction_end_time": "09:30:00",
+    "auction_start_time": "08:00:00"
+  },
+  {
+    "item_id": 4,
+    "name": "Woven Throw Blanket",
+    "category": "Art and Decoration",
+    "starting_bid": 69.99,
+    "description": "Cozy and stylish woven throw blanket in luxurious materials",
+    "image_urls": ["https://i.etsystatic.com/21185340/r/il/c5bb01/2660120239/il_fullxfull.2660120239_racx.jpg"],
+    "auction_end_time": "12:30:00",
+    "auction_start_time": "11:00:00"
+  },
+  {
+    "item_id": 5,
+    "name": "Framed Vintage Poster",
+    "category": "Art and Decoration",
+    "starting_bid": 75.99,
+    "description": "Vintage poster with a classic design, framed for display",
+    "image_urls": ["https://www.canvasprintsaustralia.net.au/wp-content/uploads/2014/03/Star-Wars-movie-poster2-Framed-Wall-Art-copy.jpg"],
+    "auction_end_time": "13:00:00",
+    "auction_start_time": "11:30:00"
+  },
+  {
+    "item_id": 6,
+    "name": "Set of Decorative Pillows",
+    "category": "Art and Decoration",
+    "starting_bid": 44.99,
+    "description": "Set of decorative throw pillows to add a pop of color",
+    "image_urls": ["https://i5.walmartimages.com/asr/426e0787-23b9-429c-b10a-869590b3745d_1.88179e39ec6e2a1d1b4b82cdab987dcb.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff"],
+    "auction_end_time": "11:00:00",
+    "auction_start_time": "09:00:00"
+  },
+  {
+    "item_id": 7,
+    "name": "Abstract Tabletop Sculpture",
+    "category": "Art and Decoration",
+    "starting_bid": 29.99,
+    "description": "Small abstract sculpture, perfect for a table centerpiece",
+    "image_urls": ["https://homedesignlover.com/wp-content/uploads/2013/12/3-casa-cortes.jpg"],
+    "auction_end_time": "17:00:00",
+    "auction_start_time": "15:00:00"
+  },
+  {
+    "item_id": 8,
+    "name": "Woven Wall Tapestry",
+    "category": "Art and Decoration",
+    "starting_bid": 89.99,
+    "description": "Unique woven wall tapestry with a rich visual texture",
+    "image_urls": ["https://i.pinimg.com/originals/fe/3c/d6/fe3cd60df86b3194c45278bad07063c0.jpg"],
+    "auction_end_time":"19:00:00",
+    "auction_start_time": "17:00:00" 
+  },
+  {
+    "item_id": 9,
+    "name": "Modern Wall Clock",
+    "category": "Art and Decoration",
+    "starting_bid": 54.99,
+    "description": "Stylish and functional modern wall clock",
+    "image_urls": ["https://www.homerises.com/images/upload/201802/151945436933.jpg"],
+    "auction_end_time": "21:00:00",
+    "auction_start_time": "19:00:00"
+  },
+  {
+    "item_id": 10,
+    "name": "Black and White Photography Print",
+    "category": "Art and Decoration",
+    "starting_bid": 39.99,
+    "description": "Striking black and white photography print framed for display",
+    "image_urls": ["https://inspirationfeeed.wordpress.com/wp-content/uploads/2014/03/20481.jpg"],
+    "auction_end_time": "23:00:00",
+    "auction_start_time": "21:00:00"
+  },
+
+  {
+    "item_id": 1,
+    "name": "Mid-Century Modern Armchair",
+    "category": "Furniture_and Home Decoration",
+    "starting_bid": 199.99,
+    "description": "Stylish and comfortable mid-century modern armchair",
+    "image_urls": ["https://epochfurnishings.com/wp-content/uploads/2017/10/mid-century-modern-walnut-spindled-back-armchair-baumritter-5.jpg"],
+    "auction_end_time": "14:00:00Z",
+    "auction_start_time": "12:30:00Z"
+  },
+  {
+    "item_id": 2,
+    "name": "Woven Area Rug",
+    "category": "Furniture_and Home Decoration",
+    "starting_bid": 79.99,
+    "description": "Soft and stylish woven area rug in various sizes and patterns",
+    "image_urls": ["https://secure.img2-fg.wfcdn.com/im/d5ea3c03/resize-h2000-p1-w2000%5Ecompr-r85/3707/37075596/Grassmere+Hand-Woven+Area+Rug.jpg"],
+    "auction_end_time": "11:00:00",
+    "auction_start_time": "09:30:00"
+  },
+  {
+    "item_id": 3,
+    "name": "Dining Table Set",
+    "category": "Furniture_and Home Decoration",
+    "starting_bid": 349.99,
+    "description": "Modern dining table set with chairs, perfect for gatherings",
+    "image_urls": ["https://images.furnituredealer.net/img/products/new_classic/color/oscar-1869927981_d1651-11%2B20-b3.jpg"],
+    "auction_end_time": "09:30:00",
+    "auction_start_time": "08:00:00"
+  },
+  {
+    "item_id": 4,
+    "name": "Set of Decorative Throw Pillows",
+    "category": "Furniture_and Home Decoration",
+    "starting_bid": 299.99,
+    "description": "Set of decorative throw pillows to add comfort and style",
+    "image_urls": ["https://i5.walmartimages.com/asr/426e0787-23b9-429c-b10a-869590b3745d_1.88179e39ec6e2a1d1b4b82cdab987dcb.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff"],
+    "auction_end_time": "12:30:00",
+    "auction_start_time": "11:00:00"
+  },
+  {
+    "item_id": 5,
+    "name": "Coffee Table with Storage",
+    "category": "FuErniture_and Home Decoration",
+    "starting_bid": 149.99,
+    "description": "Functional coffee table with storage compartments",
+    "image_urls": ["https://i5.walmartimages.com/asr/a9dbee1d-dadb-4350-9f26-f12798d542cf_2.ccf79caafa7340f6462ee65ea52b22d5.jpeg"],
+    "auction_end_time": "13:00:00",
+    "auction_start_time": "11:30:00"
+  },
+  {
+    "item_id": 6,
+    "name": "Modern Floor Lamp",
+    "category": "Furniture_and Home Decoration",
+    "starting_bid": 59.99,
+    "description": "Stylish floor lamp for ambient lighting",
+    "image_urls": ["https://static.welldonestuff.com/images/modern_twist_lamp_contemporary.jpg"],
+    "auction_end_time": "11:00:00",
+    "auction_start_time": "09:00:00"
+  },
+  {
+    "item_id": 7,
+    "name": "Queen-Size Bed Frame",
+    "category": "Furniture_and Home Decoration",
+    "starting_bid": 229.99,
+    "description": "Sturdy and comfortable queen-size bed frame",
+    "image_urls": ["https://i5.walmartimages.com/asr/5566947f-8e55-4281-8b59-e117b6e8e6f7.c503a7fb346c03279b2fc63c4207911c.jpeg"],
+    "auction_end_time": "17:00:00",
+    "auction_start_time": "15:00:00"
+  },
+  {
+    "item_id": 8,
+    "name": "Set of Ceramic Vases",
+    "category": "Furniture_and Home Decoration",
+    "starting_bid": 34.99,
+    "description": "Set of decorative ceramic vases in various sizes and colors",
+    "image_urls": ["https://i.pinimg.com/originals/b7/ba/37/b7ba37e4dc299f407676544b272164e5.jpg"],
+    "auction_end_time": "19:00:00",
+    "auction_start_time": "17:00:00"
+  },
+  {
+    "item_id": 9,
+    "name": "Outdoor Patio Furniture Set",
+    "category": "Furniture_and Home Decoration",
+    "starting_bid": 499.99,
+    "description": "Relaxing outdoor patio furniture set for enjoying the sunshine",
+    "image_urls": ["https://i5.walmartimages.com/asr/45566bec-5f9c-4412-aa65-e4c22bebcbb3_1.213fd2662100f20b04fe71ffe2f8559f.jpeg"],
+    "auction_end_time": "21:00:00",
+    "auction_start_time": "19:00:00"
+  },
+  
+  {
+    "item_id": 10,
+    "name": "Scandinavian-Style Sofa",
+    "category": "Furniture_and Home Decoration",
+    "starting_bid": 599.99,
+    "description": "Sleek and minimalist Scandinavian-style sofa",
+    "image_urls": ["https://uk.privatefloor.com/images/variations/5096.jpeg"],
+    "auction_end_time": "23:00:00",
+    "auction_start_time": "21:00:00"
+  },
+ 
+
+{
+    "item_id": 1,
+    "name": "Used Sedan - Reliable & Affordable",
+    "category": "Vehicles",
+    "starting_bid": 59999.00,
+    "description": "A reliable and fuel-efficient used sedan, perfect for everyday driving. Make and model details to be provided upon winning the auction.",
+    "image_urls": ["https://s1.cdn.autoevolution.com/images/news/gallery/these-are-the-five-most-reliable-used-sedans-you-can-get-for-5000-or-less_13.jpg"],
+    "auction_end_time": "14:00:00Z",
+    "auction_start_time": "12:30:00Z"
+  },
+  {
+    "item_id": 2,
+    "name": "Classic Motorcycle - Restored Vintage Beauty",
+    "category": "Vehicles",
+    "starting_bid": 89999.00,
+    "description": "A meticulously restored classic motorcycle, a head-turner for any enthusiast. Year, make, and model details to be provided upon winning the auction.",
+    "image_urls": ["https://i.pinimg.com/originals/a9/2d/33/a92d331ae8bced8ad8d4b91210d80110.jpg"],
+    "auction_end_time": "11:00:00",
+    "auction_start_time": "09:30:00"
+
+  },
+  {
+    "item_id": 3,
+    "name": "Electric Scooter - Eco-Friendly & Fun",
+    "category": "Vehicles",
+    "starting_bid": 89999.00,
+    "description": "A brand-new electric scooter, perfect for short commutes and eco-conscious riders. Make and model details to be provided upon winning the auction.",
+    "image_urls": ["https://i5.walmartimages.com/asr/fe023053-5588-43cb-9ef3-b727aef79fba.4bbe72b72e2824f86a167bc44c50dc90.jpeg"],
+    "auction_end_time": "09:30:00",
+    "auction_start_time": "08:00:00"
+  },
+  {
+    "item_id": 4,
+    "name": "Luxury SUV - Spacious & Powerful",
+    "category": "Vehicles",
+    "starting_bid": 299999.00,
+    "description": "A luxurious and powerful SUV, offering comfort and performance. Make and model details to be provided upon winning the auction.",
+    "image_urls": ["https://www.expressandstar.com/resizer/IGX4wiMY1LE7SpShVTK5uWq8Kbw=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/F4TKPSMSKREC3NBT5YUBBUROKY.jpg"],
+    "auction_end_time": "12:30:00",
+    "auction_start_time": "11:00:00"
+  },
+  {
+    "item_id": 5,
+    "name": "Off-Road Truck - Adventure Awaits",
+    "category": "Vehicles",
+    "starting_bid": 159999.00,
+    "description": "A capable off-road truck, ready for your next adventure. Make and model details to be provided upon winning the auction.",
+    "image_urls": ["https://www.motortrend.com/uploads/sites/11/2017/11/Legacy-Classic-Trucks-Dodge-Power-Wagon-10.jpg"],
+    "auction_end_time": "13:00:00",
+    "auction_start_time": "11:30:00"
+  },
+  {
+    "item_id": 6,
+    "name": "Custom Motorcycle - A Work of Art",
+    "category": "Vehicles",
+    "starting_bid": 99999.00,
+    "description": "A one-of-a-kind custom motorcycle, built with passion and precision. Details and starting bid to be confirmed upon final inspection.",
+    "image_urls": ["https://www.hdwallpaper.nu/wp-content/uploads/2021/03/custom_motorcycle-21.jpg"],
+    "auction_end_time": "11:00:00",
+    "auction_start_time": "09:00:00"
+  },
+  {
+    "item_id": 7,
+    "name": "Electric Car - The Future of Driving",
+    "category": "Vehicles",
+    "starting_bid": 349999.00,
+    "description": "A sleek and innovative electric car, offering a sustainable driving experience. Make and model details to be provided upon winning the auction.",
+    "image_urls": ["https://lerablog.org/wp-content/uploads/2013/12/Electric-Cars-1024x682.jpg"],
+    "auction_end_time": "17:00:00",
+    "auction_start_time": "15:00:00"
+  },
+  {
+    "item_id": 8,
+    "name": "Vintage Sports Car - A Timeless Classic",
+    "category": "Vehicles",
+    "starting_bid": 129990.00,
+    "description": "A beautiful and well-maintained vintage sports car, a collector's dream. Year, make, and model details to be provided upon winning the auction.",
+    "image_urls": ["https://tse3.mm.bing.net/th?id=OIP.nuobAe6Kyk5TWiCS8I3azgAAAA&pid=Api&P=0&h=180"],
+    "auction_end_time": "19:00:00",
+    "auction_start_time": "17:00:00"
+  },
+  {
+    "item_id": 9,
+    "name": "Family Van - Comfort for All",
+    "category": "Vehicles",
+    "starting_bid": 799900.00,
+    "description": "A reliable and comfortable family van, perfect for road trips and everyday adventures. Make and model details to be provided upon winning the auction.",
+    "image_urls": ["https://tse4.mm.bing.net/th?id=OIP.h-94Bvyc4b6Phet0bcKZyQHaE8&pid=Api&P=0&h=180"],
+    "auction_end_time": "21:00:00",
+    "auction_start_time": "19:00:00"
+  },
+  {
+    "item_id": 10,
+    "name": "Motorcycle Helmet - Safety in Style",
+    "category": "Vehicles",
+    "starting_bid": 1990.00,
+    "description": "A high-quality motorcycle helmet for safe and stylish riding. Make, model, and size details to be provided upon winning the auction.",
+    "image_urls": ["https://tse2.mm.bing.net/th?id=OIP.GZzZgE24gxCX9bpYFEOkJQHaHa&pid=Api&P=0&h=180"],
+    "auction_end_time": "23:00:00",
+    "auction_start_time": "21:00:00"
+  },
+
+  {
+    "item_id": 1,
+    "name": "Charming Bungalow in Quiet Neighborhood",
+    "category": "Real Estate",
+    "starting_bid": 2300000.00,
+    "description": "A delightful bungalow offering cozy living in a peaceful neighborhood. Details like square footage, bedrooms, and bathrooms will be provided upon inquiry.",
+    "image_urls": ["https://tse1.mm.bing.net/th?id=OIP.JyxL0AvNUcR4EdnVXC2IkgHaFj&pid=Api&P=0&h=180"],
+    "auction_end_time": "14:00:00Z",
+    "auction_start_time": "12:30:00Z"
+  },
+  {
+    "item_id": 2,
+    "name": "Modern Condo with City Views",
+    "category": "Real Estate",
+    "starting_bid": 3400000.00,
+    "description": "Sleek and modern condo boasting stunning city views. Details like square footage, bedrooms, and bathrooms will be provided upon inquiry.",
+    "image_urls": ["https://homeworlddesign.com/wp-content/uploads/2014/06/Apartment-with-majestic-view-over-the-city-of-San-Francisco-1.jpg"],
+    "auction_end_time": "11:00:00",
+    "auction_start_time": "09:30:00"
+
+  },
+  {
+    "item_id": 3,
+    "name": "Spacious Family Home in Desirable Area",
+    "category": "Real Estate",
+    "starting_bid": 5400000.00,
+    "description": "A spacious and inviting family home in a highly sought-after area. Details like square footage, bedrooms, and bathrooms will be provided upon inquiry.",
+    "image_urls": ["https://tse3.mm.bing.net/th?id=OIP.fS6KKLt-oEkCY6NHKjisKgHaE8&pid=Api&P=0&h=180"],
+    "auction_end_time": "09:30:00",
+    "auction_start_time": "08:00:00" 
+  },
+  {
+    "item_id": 4,
+    "name": "Luxury Estate with Private Pool",
+    "category": "Real Estate",
+    "starting_bid": 1500000.00,
+    "description": "An opulent estate featuring luxurious amenities and a private pool. Details like square footage, bedrooms, and bathrooms will be provided upon inquiry.",
+    "image_urls":["https://www.luva-villas.com/img/news_11_crop_0_1671810979.webp"],
+    "auction_end_time": "12:30:00",
+    "auction_start_time": "11:00:00"
+  },
+  {
+    "item_id": 5,
+    "name": "Cozy Cabin Retreat in the Mountains",
+    "category": "Real Estate",
+    "starting_bid": 1200000.00,
+    "description": "A charming cabin nestled in the mountains, perfect for nature enthusiasts. Details like square footage, bedrooms, and bathrooms will be provided upon inquiry.",
+    "image_urls":["https://cf.bstatic.com/xdata/images/hotel/max1280x900/505009961.jpg?k=2a96409dc06d55039d1946dbd99bad89ba5617926ff96e6e9646dabde032daec&o=&hp=1"],
+    "auction_end_time": "13:00:00",
+    "auction_start_time": "11:30:00"  
+  },
+  {
+    "item_id": 6,
+    "name": "Historic Victorian Townhouse",
+    "category": "Real Estate",
+    "starting_bid": 2000000.00,
+    "description": "A beautifully restored Victorian townhouse steeped in history. Details like square footage, bedrooms, and bathrooms will be provided upon inquiry.",
+    "image_urls":["https://i.pinimg.com/736x/4a/75/21/4a7521b7a0fc7f1836eefe582ad4afc3.jpg"],
+    "auction_end_time": "11:00:00",
+    "auction_start_time": "09:00:00"  
+  },
+  {
+    "item_id": 7,
+    "name": "Beachfront Property with Breathtaking Views",
+    "category": "Real Estate",
+    "starting_bid": 890000.00,
+    "description": "A dream beachfront property offering stunning ocean views. Details like square footage, bedrooms, and bathrooms will be provided upon inquiry.",
+    "image_urls": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/409037062.jpg?k=6689d0fa16b5f990a68c3e98d49427803cac21eac8d229df840835cd59001288&o=&hp=1"],
+    "auction_end_time": "17:00:00",
+    "auction_start_time": "15:00:00"  
+  },
+  {
+    "item_id": 8,
+    "name": "Studio Apartment in Prime Location",
+    "category": "Real Estate",
+    "starting_bid": 900000.00,
+    "description": "A functional studio apartment in a vibrant and central location. Details like square footage and amenities will be provided upon inquiry.",
+    "image_urls": ["https://images.trvl-media.com/lodging/50000000/49240000/49238000/49237996/ff1c0631.jpg?impolicy=resizecrop&rw=500&ra=fit"],
+    "auction_end_time": "19:00:00",
+    "auction_start_time": "17:00:00"
+  },
+  {
+    "item_id": 9,
+    "name": "Investment Opportunity: Apartment Building",
+    "category": "Real Estate",
+    "starting_bid": 1000000.00,
+    "description": "A multi-unit apartment building offering a great investment opportunity. Details like number of units and square footage will be provided upon inquiry.",
+    "image_urls": ["https://miro.medium.com/v2/resize:fit:652/0*ayp9ZfcdbS2lZ-ef.jpg"],
+    "auction_end_time": "21:00:00",
+    "auction_start_time": "19:00:00"
+  },
+  {
+    "item_id": 10,
+    "name": "Commercial Property with High Visibility",
+    "category": "Real Estate",
+    "starting_bid": 1005000.00,
+    "description": "A commercial property with excellent visibility and prime location. Details like square footage and zoning will be provided upon inquiry.",
+    "image_urls": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfpKXbECDA-2A-r8c32nLuWyKUdWrzyQPUg&usqp=CAU"],
+    "auction_end_time": "23:00:00",
+    "auction_start_time": "21:00:00"
+  },
+  
+  {
+    "item_id": 1,
+    "name": "Flowy Floral Maxi Dress",
+    "category": "Fashion",
+    "starting_bid": 309.99,
+    "description": "A breezy and elegant maxi dress with a beautiful floral print. Perfect for summer days or special occasions.",
+    "image_urls":["https://n.nordstrommedia.com/id/sr3/4edcd329-afc2-4cf1-aadb-a5550a8da401.jpeg?crop=pad&w=780&h=1196"],
+    "auction_end_time": "14:00:00Z",
+    "auction_start_time": "12:30:00Z" 
+  },
+  {
+    "item_id": 2,
+    "name": "Classic Leather Jacket",
+    "category": "Fashion",
+    "starting_bid": 300.99,
+    "description": "A timeless and versatile leather jacket that will never go out of style. Adds a touch of edge to any outfit.",
+    "image_urls": ["https://thelong-voyage.com/cdn/shop/products/Jacket_91.jpg?v=1625811264"],
+    "auction_end_time": "11:00:00",
+    "auction_start_time": "09:30:00"
+
+  },
+  {
+    "item_id": 3,
+    "name": "Comfy Cashmere Sweater",
+    "category": "Fashion",
+    "starting_bid": 790.99,
+    "description": "A luxurious and soft cashmere sweater that will keep you warm and stylish. Perfect for layering in colder weather.",
+    "image_urls": ["https://i.ebayimg.com/images/g/mwcAAOSwk4JlTEN7/s-l1200."],
+    "auction_end_time": "09:30:00",
+    "auction_start_time": "08:00:00"
+  },
+  {
+    "item_id": 4,
+    "name": "Trendy Mom Jeans",
+    "category": "Fashion",
+    "starting_bid": 490.99,
+    "description": "High-waisted and relachxed-fit mom jeans, a current fashion staple. Flattering and comfortable for everyday wear.",
+    "image_urls": ["https://m.media-amazon.com/images/I/61ymfOSc6lL._AC_UY1100_.jpg"],
+    "auction_end_time": "12:30:00",
+    "auction_start_time": "11:00:00"
+  },
+  {
+    "item_id": 5,
+    "name": "Statement Earrings",
+    "category": "Fashion",
+    "starting_bid": 190.99,
+    "description": "A pair of eye-catching earrings that will add personality to any outfit. Available in various styles and colors.",
+    "image_urls":["https://www.liliorigin.com/cdn/shop/files/14_51084645-f265-4f8b-9318-a132944ba036.jpg?v=1700900304&width=823"],
+    "auction_end_time": "13:00:00",
+    "auction_start_time": "11:30:00" 
+  },
+  {
+    "item_id": 6,
+    "name": "Minimalist Watch",
+    "category": "Fashion",
+    "starting_bid": 599.99,
+    "description": "A sleek and sophisticated watch with a clean design. Perfect for everyday wear or dressier occasions.",
+    "image_urls": ["https://www.linjer.co/cdn/shop/products/linjer-minimalist-watch-38-rose-gold-mocha-1-front_720x.jpg?v=1571295293"],
+    "auction_end_time": "11:00:00",
+    "auction_start_time": "09:00:00" 
+  },
+  {
+    "item_id": 7,
+    "name": "Designer Sunglasses",
+    "category": "Fashion",
+    "starting_bid": 39.00,
+    "description": "A pair of stylish sunglasses from a renowned designer. Exact details and starting bid will be confirmed upon inspection.",
+    "image_urls": ["https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/656x464/9df78eab33525d08d6e5fb8d27136e95//j/i/pink-gradient-rose-gold-full-rim-square-john-jacobs-jj-tints-jj-s12961--c3-sunglasses_john-jacobs-jj-s12961-c3-sunglasses_untitled-2_05_july23.jpg"],
+    "auction_end_time": "17:00:00",
+    "auction_start_time": "15:00:00"
+  },
+  {
+    "item_id": 8,
+    "name": "Cozy Knit Scarf",
+    "category": "Fashion",
+    "starting_bid": 24.99,
+    "description": "A warm and comfortable knit scarf, perfect for adding a touch of style and warmth during colder weather.",
+    "image_urls": ["https://i0.wp.com/theknitmckinley.com/wp-content/uploads/2022/02/wp-1643857932043.jpg?resize=768%2C1107&ssl=1"],
+    "auction_end_time": "19:00:00",
+    "auction_start_time": "17:00:00"
+  },
+  {
+    "item_id": 9,
+    "name": "Stylish Handbag",
+    "category": "Fashion",
+    "starting_bid": 69.99,
+    "description": "A functional and fashionable handbag, available in various styles and sizes to suit your needs.",
+    "image_urls": ["https://www.jiomart.com/images/product/original/rvwq9x3eyx/cigati-women-stylish-handbag-and-sling-bag-ladies-purse-light-green-product-images-rvwq9x3eyx-0-202308200818.jpg?im=Resize=(1000,1000)"],
+    "auction_end_time": "21:00:00",
+    "auction_start_time": "19:00:00"  
+  },
+  {
+    "item_id": 10,
+    "name": "Luxury Sneakers",
+    "category": "Fashion",
+    "starting_bid": 129.99,
+    "description": "A pair of high-end sneakers from a popular brand. Comfortable and stylish, perfect for everyday wear or athletic activities.",
+    "image_urls": ["https://th.bing.com/th/id/OIP.84oConum-EAjMOvqhTjSwQHaDH?rs=1&pid=ImgDetMain"],
+    "auction_end_time": "23:00:00",
+    "auction_start_time": "21:00:00"  
+  },
+
+  {
+    "item_id": 1,
+    "name": "Diamond Stud Earrings",
+    "category": "Jewellery",
+    "starting_bid": 1999.99,
+    "description": "A timeless and elegant pair of diamond stud earrings. Perfect for everyday wear or special occasions.",
+    "image_urls": ["https://www.populardiamonds.com/cdn/shop/products/Screen_Shot_2017-11-05_at_10.12.47_AM_38649993-303b-468e-b09c-0c7ac0a7548f_480x480.png?v=1571899479"],
+    "auction_end_time": "14:00:00Z",
+    "auction_start_time": "12:30:00Z"
+  },
+  {
+    "item_id": 2,
+    "name": "Gold Hoop Earrings",
+    "category": "Jewellery",
+    "starting_bid": 4999.99,
+    "description": "A classic and versatile pair of gold hoop earrings. Available in various sizes to suit your style.",
+    "image_urls": ["https://th.bing.com/th/id/OIP.lz0u6HypHdc4lIJSaO-pfQHaHa?rs=1&pid=ImgDetMain"],
+    "auction_end_time": "11:00:00",
+    "auction_start_time": "09:30:00"
+ 
+  },
+  {
+    "item_id": 3,
+    "name": "Pearl Necklace",
+    "category": "Jewellery",
+    "starting_bid": 7999.99,
+    "description": "A sophisticated and elegant pearl necklace. Adds a touch of class to any outfit.",
+    "image_urls": ["https://i.etsystatic.com/7311825/r/il/d18a4c/2075194920/il_fullxfull.2075194920_hag7.jpg"],
+    "auction_end_time": "09:30:00",
+    "auction_start_time": "08:00:00"  
+  },
+  {
+    "item_id": 4,
+    "name": "Layered Pendant Necklace",
+    "category": "Jewellery",
+    "starting_bid": 3900.99,
+    "description": "A trendy and stylish layered pendant necklace. Perfect for adding a touch of personality to your look.",
+    "image_urls": ["https://www.puravidabracelets.com/collections/necklaces/layered-necklaces"],
+    "auction_end_time":"12:30:00",
+    "auction_start_time": "11:00:00"
+  },
+  {
+    "item_id": 5,
+    "name": "Gold Tennis Bracelet",
+    "category": "Jewellery",
+    "starting_bid": 1499.99,
+    "description": "A timeless and luxurious gold tennis bracelet. A staple piece for any jewellery collection.",
+    "image_urls": ["https://th.bing.com/th/id/OIP.EJ3_TeAI2HofoIOZVkocUQHaG1?rs=1&pid=ImgDetMain"],
+    "auction_end_time": "13:00:00",
+    "auction_start_time": "11:30:00"  
+  },
+  {
+    "item_id": 6,
+    "name": "Charm Bracelet",
+    "category": "Jewellery",
+    "starting_bid": 2900.99,
+    "description": "A personalized and sentimental charm bracelet. You can add or remove charms to create your own unique piece.",
+    "image_urls": ["https://th.bing.com/th/id/OIP.br7TcuZLJKJj1sNAwN2_vgHaHa?w=184&h=183&c=7&r=0&o=5&dpr=1.5&pid=1.7"],
+    "auction_end_time": "11:00:00",
+    "auction_start_time": "09:00:00"  
+  },
+  {
+    "item_id": 7,
+    "name": "Men's Leather Watch with Silver Accents",
+    "category": "Jewellery",
+    "starting_bid": 8900.99,
+    "description": "A stylish and sophisticated men's watch with a leather band and silver accents. Perfect for everyday wear or dressier occasions.",
+    "image_urls": ["https://th.bing.com/th/id/OIP.-oeU-HZfO46ncOnZpU0BDgHaHa?rs=1&pid=ImgDetMain"],
+    "auction_end_time": "17:00:00",
+    "auction_start_time": "15:00:00"
+  },
+  {
+    "item_id": 8,
+    "name": "Delicate Silver Necklace",
+    "category": "Jewellery",
+    "starting_bid": 2490.99,
+    "description": "A dainty and feminine silver necklace. Perfect for layering with other pieces or wearing on its own.",
+    "image_urls": ["https://th.bing.com/th/id/OIP.V99NW2IzdE-DxS6uXgPXCAHaHa?rs=1&pid=ImgDetMain"],
+    "auction_end_time": "19:00:00",
+    "auction_start_time": "17:00:00"
+  },
+  {
+    "item_id": 9,
+    "name": "Statement Cocktail Ring",
+    "category": "Jewellery",
+    "starting_bid": 3900.00,
+    "description": "A bold and eye-catching cocktail ring. Exact details and starting bid will be confirmed upon inspection.",
+    "image_urls": ["https://th.bing.com/th/id/OIP.-WY7zW72TBAXnz3SwpduSwHaHa?w=182&h=182&c=7&r=0&o=5&dpr=1.5&pid=1.7"],
+    "auction_end_time": "21:00:00",
+    "auction_start_time": "19:00:00"
+  },
+  {
+    "item_id": 10,
+    "name": "Gemstone Bracelet",
+    "category": "Jewellery",
+    "starting_bid": 99.99,
+    "description": "A beautiful and unique bracelet featuring a variety of gemstones. Select gem types may vary.",
+    "image_urls": ["https://th.bing.com/th/id/OIP.aBXsQQpp7TwFFHtxAynDowHaHa?w=184&h=184&c=7&r=0&o=5&dpr=1.5&pid=1.7"],
+    "auction_end_time": "23:00:00",
+    "auction_start_time": "21:00:00"
+  }
+]}

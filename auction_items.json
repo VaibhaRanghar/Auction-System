@@ -1,0 +1,711 @@
+[
+    {
+      "item_id": 1,
+      "name": "Vintage Camera (nikon)",
+      "description": "A well-maintained vintage camera in excellent working condition.",
+      "category": "Antiques & Collectibles",
+      "starting_bid": 10000.00,
+      "image_urls": ["https://wallpapercave.com/wp/wp8027576.jpg"],
+      "auction_end_time": "2024-05-10T15:00:00Z"
+    },
+    {
+      "item_id": 2,
+      "name": "Rare Book ",
+      "description": "A first edition copy of book in best Condition.",
+      "category": "Antiques & Collectibles",
+      "starting_bid": 500.00,
+      "image_urls": ["https://img1.etsystatic.com/021/1/6298060/il_fullxfull.489255289_nkk0.jpg"],
+      "auction_end_time": "2024-04-25T20:00:00Z"
+    },
+    {
+      "item_id": 3,
+      "name": "Antique Furniture (chair)",
+      "description": "A beautiful (chair) antique furniture piece from the (1970) in good condition.",
+      "category": "Antiques & Collectibles",
+      "starting_bid": 100.00,
+      "image_urls": ["https://images.saymedia-content.com/.image/t_share/MTc0MzU1NDYxOTgxMDg3MzY2/aguidetoantiquechairidentification.jpgg"],
+      "auction_end_time": "2024-05-03T08:00:00Z"
+    },
+    {
+      "item_id": 4,
+      "name": "Sports Memorabilia (Player, Team, Item)",
+      "description": "A signed (Item) by (Player) from the (Team).",
+      "category": "Antiques & Collectibles",
+      "starting_bid": 75.00,
+      "image_urls": ["https://wickedmemorabilia.com.au/cdn/shop/products/JordanSignedRookieJerseyUpperdeck_600x.jpg?v=1609582498"],
+      "auction_end_time": "2024-04-29T10:00:00Z"
+    },
+    {
+      "item_id": 5,
+      "name": "Coin Collection (Year Range, Country)",
+      "description": "A collection of (Number) coins from (Year Range) from (Country).",
+      "category": "Antiques & Collectibles",
+      "starting_bid": 30.00,
+      "image_urls": ["https://example.com/coin_collection_image1.jpg"],
+      "auction_end_time": "2024-05-12T18:00:00Z"
+    },
+    {
+      "item_id": 6,
+      "name": "Movie Poster (Title, Year)",
+      "description": "An original movie poster for the film (Title) from (Year).",
+      "category": "Antiques & Collectibles",
+      "starting_bid": 150.00,
+      "image_urls": ["https://example.com/poster_image1.jpg"],
+      "auction_end_time": "2024-04-22T05:00:00Z"
+    },
+    {
+      "item_id": 7,
+      "name": "Vintage Jewelry (Type)",
+      "description": "A beautiful piece of vintage (Type) jewelry from the (Era).",
+      "category": "Antiques & Collectibles",
+      "starting_bid": 125.00,
+      "image_urls": ["https://example.com/jewelry_image1.jpg"],
+      "auction_end_time": "2024-05-06T12:00:00Z"
+    },
+    {
+      "item_id": 8,
+      "name": "Pocket Watch (Brand, Year)",
+      "description": "A vintage pocket watch from (Brand) made in (Year).",
+      "category": "Antiques & Collectibles",
+      "starting_bid": 200.00,
+      "image_urls": ["https://example.com/watch_image1.jpg"],
+      "auction_end_time":"2024-05-10T15:00:00Z"
+    },
+
+    
+  {
+    "item_id": 1,
+    "name": "High-End Gaming Laptop (Brand, Model)",
+    "description": "A powerful gaming laptop with the latest graphics card, perfect for AAA titles. Includes (RAM) GB RAM and (Storage) GB storage.",
+    "category": "Electronics",
+    "starting_bid": 800.00,
+    "image_urls": ["https://example.com/laptop_image1.jpg"],
+    "auction_end_time": "2024-04-27T12:00:00Z"
+  },
+  {
+    "item_id": 2,
+    "name": "Smartphones (Various Brands)",
+    "description": "A selection of unlocked smartphones from popular brands (Brand 1, Brand 2, etc.) with different features and specifications.",
+    "category": "Electronics",
+    "starting_bid": 200.00,
+    "image_urls": ["https://example.com/smartphones_image1.jpg"],
+    "auction_end_time": "2024-05-03T18:00:00Z"
+  },
+  {
+    "item_id": 3,
+    "name": "Noise-Cancelling Headphones (Brand, Model)",
+    "description": "A pair of high-quality noise-canceling headphones from (Brand) with excellent audio quality and long battery life.",
+    "category": "Electronics",
+    "starting_bid": 150.00,
+    "image_urls": ["https://example.com/headphones_image1.jpg"],
+    "auction_end_time": "2024-04-22T05:00:00Z"
+  },
+  {
+    "item_id": 4,
+    "name": "Smart Speaker with Voice Assistant (Brand)",
+    "description": "A smart speaker from (Brand) with a built-in voice assistant, perfect for controlling smart home devices and playing music.",
+    "category": "Electronics",
+    "starting_bid": 50.00,
+    "image_urls": ["https://example.com/speaker_image1.jpg"],
+    "auction_end_time": "2024-04-29T10:00:00Z"
+  },
+  {
+    "item_id": 5,
+    "name": "Virtual Reality Headset (Brand, Model)",
+    "description": "A virtual reality headset from (Brand) with stunning visuals and immersive gameplay.",
+    "category": "Electronics",
+    "starting_bid": 300.00,
+    "image_urls": ["https://example.com/vr_headset_image1.jpg"],
+    "auction_end_time": "2024-05-10T15:00:00Z"
+  },
+  {
+    "item_id": 6,
+    "name": "4K Ultra HD Television (Size)",
+    "description": "A large-screen 4K Ultra HD television with a size of (Size) inches, perfect for watching movies and shows in stunning detail.",
+    "category": "Electronics",
+    "starting_bid": 500.00,
+    "image_urls": ["https://example.com/tv_image1.jpg"],
+    "auction_end_time": "2024-04-25T20:00:00Z"
+  },
+  {
+    "item_id": 7,
+    "name": "Instant Camera (Brand)",
+    "description": "A fun and easy-to-use instant camera from (Brand) that captures photos and prints them out instantly.",
+    "category": "Electronics",
+    "starting_bid": 75.00,
+    "image_urls": ["https://example.com/instant_camera_image1.jpg"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 8,
+    "name": "Wireless Earbuds (Brand, Model)",
+    "description": "A pair of true wireless earbuds from (Brand) with excellent sound quality and a comfortable.",
+    "category":"Electronics",
+    "starting_bid":800.00,
+    "image_urls":["https://example.com/earbuds_image1.jpg"],
+    "auction_end_time":"2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 1,
+    "name": "Canvas Print - Abstract Landscape",
+    "category": "Art and Decoration",
+    "starting_bid": 49.99,
+    "description": "A vibrant abstract landscape printed on high-quality canvas",
+    "image_urls": ["IMAGE_URL_1"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 2,
+    "name": "Ceramic Vase - Modern Design",
+    "category": "Art and Decoration",
+    "starting_bid": 34.99,
+    "description": "Sleek and modern ceramic vase in a variety of colors",
+    "image_urls": ["IMAGE_URL_2"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 3,
+    "name": "Metal Sculpture - Geometric Art",
+    "category": "Art and Decoration",
+    "starting_bid": 99.99,
+    "description": "Unique geometric metal sculpture for a contemporary touch",
+    "image_urls": ["IMAGE_URL_3"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 4,
+    "name": "Woven Throw Blanket",
+    "category": "Art and Decoration",
+    "starting_bid": 69.99,
+    "description": "Cozy and stylish woven throw blanket in luxurious materials",
+    "image_urls": ["IMAGE_URL_4"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 5,
+    "name": "Framed Vintage Poster",
+    "category": "Art and Decoration",
+    "starting_bid": 75.99,
+    "description": "Vintage poster with a classic design, framed for display",
+    "image_urls": ["IMAGE_URL_5"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 6,
+    "name": "Set of Decorative Pillows",
+    "category": "Art and Decoration",
+    "starting_bid": 44.99,
+    "description": "Set of decorative throw pillows to add a pop of color",
+    "image_urls": ["IMAGE_URL_6"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 7,
+    "name": "Abstract Tabletop Sculpture",
+    "category": "Art and Decoration",
+    "starting_bid": 29.99,
+    "description": "Small abstract sculpture, perfect for a table centerpiece",
+    "image_urls": ["IMAGE_URL_7"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 8,
+    "name": "Woven Wall Tapestry",
+    "category": "Art and Decoration",
+    "starting_bid": 89.99,
+    "description": "Unique woven wall tapestry with a rich visual texture",
+    "image_urls": ["IMAGE_URL_8"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 9,
+    "name": "Modern Wall Clock",
+    "category": "Art and Decoration",
+    "starting_bid": 54.99,
+    "description": "Stylish and functional modern wall clock",
+    "image_urls": ["IMAGE_URL_9"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 10,
+    "name": "Black and White Photography Print",
+    "category": "Art and Decoration",
+    "starting_bid": 39.99,
+    "description": "Striking black and white photography print framed for display",
+    "image_urls": ["IMAGE_URL_10"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+
+  {
+    "item_id": 1,
+    "name": "Mid-Century Modern Armchair",
+    "category": "Furniture_and Home Decoration",
+    "starting_bid": 199.99,
+    "description": "Stylish and comfortable mid-century modern armchair",
+    "image_urls": ["IMAGE_URL_1"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 2,
+    "name": "Woven Area Rug",
+    "category": "Furniture_and Home Decoration",
+    "starting_bid": 79.99,
+    "description": "Soft and stylish woven area rug in various sizes and patterns",
+    "image_urls": ["IMAGE_URL_2"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 3,
+    "name": "Dining Table Set",
+    "category": "Furniture_and Home Decoration",
+    "starting_bid": 349.99,
+    "description": "Modern dining table set with chairs, perfect for gatherings",
+    "image_urls": ["IMAGE_URL_3"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 4,
+    "name": "Set of Decorative Throw Pillows",
+    "category": "Furniture_and Home Decoration",
+    "starting_bid": 29.99,
+    "description": "Set of decorative throw pillows to add comfort and style",
+    "image_urls": ["IMAGE_URL_4"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 5,
+    "name": "Coffee Table with Storage",
+    "category": "Furniture_and Home Decoration",
+    "starting_bid": 149.99,
+    "description": "Functional coffee table with storage compartments",
+    "image_urls": ["IMAGE_URL_5"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 6,
+    "name": "Modern Floor Lamp",
+    "category": "Furniture_and Home Decoration",
+    "starting_bid": 59.99,
+    "description": "Stylish floor lamp for ambient lighting",
+    "image_urls": ["IMAGE_URL_6"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 7,
+    "name": "Queen-Size Bed Frame",
+    "category": "Furniture_and Home Decoration",
+    "starting_bid": 229.99,
+    "description": "Sturdy and comfortable queen-size bed frame",
+    "image_urls": ["IMAGE_URL_7"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 8,
+    "name": "Set of Ceramic Vases",
+    "category": "Furniture_and Home Decoration",
+    "starting_bid": 34.99,
+    "description": "Set of decorative ceramic vases in various sizes and colors",
+    "image_urls": ["IMAGE_URL_8"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 9,
+    "name": "Outdoor Patio Furniture Set",
+    "category": "Furniture_and Home Decoration",
+    "starting_bid": 499.99,
+    "description": "Relaxing outdoor patio furniture set for enjoying the sunshine",
+    "image_urls": ["IMAGE_URL_9"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 10,
+    "name": "Wall Mirror with Decorative Frame",
+    "category": "Furniture_and Home Decoration",
+    "starting_bid": 74.99,
+    "description": "Elegant wall mirror with a decorative frame for added style",
+    "image_urls": ["IMAGE_URL_10"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 11,
+    "name": "Scandinavian-Style Sofa",
+    "category": "Furniture_and Home Decoration",
+    "starting_bid": 599.99,
+    "description": "Sleek and minimalist Scandinavian-style sofa",
+    "image_urls": ["IMAGE_URL_11"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 12,
+    "name": "Luxury Throw Blanket",
+    "category": "Furniture_and Home Decoration",
+    "starting_bid": 99.99,
+    "description": "Luxuriously soft and warm throw blanket",
+    "image_urls": ["IMAGE_URL_12"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+
+{
+    "item_id": 1,
+    "name": "Used Sedan - Reliable & Affordable",
+    "category": "Vehicles",
+    "starting_bid": 599999.00,
+    "description": "A reliable and fuel-efficient used sedan, perfect for everyday driving. Make and model details to be provided upon winning the auction.",
+    "image_urls": ["IMAGE_URL_1"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 2,
+    "name": "Classic Motorcycle - Restored Vintage Beauty",
+    "category": "Vehicles",
+    "starting_bid": 89999.00,
+    "description": "A meticulously restored classic motorcycle, a head-turner for any enthusiast. Year, make, and model details to be provided upon winning the auction.",
+    "image_urls": ["IMAGE_URL_2"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 3,
+    "name": "Electric Scooter - Eco-Friendly & Fun",
+    "category": "Vehicles",
+    "starting_bid": 89999.00,
+    "description": "A brand-new electric scooter, perfect for short commutes and eco-conscious riders. Make and model details to be provided upon winning the auction.",
+    "image_urls": ["IMAGE_URL_3"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 4,
+    "name": "Luxury SUV - Spacious & Powerful",
+    "category": "Vehicles",
+    "starting_bid": 299999.00,
+    "description": "A luxurious and powerful SUV, offering comfort and performance. Make and model details to be provided upon winning the auction.",
+    "image_urls": ["IMAGE_URL_4"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 5,
+    "name": "Off-Road Truck - Adventure Awaits",
+    "category": "Vehicles",
+    "starting_bid": 1599999.00,
+    "description": "A capable off-road truck, ready for your next adventure. Make and model details to be provided upon winning the auction.",
+    "image_urls": ["IMAGE_URL_5"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 6,
+    "name": "Custom Motorcycle - A Work of Art",
+    "category": "Vehicles",
+    "starting_bid": 99999.00,
+    "description": "A one-of-a-kind custom motorcycle, built with passion and precision. Details and starting bid to be confirmed upon final inspection.",
+    "image_urls": ["IMAGE_URL_6"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 7,
+    "name": "Electric Car - The Future of Driving",
+    "category": "Vehicles",
+    "starting_bid": 349999.00,
+    "description": "A sleek and innovative electric car, offering a sustainable driving experience. Make and model details to be provided upon winning the auction.",
+    "image_urls": ["IMAGE_URL_7"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 8,
+    "name": "Vintage Sports Car - A Timeless Classic",
+    "category": "Vehicles",
+    "starting_bid": 1299900.00,
+    "description": "A beautiful and well-maintained vintage sports car, a collector's dream. Year, make, and model details to be provided upon winning the auction.",
+    "image_urls": ["IMAGE_URL_8"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 9,
+    "name": "Family Van - Comfort for All",
+    "category": "Vehicles",
+    "starting_bid": 799900.00,
+    "description": "A reliable and comfortable family van, perfect for road trips and everyday adventures. Make and model details to be provided upon winning the auction.",
+    "image_urls": ["IMAGE_URL_9"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+  {
+    "item_id": 10,
+    "name": "Motorcycle Helmet - Safety in Style",
+    "category": "Vehicles",
+    "starting_bid": 1990.00,
+    "description": "A high-quality motorcycle helmet for safe and stylish riding. Make, model, and size details to be provided upon winning the auction.",
+    "image_urls": ["IMAGE_URL_10"],
+    "auction_end_time": "2024-05-12T18:00:00Z"
+  },
+
+  {
+    "item_id": 1,
+    "name": "Charming Bungalow in Quiet Neighborhood",
+    "category": "Real Estate",
+    "starting_bid": "Price Upon Request",
+    "description": "A delightful bungalow offering cozy living in a peaceful neighborhood. Details like square footage, bedrooms, and bathrooms will be provided upon inquiry.",
+    "image_urls": ["IMAGE_URL_1"],
+    "auction_end_time": "2024-05-25T00:00:00Z"  
+  },
+  {
+    "item_id": 2,
+    "name": "Modern Condo with City Views",
+    "category": "Real Estate",
+    "starting_bid": "Price Upon Request",
+    "description": "Sleek and modern condo boasting stunning city views. Details like square footage, bedrooms, and bathrooms will be provided upon inquiry.",
+    "image_urls": ["IMAGE_URL_2"],
+    "auction_end_time": "2024-06-10T12:00:00Z"  
+  },
+  {
+    "item_id": 3,
+    "name": "Spacious Family Home in Desirable Area",
+    "category": "Real Estate",
+    "starting_bid": "Price Upon Request",
+    "description": "A spacious and inviting family home in a highly sought-after area. Details like square footage, bedrooms, and bathrooms will be provided upon inquiry.",
+    "image_urls": ["IMAGE_URL_3"],
+    "auction_end_time": "2024-07-15T23:59:00Z"  
+  },
+  {
+    "item_id": 4,
+    "name": "Luxury Estate with Private Pool",
+    "category": "Real Estate",
+    "starting_bid": "Price Upon Request",
+    "description": "An opulent estate featuring luxurious amenities and a private pool. Details like square footage, bedrooms, and bathrooms will be provided upon inquiry.",
+    "image_urls": ["IMAGE_URL_4"],
+    "auction_end_time": "2024-08-01T18:00:00Z"  
+  },
+  {
+    "item_id": 5,
+    "name": "Cozy Cabin Retreat in the Mountains",
+    "category": "Real Estate",
+    "starting_bid": "Price Upon Request",
+    "description": "A charming cabin nestled in the mountains, perfect for nature enthusiasts. Details like square footage, bedrooms, and bathrooms will be provided upon inquiry.",
+    "image_urls": ["IMAGE_URL_5"],
+    "auction_end_time": "2024-09-09T05:00:00Z"  
+  },
+  {
+    "item_id": 6,
+    "name": "Historic Victorian Townhouse",
+    "category": "Real Estate",
+    "starting_bid": "Price Upon Request",
+    "description": "A beautifully restored Victorian townhouse steeped in history. Details like square footage, bedrooms, and bathrooms will be provided upon inquiry.",
+    "image_urls": ["IMAGE_URL_6"],
+    "auction_end_time": "2024-10-20T10:30:00Z"  
+  },
+  {
+    "item_id": 7,
+    "name": "Beachfront Property with Breathtaking Views",
+    "category": "Real Estate",
+    "starting_bid": "Price Upon Request",
+    "description": "A dream beachfront property offering stunning ocean views. Details like square footage, bedrooms, and bathrooms will be provided upon inquiry.",
+    "image_urls": ["IMAGE_URL_7"],
+    "auction_end_time": "2024-11-17T15:00:00Z"  
+  },
+  {
+    "item_id": 8,
+    "name": "Studio Apartment in Prime Location",
+    "category": "Real Estate",
+    "starting_bid": "Price Upon Request",
+    "description": "A functional studio apartment in a vibrant and central location. Details like square footage and amenities will be provided upon inquiry.",
+    "image_urls": ["IMAGE_URL_8"],
+    "auction_end_time": "2024-11-17T15:00:00Z"
+  },
+  {
+    "item_id": 9,
+    "name": "Investment Opportunity: Apartment Building",
+    "category": "Real Estate",
+    "starting_bid": "Price Upon Request",
+    "description": "A multi-unit apartment building offering a great investment opportunity. Details like number of units and square footage will be provided upon inquiry.",
+    "image_urls": ["IMAGE_URL_9"],
+    "auction_end_time": "2024-11-17T15:00:00Z"
+  },
+  {
+    "item_id": 10,
+    "name": "Commercial Property with High Visibility",
+    "category": "Real Estate",
+    "starting_bid": "Price Upon Request",
+    "description": "A commercial property with excellent visibility and prime location. Details like square footage and zoning will be provided upon inquiry.",
+    "image_urls": ["IMAGE_URL_10"],
+    "auction_end_time": "2024-11-17T15:00:00Z"
+  },
+  
+  {
+    "item_id": 1,
+    "name": "Flowy Floral Maxi Dress",
+    "category": "Fashion",
+    "starting_bid": 39.99,
+    "description": "A breezy and elegant maxi dress with a beautiful floral print. Perfect for summer days or special occasions.",
+    "image_urls": ["https://www.nordstrom.com/browse/women/clothing/dresses/floral?filterByStyle=maxi"],
+    "auction_end_time": "2024-10-20T10:30:00Z"  
+  },
+  {
+    "item_id": 2,
+    "name": "Classic Leather Jacket",
+    "category": "Fashion",
+    "starting_bid": 99.99,
+    "description": "A timeless and versatile leather jacket that will never go out of style. Adds a touch of edge to any outfit.",
+    "image_urls": ["https://www.nordstrom.com/browse/women/clothing/coats-jackets/leather-coats?filterByColor=black"],
+    "auction_end_time": "2024-10-20T10:30:00Z"  
+  },
+  {
+    "item_id": 3,
+    "name": "Comfy Cashmere Sweater",
+    "category": "Fashion",
+    "starting_bid": 79.99,
+    "description": "A luxurious and soft cashmere sweater that will keep you warm and stylish. Perfect for layering in colder weather.",
+    "image_urls": ["https://www.nordstrom.com/browse/women/clothing/sweaters/cashmere-sweaters"],
+    "auction_end_time": "2024-10-20T10:30:00Z"  
+  },
+  {
+    "item_id": 4,
+    "name": "Trendy Mom Jeans",
+    "category": "Fashion",
+    "starting_bid": 49.99,
+    "description": "High-waisted and relaxed-fit mom jeans, a current fashion staple. Flattering and comfortable for everyday wear.",
+    "image_urls": ["https://www.ae.com/us/en/c/women/jeans/mom-jeans/cat8230077"],
+    "auction_end_time": "2024-10-20T10:30:00Z"  
+  },
+  {
+    "item_id": 5,
+    "name": "Statement Earrings",
+    "category": "Fashion",
+    "starting_bid": 19.99,
+    "description": "A pair of eye-catching earrings that will add personality to any outfit. Available in various styles and colors.",
+    "image_urls": ["https://www.kendrascott.com/jewelry/statement-earrings/"],
+    "auction_end_time": "2024-10-20T10:30:00Z"  
+  },
+  {
+    "item_id": 6,
+    "name": "Minimalist Watch",
+    "category": "Fashion",
+    "starting_bid": 59.99,
+    "description": "A sleek and sophisticated watch with a clean design. Perfect for everyday wear or dressier occasions.",
+    "image_urls": ["https://mavenwatches.com/collections/minimalist-watches"],
+    "auction_end_time": "2024-10-20T10:30:00Z"  
+  },
+  {
+    "item_id": 7,
+    "name": "Designer Sunglasses",
+    "category": "Fashion",
+    "starting_bid": 39.00,
+    "description": "A pair of stylish sunglasses from a renowned designer. Exact details and starting bid will be confirmed upon inspection.",
+    "image_urls": ["https://www.nordstrom.com/browse/women/accessories/sunglasses/designer-sunglasses-eyewear"],
+    "auction_end_time": "2024-10-20T10:30:00Z"  
+  },
+  {
+    "item_id": 8,
+    "name": "Cozy Knit Scarf",
+    "category": "Fashion",
+    "starting_bid": 24.99,
+    "description": "A warm and comfortable knit scarf, perfect for adding a touch of style and warmth during colder weather.",
+    "image_urls": ["https://sarahmaker.com/knit-scarf/"],
+    "auction_end_time": "2024-10-20T10:30:00Z"  
+  },
+  {
+    "item_id": 9,
+    "name": "Stylish Handbag",
+    "category": "Fashion",
+    "starting_bid": 69.99,
+    "description": "A functional and fashionable handbag, available in various styles and sizes to suit your needs.",
+    "image_urls": ["https://www.nordstrom.com/browse/women/handbags"],
+    "auction_end_time": "2024-10-20T10:30:00Z"  
+  },
+  {
+    "item_id": 10,
+    "name": "Luxury Sneakers",
+    "category": "Fashion",
+    "starting_bid": 129.99,
+    "description": "A pair of high-end sneakers from a popular brand. Comfortable and stylish, perfect for everyday wear or athletic activities.",
+    "image_urls": ["https://www.saksfifthavenue.com/c/shoes/shoes/sneakers"],
+    "auction_end_time": "2024-10-20T10:30:00Z"  
+  },
+
+{
+    "item_id": 1,
+    "name": "Diamond Stud Earrings",
+    "category": "Jewellery",
+    "starting_bid": 19990.99,
+    "description": "A timeless and elegant pair of diamond stud earrings. Perfect for everyday wear or special occasions.",
+    "image_urls": ["https://www.bluestone.com/jewellery/diamond-earrings.html"],
+    "auction_end_time": "2024-05-25T00:00:00Z"  
+  },
+  {
+    "item_id": 2,
+    "name": "Gold Hoop Earrings",
+    "category": "Jewellery",
+    "starting_bid": 49990.99,
+    "description": "A classic and versatile pair of gold hoop earrings. Available in various sizes to suit your style.",
+    "image_urls": ["https://www.macys.com/shop/jewelry/gold-hoop-earrings?pd=001&sort=ASCENDING&facet=jewelry_metal%3AGold"],
+    "auction_end_time": "2024-06-10T12:00:00Z"  
+  },
+  {
+    "item_id": 3,
+    "name": "Pearl Necklace",
+    "category": "Jewellery",
+    "starting_bid": 79999.99,
+    "description": "A sophisticated and elegant pearl necklace. Adds a touch of class to any outfit.",
+    "image_urls": ["https://www.tiffany.com/jewelry/necklaces/pearl-necklaces/"],
+    "auction_end_time": "2024-07-15T23:59:00Z"  
+  },
+  {
+    "item_id": 4,
+    "name": "Layered Pendant Necklace",
+    "category": "Jewellery",
+    "starting_bid": 39000.99,
+    "description": "A trendy and stylish layered pendant necklace. Perfect for adding a touch of personality to your look.",
+    "image_urls": ["https://www.puravidabracelets.com/collections/necklaces/layered-necklaces"],
+    "auction_end_time": "2024-08-01T18:00:00Z"  
+  },
+  {
+    "item_id": 5,
+    "name": "Gold Tennis Bracelet",
+    "category": "Jewellery",
+    "starting_bid": 14999.99,
+    "description": "A timeless and luxurious gold tennis bracelet. A staple piece for any jewellery collection.",
+    "image_urls": ["https://www.kay.com/jewelry/bracelets/tennis-bracelets/gold-tennis-bracelets/"],
+    "auction_end_time": "2024-09-09T05:00:00Z"  
+  },
+  {
+    "item_id": 6,
+    "name": "Charm Bracelet",
+    "category": "Jewellery",
+    "starting_bid": 29000.99,
+    "description": "A personalized and sentimental charm bracelet. You can add or remove charms to create your own unique piece.",
+    "image_urls": ["https://www.pandora.net/en-au/jewelry/bracelets/charm-bracelets.html"],
+    "auction_end_time": "2024-10-20T10:30:00Z"  
+  },
+  {
+    "item_id": 7,
+    "name": "Men's Leather Watch with Silver Accents",
+    "category": "Jewellery",
+    "starting_bid": 89000.99,
+    "description": "A stylish and sophisticated men's watch with a leather band and silver accents. Perfect for everyday wear or dressier occasions.",
+    "image_urls": ["https://www.fossil.com/shop/men/watches/leather/grant-leather-watch.html"],
+    "auction_end_time": "2024-10-20T05:00:00Z"
+  },
+  {
+    "item_id": 8,
+    "name": "Delicate Silver Necklace",
+    "category": "Jewellery",
+    "starting_bid": 24900.99,
+    "description": "A dainty and feminine silver necklace. Perfect for layering with other pieces or wearing on its own.",
+    "image_urls": ["https://www.jamesallen.com/jewelry/necklaces/by-metal/silver/"],
+    "auction_end_time": "2024-09-09T05:00:00Z"  
+  },
+  {
+    "item_id": 9,
+    "name": "Statement Cocktail Ring",
+    "category": "Jewellery",
+    "starting_bid": 39000.00,
+    "description": "A bold and eye-catching cocktail ring. Exact details and starting bid will be confirmed upon inspection.",
+    "image_urls": ["https://www.macys.com/shop/jewelry/cocktail-rings?pd=001&sort=ASCENDING&facet=jewelry_type%3ACocktail%20Rings"],
+    "auction_end_time": "2024-09-09T05:00:00Z"  
+  },
+  {
+    "item_id": 10,
+    "name": "Gemstone Bracelet",
+    "category": "Jewellery",
+    "starting_bid": 99.99,
+    "description": "A beautiful and unique bracelet featuring a variety of gemstones. Select gem types may vary.",
+    "image_urls": ["https://www.bluenile.com/jewelry/bracelets/gemstone-bracelets"],
+    "auction_end_time": "2025-02-02T12:30:00Z"  
+  }
+]
