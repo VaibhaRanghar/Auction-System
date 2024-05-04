@@ -20,7 +20,13 @@ export default function SlideBar() {
       </h2>
       <div className="grid grid-cols-4 justify-around  items-center gap-10 mt-36 pb-48 w-[80%]">
         {categories.map((cat) => {
-          return <Category name={cat} letter={cat.charAt(0) + cat.charAt(1)} />;
+          return (
+            <Category
+              key={cat}
+              name={cat}
+              letter={cat.charAt(0) + cat.charAt(1)}
+            />
+          );
         })}
       </div>
     </div>
@@ -28,7 +34,6 @@ export default function SlideBar() {
 }
 
 function Category({ name, letter }) {
-  console.log(letter);
   return (
     <div className="relative hover:scale-110 transition-all duration-500">
       <div
@@ -44,7 +49,7 @@ function Category({ name, letter }) {
 
 export function HeadingWithSvg({ heading }) {
   return (
-    <div class="flex items-center space-x-2">
+    <div className="flex items-center space-x-2">
       <svg
         width="70"
         height="19"

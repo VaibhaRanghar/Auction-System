@@ -6,16 +6,31 @@ import SlideBar from "./components/SlideBar";
 import LiveAuction from "./components/LiveAuction";
 import Footer from "./components/Footer";
 import Explore from "./components/Explore";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+
+import Items from "./data/Items";
 
 function App() {
   return (
     <div>
       <NavBar />
-      <Home />
-      <hr className="p-5" />
-      <SlideBar />
-      <LiveAuction />
-      <Explore />
+      <BrowserRouter>
+        <Routes>
+          <Route
+            path="/"
+            element={
+              <div>
+                <Home />
+                <hr className="p-5" />
+                <SlideBar />
+                <LiveAuction />
+                <Explore />
+              </div>
+            }
+          />
+          <Route path="/products-list" element={<Items />} />
+        </Routes>
+      </BrowserRouter>
       <Footer />
     </div>
   );

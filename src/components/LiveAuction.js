@@ -69,7 +69,8 @@ function ItemCard({ name, imageSource, biddingPrice, timeRemaining }) {
         <div className="text-gray-800 font-bold text-2xl truncate">{name}</div>
         <div className="flex justify-between items-center">
           <p className="text-gray-700 text-base flex gap-2">
-            Bidding Price: <p className="text-black">${biddingPrice}</p>
+            Bidding Price:{" "}
+            <strong className="text-black">${biddingPrice}</strong>
           </p>
         </div>
         <button className="mt-2 bg-emerald-500 hover:bg-emerald-700 text-white font-bold py-2 px-4 w-max rounded-full focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-emerald-700">

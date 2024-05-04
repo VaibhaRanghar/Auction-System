@@ -7,38 +7,49 @@ export default function Items() {
       const res = await fetch("http://localhost:1000/data");
       const data = await res.json();
       setItems(data);
+      console.log(items);
     };
     fetchData();
   }, []);
-  console.log(items);
 
   return (
-    <div>
-      <ItemCard
-        name={items[0].name}
-        image={items[0].image_urls}
-        description={items[0].description}
-        price={items[0].starting_bid}
-        startingTime={items[0].auction_start_time}
-      />
+    <div className="flex flex-col ">
+      {items.map((item) => {
+        return (
+          <ItemCard
+            key={item.name}
+            name={item.name}
+            image={item.image_urls}
+            description={item.description}
+            price={item.starting_bid}
+            startingTime={item.auction_start_time}
+          />
+        );
+      })}
     </div>
   );
 }
 
 function ItemCard({ name, image, description, price, startingTime }) {
   return (
-    <div className="flex justify-center gap-5 p-10">
-      <img src={image} alt="items" className="w-1/2" />
-
-      <div>
+    <div className="flex justify-start  m-5 p-3 rounded-lg shadow-xl hover:shadow-slate-300   ">
+      <img
+        src={image}
+        alt="items"
+        className=" aspect-square object-contain min-w-96 max-w-96"
+      />
+      {/* w-1/2 */}
+      <div className="w-full">
         <div className="p-5 flex flex-col gap-5">
           <h1 className="text-3xl font-bold ">{name}.</h1>
           <p className="text-lg ">{description}</p>
           <span className="text-xl">Bidding Price: ${price}</span>
         </div>
         <div className="p-5 flex flex-col gap-3 justify-self-end">
+          <p className="text-slate-500 text-lg">
+            Bid Amount: Minimum Bid $ {price}
+          </p>
           <h2 className="text-xl font-bold">Bid Now</h2>
-          <p className="text-slate-500">Bid Amount: Minimum Bid $ {price}</p>
           <input
             placeholder="$00.00"
             className="p-2 border-black border-2 rounded-lg"
