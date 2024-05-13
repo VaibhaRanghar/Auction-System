@@ -1,10 +1,11 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
 
 const categories = [
   "Antiques & Collectibles",
   "Electronics",
-  "Decorations",
-  "Furniture",
+  "Art and Decoration",
+  "Furniture and Home Decoration",
   "Vehicles",
   "Real Estate",
   "Fashion",
@@ -34,8 +35,15 @@ export default function SlideBar() {
 }
 
 function Category({ name, letter }) {
+  const navigate = useNavigate();
   return (
-    <div className="relative hover:scale-110 transition-all duration-500">
+    <div
+      className="relative hover:scale-110 transition-all duration-500"
+      onClick={() => {
+        localStorage.setItem(name, name);
+        navigate("/products-list");
+      }}
+    >
       <div
         className={`bg-slate-200 z-0 text-white bg-image-${letter} rounded-tl-3xl rounded-br-3xl p-10 box-content min-w-20 min-h-8 h-24 flex justify-center `}
       ></div>

@@ -15,6 +15,8 @@ const categories = [
 ];
 
 export default function Items() {
+  
+
   const [items, setItems] = useState([]);
   const [showFilter, setShowFilter] = useState(false);
   const [filter, setFilters] = useState([]);
@@ -46,9 +48,24 @@ export default function Items() {
       }),
     ]);
   };
+
+  useEffect(() => {
+    function selectFilters() {
+      let i = 0;
+      while (i < localStorage.length) {
+        let value = localStorage.key(i);
+        if (categories.includes(value)) {
+          handleCategoriesSelect(value);
+          localStorage.removeItem(value);
+        }
+
+        i++;
+      }
+    }
+    selectFilters();
+  }, [filter]);
   return (
     <div>
-      {/* <Timer /> */}
       <div>
         <div
           className=" pl-2 pt-2 m-2 w-max flex text-xl rounded-full shadow-lg shadow-slate-200 cursor-pointer"
