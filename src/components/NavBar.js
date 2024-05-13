@@ -2,7 +2,7 @@ import React from "react";
 
 export default function NavBar() {
   return (
-    <div className="bg-slate-800 text-white flex justify-between">
+    <div className="bg-slate-800 text-white flex justify-between ">
       <div className="pl-4">
         <a className="p-2 flex items-center gap-3" href="/">
           <img src="./logo-trans.png" alt="logo" className="w-[60px]" />

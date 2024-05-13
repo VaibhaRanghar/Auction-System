@@ -108,8 +108,8 @@
     "category": "Electronics",
     "starting_bid": 25000.00,
     "image_urls": ["https://m.media-amazon.com/images/I/91zVSkGGZbS._SL1500_.jpg"],
-    "auction_end_time": "14:00:00Z",
-    "auction_start_time": "12:30:00Z"
+    "auction_end_time": "14:00:00",
+    "auction_start_time": "12:30:00"
   },
   {
     "item_id": 2,
@@ -287,7 +287,7 @@
   {
     "item_id": 1,
     "name": "Mid-Century Modern Armchair",
-    "category": "Furniture_and Home Decoration",
+    "category": "Furniture and Home Decoration",
     "starting_bid": 199.99,
     "description": "Stylish and comfortable mid-century modern armchair",
     "image_urls": ["https://epochfurnishings.com/wp-content/uploads/2017/10/mid-century-modern-walnut-spindled-back-armchair-baumritter-5.jpg"],
@@ -297,7 +297,7 @@
   {
     "item_id": 2,
     "name": "Woven Area Rug",
-    "category": "Furniture_and Home Decoration",
+    "category": "Furniture and Home Decoration",
     "starting_bid": 79.99,
     "description": "Soft and stylish woven area rug in various sizes and patterns",
     "image_urls": ["https://secure.img2-fg.wfcdn.com/im/d5ea3c03/resize-h2000-p1-w2000%5Ecompr-r85/3707/37075596/Grassmere+Hand-Woven+Area+Rug.jpg"],
@@ -307,7 +307,7 @@
   {
     "item_id": 3,
     "name": "Dining Table Set",
-    "category": "Furniture_and Home Decoration",
+    "category": "Furniture and Home Decoration",
     "starting_bid": 349.99,
     "description": "Modern dining table set with chairs, perfect for gatherings",
     "image_urls": ["https://images.furnituredealer.net/img/products/new_classic/color/oscar-1869927981_d1651-11%2B20-b3.jpg"],
@@ -317,7 +317,7 @@
   {
     "item_id": 4,
     "name": "Set of Decorative Throw Pillows",
-    "category": "Furniture_and Home Decoration",
+    "category": "Furniture and Home Decoration",
     "starting_bid": 299.99,
     "description": "Set of decorative throw pillows to add comfort and style",
     "image_urls": ["https://i5.walmartimages.com/asr/426e0787-23b9-429c-b10a-869590b3745d_1.88179e39ec6e2a1d1b4b82cdab987dcb.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff"],
@@ -337,7 +337,7 @@
   {
     "item_id": 6,
     "name": "Modern Floor Lamp",
-    "category": "Furniture_and Home Decoration",
+    "category": "Furniture and Home Decoration",
     "starting_bid": 59.99,
     "description": "Stylish floor lamp for ambient lighting",
     "image_urls": ["https://static.welldonestuff.com/images/modern_twist_lamp_contemporary.jpg"],
@@ -347,7 +347,7 @@
   {
     "item_id": 7,
     "name": "Queen-Size Bed Frame",
-    "category": "Furniture_and Home Decoration",
+    "category": "Furniture and Home Decoration",
     "starting_bid": 229.99,
     "description": "Sturdy and comfortable queen-size bed frame",
     "image_urls": ["https://i5.walmartimages.com/asr/5566947f-8e55-4281-8b59-e117b6e8e6f7.c503a7fb346c03279b2fc63c4207911c.jpeg"],
@@ -357,7 +357,7 @@
   {
     "item_id": 8,
     "name": "Set of Ceramic Vases",
-    "category": "Furniture_and Home Decoration",
+    "category": "Furniture and Home Decoration",
     "starting_bid": 34.99,
     "description": "Set of decorative ceramic vases in various sizes and colors",
     "image_urls": ["https://i.pinimg.com/originals/b7/ba/37/b7ba37e4dc299f407676544b272164e5.jpg"],
@@ -367,7 +367,7 @@
   {
     "item_id": 9,
     "name": "Outdoor Patio Furniture Set",
-    "category": "Furniture_and Home Decoration",
+    "category": "Furniture and Home Decoration",
     "starting_bid": 499.99,
     "description": "Relaxing outdoor patio furniture set for enjoying the sunshine",
     "image_urls": ["https://i5.walmartimages.com/asr/45566bec-5f9c-4412-aa65-e4c22bebcbb3_1.213fd2662100f20b04fe71ffe2f8559f.jpeg"],
@@ -378,7 +378,7 @@
   {
     "item_id": 10,
     "name": "Scandinavian-Style Sofa",
-    "category": "Furniture_and Home Decoration",
+    "category": "Furniture and Home Decoration",
     "starting_bid": 599.99,
     "description": "Sleek and minimalist Scandinavian-style sofa",
     "image_urls": ["https://uk.privatefloor.com/images/variations/5096.jpeg"],

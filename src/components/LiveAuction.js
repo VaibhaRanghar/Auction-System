@@ -1,5 +1,6 @@
 import React from "react";
 import { HeadingWithSvg } from "./SlideBar";
+import Timer from "./Timer";
 
 export default function LiveAuction() {
   return (
@@ -58,7 +59,7 @@ function ItemCard({ name, imageSource, biddingPrice, timeRemaining }) {
     <div className="relative flex flex-col items-center w-96 bg-white rounded-lg shadow-xl shadow-slate-300 overflow-hidden pt-10 p-5 hover:bg-slate-100 hover:shadow-slate-500 ">
       <p className="pt-3 text-gray-700">Time Remaining</p>
       <p className="pt-3 pb-3 text-2xl text-emerald-600 font-bold">
-        {timeRemaining}
+        <Timer time={"19:02:50"} />
       </p>
       <img
         className="w-full overflow-hidden h-56 object-cover rounded-tl-xl rounded-br-xl"
