@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import { FaFilter } from "react-icons/fa";
 import { RxCross2 } from "react-icons/rx";
 import Timer from "../components/Timer";
+import { Link, useNavigate } from "react-router-dom";
 
 const categories = [
   "Antiques & Collectibles",
@@ -15,8 +16,6 @@ const categories = [
 ];
 
 export default function Items() {
-  
-
   const [items, setItems] = useState([]);
   const [showFilter, setShowFilter] = useState(false);
   const [filter, setFilters] = useState([]);
@@ -55,10 +54,14 @@ export default function Items() {
       while (i < localStorage.length) {
         let value = localStorage.key(i);
         if (categories.includes(value)) {
-          handleCategoriesSelect(value);
+          setFilters([
+            ...filter.filter((c) => {
+              return c !== value;
+            }),
+            value,
+          ]);
           localStorage.removeItem(value);
         }
-
         i++;
       }
     }
@@ -111,13 +114,14 @@ export default function Items() {
           </div>
         )}
       </div>
-      <div className="flex flex-col ">
+      <div className="flex flex-col pl-60 pr-60">
         {items.map((item) => {
           return (
             <>
               {filter.length === 0 ? (
                 <ItemCard
-                  key={item.id}
+                  key={item.name}
+                  id={item.id}
                   name={item.name}
                   image={item.image_urls}
                   description={item.description}
@@ -127,7 +131,8 @@ export default function Items() {
                 />
               ) : filter.includes(item.category) ? (
                 <ItemCard
-                  key={item.id}
+                  key={item.name}
+                  id={item.id}
                   name={item.name}
                   image={item.image_urls}
                   description={item.description}
@@ -147,6 +152,7 @@ export default function Items() {
 }
 
 function ItemCard({
+  id,
   name,
   image,
   description,
@@ -154,42 +160,37 @@ function ItemCard({
   startingTime,
   endingTime,
 }) {
+  // const navigate = useNavigate();
+
   return (
-    <div className="flex justify-start m-5 p-3 rounded-lg shadow-xl hover:shadow-slate-300 border-t-2 ">
-      <img
-        src={image}
-        alt="items"
-        className=" aspect-square object-contain min-w-96 max-w-96"
-      />
-      <div className="w-full">
-        <div className="p-5 flex flex-col gap-5">
-          <h1 className="text-3xl font-bold ">{name}.</h1>
-          <p className="text-lg ">{description}</p>
-          <span className="text-xl">Bidding Price: ${price}</span>
+    <Link to={`/product?id=${id}`}>
+      <div
+        className="flex justify-start m-5 p-3 rounded-lg shadow-xl hover:shadow-slate-300 border-t-2 "
+        // onClick={() => {
+        //   navigate("/product");
+        // }}
+      >
+        <img
+          src={image}
+          alt="items"
+          className=" aspect-square object-contain min-w-96 max-w-96"
+        />
+        <div className="w-full">
+          <div className="p-5 flex flex-col gap-5">
+            <h1 className="text-3xl font-bold ">{name}.</h1>
+            <p className="text-lg ">{description}</p>
+            <span className="text-xl">
+              <strong>Bidding Price:</strong> ${price}
+            </span>
+            <span className="text-3xl text-slate-400">
+              Time Remaining<br></br>
+              <span className=" font-bold text-3xl text-emerald-600">
+                {<Timer time={endingTime} />}
+              </span>
+            </span>
+          </div>
         </div>
-        <div className="p-5 flex flex-col gap-3 justify-self-end">
-          <p className="text-slate-500 text-lg">
-            Bid Amount: Minimum Bid $ {price}
-          </p>
-          <h2 className="text-xl font-bold">Bid Now</h2>
-          <input
-            placeholder="$00.00"
-            type="number"
-            className="p-2 border-black border-2 rounded-lg"
-          />
-          <button className="p-3 justify-self-end rounded-lg text-white text-lg font-bold bg-emerald-600">
-            Place Bid
-          </button>
-        </div>
-        <span className="text-3xl text-slate-400">
-          Time Remaining<br></br>
-          <span className=" font-bold text-3xl text-emerald-600">
-            {<Timer time={endingTime} />}
-          </span>
-        </span>
       </div>
-    </div>
+    </Link>
   );
 }
-
-

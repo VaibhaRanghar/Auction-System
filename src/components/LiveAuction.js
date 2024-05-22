@@ -17,37 +17,37 @@ export default function LiveAuction() {
           name={"Blue Ravaged Beetle"}
           imageSource={"./Vehicles.jpg"}
           biddingPrice={100}
-          timeRemaining={`00H : 00M : 00S`}
+          timeRemaining={`20:20:20`}
         />
         <ItemCard
           name={"Headphones"}
           imageSource={"./Electronics.jpg"}
           biddingPrice={100}
-          timeRemaining={`00H : 00M : 00S`}
+          timeRemaining={`20:20:20`}
         />
         <ItemCard
           name={"Flower Pots"}
           imageSource={"./Antiques.jpg"}
           biddingPrice={100}
-          timeRemaining={`00H : 00M : 00S`}
+          timeRemaining={`20:20:20`}
         />
         <ItemCard
           name={"Accessories"}
           imageSource={"./Fashion.jpg"}
           biddingPrice={100}
-          timeRemaining={`00H : 00M : 00S`}
+          timeRemaining={`20:20:20`}
         />
         <ItemCard
           name={"Customized Bulbs"}
           imageSource={"./Decorations.jpg"}
           biddingPrice={100}
-          timeRemaining={`00H : 00M : 00S`}
+          timeRemaining={`20:20:20`}
         />
         <ItemCard
           name={"Pendents"}
           imageSource={"./Jewellery.jpg"}
           biddingPrice={100}
-          timeRemaining={`00H : 00M : 00S`}
+          timeRemaining={`20:20:20`}
         />
       </div>
     </div>
@@ -59,7 +59,7 @@ function ItemCard({ name, imageSource, biddingPrice, timeRemaining }) {
     <div className="relative flex flex-col items-center w-96 bg-white rounded-lg shadow-xl shadow-slate-300 overflow-hidden pt-10 p-5 hover:bg-slate-100 hover:shadow-slate-500 ">
       <p className="pt-3 text-gray-700">Time Remaining</p>
       <p className="pt-3 pb-3 text-2xl text-emerald-600 font-bold">
-        <Timer time={"19:02:50"} />
+        <Timer time={timeRemaining} />
       </p>
       <img
         className="w-full overflow-hidden h-56 object-cover rounded-tl-xl rounded-br-xl"

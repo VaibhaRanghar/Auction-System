@@ -9,6 +9,8 @@ import Explore from "./components/Explore";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 import Items from "./data/Items";
+import Product from "./pages/Product";
+import { ItemsProvider } from "./context/ItemsContext";
 
 function App() {
   return (
@@ -29,8 +31,17 @@ function App() {
             }
           />
           <Route path="/products-list" element={<Items />} />
+          <Route
+            path="/product"
+            element={
+              <ItemsProvider>
+                <Product />
+              </ItemsProvider>
+            }
+          />
         </Routes>
       </BrowserRouter>
+
       <Footer />
     </div>
   );
