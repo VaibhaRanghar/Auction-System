@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import React, { useContext, useState } from "react";
 import { ItemsContext } from "../context/ItemsContext.js";
 import { useLocation } from "react-router-dom";
 
@@ -7,18 +7,25 @@ export default function Product() {
   const location = useLocation();
   const searchParams = new URLSearchParams(location.search);
   const productId = searchParams.get("id");
-  console.log(productId);
   //use this product id to make a profile for product and show details of product and selling of product takes place here.
   const context = useContext(ItemsContext);
+  const element = context.items.find((element) => {
+    return element.id === productId;
+  });
   console.log(context);
+  console.log(element);
   return (
     <div className="flex">
-      <img src="" alt="nothing" className="max-w-96 max-h-96" />
+      <img
+        src={element.image_urls}
+        alt="nothing"
+        className="max-w-96 max-h-96"
+      />
       <div className="text-lg flex flex-col items-start">
-        <h2 className="font-bold text-2xl">Product Name</h2>
+        <h2 className="font-bold text-2xl">{element?.name}</h2>
         <div className="p-5 flex flex-col gap-3 justify-self-end">
           <p className="text-slate-500 text-lg">
-            Bid Amount: Minimum Bid $ {1000}
+            Bid Amount: Minimum Bid ${element?.starting_bid}
           </p>
           <h2 className="text-xl font-bold">Bid Now</h2>
           <input

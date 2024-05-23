@@ -30,7 +30,14 @@ function App() {
               </div>
             }
           />
-          <Route path="/products-list" element={<Items />} />
+          <Route
+            path="/products-list"
+            element={
+              <ItemsProvider>
+                <Items />
+              </ItemsProvider>
+            }
+          />
           <Route
             path="/product"
             element={

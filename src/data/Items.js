@@ -1,8 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useContext, useEffect, useState } from "react";
 import { FaFilter } from "react-icons/fa";
 import { RxCross2 } from "react-icons/rx";
 import Timer from "../components/Timer";
 import { Link, useNavigate } from "react-router-dom";
+import { ItemsContext, ItemsProvider } from "../context/ItemsContext";
 
 const categories = [
   "Antiques & Collectibles",
@@ -16,37 +17,17 @@ const categories = [
 ];
 
 export default function Items() {
-  const [items, setItems] = useState([]);
-  const [showFilter, setShowFilter] = useState(false);
-  const [filter, setFilters] = useState([]);
-  useEffect(() => {
-    const fetchData = async () => {
-      const res = await fetch("http://localhost:1000/data");
-      const data = await res.json();
-      setItems(data);
-      console.log(data);
-    };
-    fetchData();
-  }, []);
-
-  const handleFilterClick = () => {
-    setShowFilter(!showFilter);
-  };
-  const handleCategoriesSelect = (cat) => {
-    setFilters([
-      ...filter.filter((c) => {
-        return c !== cat;
-      }),
-      cat,
-    ]);
-  };
-  const handleFilterRemove = (f) => {
-    setFilters([
-      ...filter.filter((remove) => {
-        return remove !== f;
-      }),
-    ]);
-  };
+  const {
+    items,
+    // setItems,
+    showFilter,
+    // setShowFilter,
+    filter,
+    setFilters,
+    handleFilterClick,
+    handleCategoriesSelect,
+    handleFilterRemove,
+  } = useContext(ItemsContext);
 
   useEffect(() => {
     function selectFilters() {
@@ -66,7 +47,7 @@ export default function Items() {
       }
     }
     selectFilters();
-  }, [filter]);
+  }, [filter, setFilters]);
   return (
     <div>
       <div>
