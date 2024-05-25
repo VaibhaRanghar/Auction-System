@@ -49,7 +49,7 @@ function Timer({ time }) {
   };
 
   return (
-    <>
+    <div>
       {timeRemaining === null ? (
         <p>Calculating...</p>
       ) : timeRemaining === 0 ? (
@@ -57,7 +57,7 @@ function Timer({ time }) {
       ) : (
         <p> {getFormattedTime(timeRemaining)}</p>
       )}
-    </>
+    </div>
   );
 }
 

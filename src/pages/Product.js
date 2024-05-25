@@ -1,4 +1,4 @@
-import React, { useContext, useState } from "react";
+import React, { useContext, useEffect, useState } from "react";
 import { ItemsContext } from "../context/ItemsContext.js";
 import { useLocation } from "react-router-dom";
 
@@ -8,11 +8,13 @@ export default function Product() {
   const searchParams = new URLSearchParams(location.search);
   const productId = searchParams.get("id");
   //use this product id to make a profile for product and show details of product and selling of product takes place here.
-  const context = useContext(ItemsContext);
-  const element = context.items.find((element) => {
+  const [element, setElement] = useState({});
+  const item = useContext(ItemsContext).items.find((element) => {
     return element.id === productId;
   });
-  console.log(context);
+  useEffect(() => {
+    setElement((prevItem) => ({ ...prevItem, ...item }));
+  }, [item, setElement]);
   console.log(element);
   return (
     <div className="flex">

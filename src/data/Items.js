@@ -1,9 +1,9 @@
-import React, { useContext, useEffect, useState } from "react";
+import React, { useContext, useEffect } from "react";
 import { FaFilter } from "react-icons/fa";
 import { RxCross2 } from "react-icons/rx";
 import Timer from "../components/Timer";
-import { Link, useNavigate } from "react-router-dom";
-import { ItemsContext, ItemsProvider } from "../context/ItemsContext";
+import { Link } from "react-router-dom";
+import { ItemsContext } from "../context/ItemsContext";
 
 const categories = [
   "Antiques & Collectibles",
@@ -98,10 +98,10 @@ export default function Items() {
       <div className="flex flex-col pl-60 pr-60">
         {items.map((item) => {
           return (
-            <>
+            <div key={item.id}>
               {filter.length === 0 ? (
                 <ItemCard
-                  key={item.name}
+                  key={item.id}
                   id={item.id}
                   name={item.name}
                   image={item.image_urls}
@@ -112,7 +112,7 @@ export default function Items() {
                 />
               ) : filter.includes(item.category) ? (
                 <ItemCard
-                  key={item.name}
+                  key={item.id}
                   id={item.id}
                   name={item.name}
                   image={item.image_urls}
@@ -124,7 +124,7 @@ export default function Items() {
               ) : (
                 ""
               )}
-            </>
+            </div>
           );
         })}
       </div>
