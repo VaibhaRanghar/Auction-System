@@ -25,7 +25,9 @@ function App() {
                 <Home />
                 <hr className="p-5" />
                 <SlideBar />
-                <LiveAuction />
+                <ItemsProvider>
+                  <LiveAuction />
+                </ItemsProvider>
                 <Explore />
               </div>
             }

@@ -163,12 +163,12 @@ function ItemCard({
             <span className="text-xl">
               <strong>Bidding Price:</strong> ${price}
             </span>
-            <span className="text-3xl text-slate-400">
+            <div className="text-3xl text-slate-400">
               Time Remaining<br></br>
-              <span className=" font-bold text-3xl text-emerald-600">
+              <div className=" font-bold text-3xl text-emerald-600">
                 {<Timer time={endingTime} />}
-              </span>
-            </span>
+              </div>
+            </div>
           </div>
         </div>
       </div>

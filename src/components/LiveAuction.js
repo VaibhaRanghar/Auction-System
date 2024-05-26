@@ -1,8 +1,24 @@
-import React from "react";
+import React, { useContext, useEffect, useState } from "react";
 import { HeadingWithSvg } from "./SlideBar";
 import Timer from "./Timer";
+import { ItemsContext } from "../context/ItemsContext";
+import { Link } from "react-router-dom";
 
 export default function LiveAuction() {
+  const [liveAuctionItems, setLiveAuctionItems] = useState([]);
+
+  const context = useContext(ItemsContext);
+
+  useEffect(() => {
+    const elements = context.items
+      .filter((i) => {
+        return isTimeRemaining(i.auction_end_time);
+      })
+      .slice(0, 6);
+
+    setLiveAuctionItems((prev) => [...elements]);
+  }, [setLiveAuctionItems, context]);
+
   return (
     <div className="flex justify-center flex-col items-center p-10">
       <HeadingWithSvg heading={"Live Auction"} />
@@ -13,54 +29,34 @@ export default function LiveAuction() {
       </p>
 
       <div className="flex justify-evenly gap-y-5 flex-wrap">
-        <ItemCard
-          name={"Blue Ravaged Beetle"}
-          imageSource={"./Vehicles.jpg"}
-          biddingPrice={100}
-          timeRemaining={`20:20:20`}
-        />
-        <ItemCard
-          name={"Headphones"}
-          imageSource={"./Electronics.jpg"}
-          biddingPrice={100}
-          timeRemaining={`20:20:20`}
-        />
-        <ItemCard
-          name={"Flower Pots"}
-          imageSource={"./Antiques.jpg"}
-          biddingPrice={100}
-          timeRemaining={`20:20:20`}
-        />
-        <ItemCard
-          name={"Accessories"}
-          imageSource={"./Fashion.jpg"}
-          biddingPrice={100}
-          timeRemaining={`20:20:20`}
-        />
-        <ItemCard
-          name={"Customized Bulbs"}
-          imageSource={"./Decorations.jpg"}
-          biddingPrice={100}
-          timeRemaining={`20:20:20`}
-        />
-        <ItemCard
-          name={"Pendents"}
-          imageSource={"./Jewellery.jpg"}
-          biddingPrice={100}
-          timeRemaining={`20:20:20`}
-        />
+        {liveAuctionItems.map((i) => {
+          return (
+            <Link
+              to={`/product?id=${i.id}`}
+              onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
+            >
+              <ItemCard
+                key={i.id}
+                name={i.name}
+                imageSource={i.image_urls}
+                biddingPrice={i.starting_bid}
+                timeRemaining={i.auction_end_time}
+              />
+            </Link>
+          );
+        })}
       </div>
     </div>
   );
 }
 
-function ItemCard({ name, imageSource, biddingPrice, timeRemaining }) {
+export function ItemCard({ name, imageSource, biddingPrice, timeRemaining }) {
   return (
     <div className="relative flex flex-col items-center w-96 bg-white rounded-lg shadow-xl shadow-slate-300 overflow-hidden pt-10 p-5 hover:bg-slate-100 hover:shadow-slate-500 ">
       <p className="pt-3 text-gray-700">Time Remaining</p>
-      <p className="pt-3 pb-3 text-2xl text-emerald-600 font-bold">
+      <div className="pt-3 pb-3 text-2xl text-emerald-600 font-bold">
         <Timer time={timeRemaining} />
-      </p>
+      </div>
       <img
         className="w-full overflow-hidden h-56 object-cover rounded-tl-xl rounded-br-xl"
         src={imageSource}
@@ -80,4 +76,24 @@ function ItemCard({ name, imageSource, biddingPrice, timeRemaining }) {
       </div>
     </div>
   );
+}
+function isTimeRemaining(timeString) {
+  // Split the time string into hours, minutes, and seconds
+  const [hours, minutes, seconds] = timeString.split(":").map(Number);
+
+  // Get the current time
+  const now = new Date();
+
+  // Create a target date based on the provided time string
+  const targetDate = new Date(
+    now.getFullYear(),
+    now.getMonth(),
+    now.getDate(),
+    hours,
+    minutes,
+    seconds
+  );
+
+  // Check if the target date is in the past
+  return targetDate > now;
 }
