@@ -1,203 +1,256 @@
-{"data": [
+{
+  "data": [
     {
       "item_id": 1,
       "name": "Vintage Camera (nikon)",
       "description": "A well-maintained vintage camera in excellent working condition.Nice vintage camera. Checked out and it all works as should. Lenses in descent shape. There are some nicks and small dings from normal wear. There are caps and covers for everything.",
-      "details":"Macro focusing lens AZ zoom Vivitar series one 70-210mm 1:35.Nikkor Japan lens L39 52mm.Nikon Nikkor f equals =28mm L1Bc 52mm lens.Nikkor H auto 1:45 1:45 f=300 Lens with mount clip attached.Nikkor auto 1:28 f=135mm Nippon Kogaku Japan lens",
+      "details": "Macro focusing lens AZ zoom Vivitar series one 70-210mm 1:35.Nikkor Japan lens L39 52mm.Nikon Nikkor f equals =28mm L1Bc 52mm lens.Nikkor H auto 1:45 1:45 f=300 Lens with mount clip attached.Nikkor auto 1:28 f=135mm Nippon Kogaku Japan lens",
       "category": "Antiques & Collectibles",
-      "starting_bid": 1000.00,
-      "image_urls": ["https://wallpapercave.com/wp/wp8027576.jpg"],
+      "starting_bid": 1000,
+      "image_urls": [
+        "https://wallpapercave.com/wp/wp8027576.jpg"
+      ],
       "auction_end_time": "14:00:00",
-      "auction_start_time": "12:30:00"
-    }, 
+      "auction_start_time": "12:30:00",
+      "id": "b112"
+    },
     {
       "item_id": 2,
       "name": "Rare Book ",
       "description": "A first edition copy of book in best Condition.The Encyclopedia of Death and Life in the Spirit World Volume 1 is a comprehensive guide to the afterlife and the spiritual realm. Written by J.R. Francis, this book covers a wide range of topics related to death, the afterlife, and the spirit world",
-      "details":"Publisher  :  Kessinger Publishing (March 3,2006) Language :  English Paperback  :  404 pages Item Weight  :  1.3 pounds Dimensions  :  6 x 0.9 x 9 inches",
+      "details": "Publisher  :  Kessinger Publishing (March 3,2006) Language :  English Paperback  :  404 pages Item Weight  :  1.3 pounds Dimensions  :  6 x 0.9 x 9 inches",
       "category": "Antiques & Collectibles",
-      "starting_bid": 500.00,
-      "image_urls": ["https://img1.etsystatic.com/021/1/6298060/il_fullxfull.489255289_nkk0.jpg"],
+      "starting_bid": 500,
+      "image_urls": [
+        "https://img1.etsystatic.com/021/1/6298060/il_fullxfull.489255289_nkk0.jpg"
+      ],
       "auction_end_time": "11:00:00",
-      "auction_start_time": "09:30:00"
-  
+      "auction_start_time": "09:30:00",
+      "id": "f2f8"
     },
     {
       "item_id": 3,
       "name": "Antique Furniture (chair)",
       "description": "A beautiful (chair) antique furniture piece from the (1970) in good condition.We are offering wide range of Chair to our clients with a printed glass top and a wrought iron base. Is available in various sizes and can be used to brighten up your living/work space or balcony/terrace",
-      "details":"PRIMARY MATERIAL: Upholstery Material: Premium Vintage Velvet; Legs: Solid Teak Wood; Frame Material: Solid Teak Sagwan Wood with Carving work + Multilayer Board.DIMENSION: Width 26 inch,depth 30 inch,height 45 inch.",
+      "details": "PRIMARY MATERIAL: Upholstery Material: Premium Vintage Velvet; Legs: Solid Teak Wood; Frame Material: Solid Teak Sagwan Wood with Carving work + Multilayer Board.DIMENSION: Width 26 inch,depth 30 inch,height 45 inch.",
       "category": "Antiques & Collectibles",
-      "starting_bid": 100.00,
-      "image_urls": ["https://images.unsplash.com/photo-1601392740426-907c7b028119?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
+      "starting_bid": 100,
+      "image_urls": [
+        "https://images.unsplash.com/photo-1601392740426-907c7b028119?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
       "auction_end_time": "09:30:00",
-      "auction_start_time": "08:00:00"
+      "auction_start_time": "08:00:00",
+      "id": "1ffc"
     },
     {
       "item_id": 4,
       "name": "Sports Memorabilia (Jorden, Lakers, Jersey)",
       "description": "A signed (Jersey) by (Micheal Jorden) from the (Lakers).Red and black for the Chicago Bulls, his most famous team. Some jerseys may also be white, for away games.",
-      "details":".Number 23: This is Jordan's iconic number, instantly recognizable by basketball fans.Name: JORDAN arched across the back, usually in white. Some jerseys may have his full last name. Material: Traditionally made of breathable mesh for comfort during games, but also available in more casual materials for everyday wear.Logos: The NBA logo and the Chicago Bulls logo are typically displayed on the chest or shoulders.",
+      "details": ".Number 23: This is Jordan's iconic number, instantly recognizable by basketball fans.Name: JORDAN arched across the back, usually in white. Some jerseys may have his full last name. Material: Traditionally made of breathable mesh for comfort during games, but also available in more casual materials for everyday wear.Logos: The NBA logo and the Chicago Bulls logo are typically displayed on the chest or shoulders.",
       "category": "Antiques & Collectibles",
-      "starting_bid": 750.00,
-      "image_urls": ["https://wickedmemorabilia.com.au/cdn/shop/products/JordanSignedRookieJerseyUpperdeck_600x.jpg?v=1609582498"],
+      "starting_bid": 750,
+      "image_urls": [
+        "https://wickedmemorabilia.com.au/cdn/shop/products/JordanSignedRookieJerseyUpperdeck_600x.jpg?v=1609582498"
+      ],
       "auction_end_time": "12:30:00",
-      "auction_start_time": "11:00:00"
+      "auction_start_time": "11:00:00",
+      "id": "0bf0"
     },
     {
       "item_id": 5,
       "name": "Coin Collection (1840-1940, us)",
       "description": "A collection of (20) coins from ( 1840-1940) from (US).This captivating coin collection offers a journey through time and history, held in your hand. Each piece tells a story, reflecting the cultural and economic landscape of its era. Whether you're a seasoned collector or just starting your exploration, this collection has something to spark your curiosity.",
-      "details":"Number of coins: Specify the approximate number of coins in the collection.Presentation: Describe how the coins are stored. This could be a high-quality binder with transparent pockets for viewing both sides, a wooden display case, or individual capsules for each coin.Condition: Mention the general condition of the coins, ranging from circulated to uncirculated.",
+      "details": "Number of coins: Specify the approximate number of coins in the collection.Presentation: Describe how the coins are stored. This could be a high-quality binder with transparent pockets for viewing both sides, a wooden display case, or individual capsules for each coin.Condition: Mention the general condition of the coins, ranging from circulated to uncirculated.",
       "category": "Antiques & Collectibles",
-      "starting_bid": 300.00,
-      "image_urls": ["https://auctioneersoftware.s3.amazonaws.com/mat/2021/1/medium/DHtV-iMJeqNnF7NmJ9XLdE41.jpeg"],
+      "starting_bid": 300,
+      "image_urls": [
+        "https://auctioneersoftware.s3.amazonaws.com/mat/2021/1/medium/DHtV-iMJeqNnF7NmJ9XLdE41.jpeg"
+      ],
       "auction_end_time": "13:00:00",
-      "auction_start_time": "11:30:00"
+      "auction_start_time": "11:30:00",
+      "id": "aec2"
     },
     {
       "item_id": 6,
       "name": "Movie Poster (Doctor X, 1972)",
       "description": "An original movie poster for the film (Doctor X) from (1972).The 1972 movie poster for Doctor X features a hauntingly beautiful woman with long, flowing dark hair and piercing blue eyes. Her face takes up most of the poster, with a shocked expression and her mouth slightly agape. ",
-      "details":"Movie Title: Doctor X (1972) Material: Likely printed on paper or cardstock Dimensions: There can be variations but a common size is around (27*40) inch.",
+      "details": "Movie Title: Doctor X (1972) Material: Likely printed on paper or cardstock Dimensions: There can be variations but a common size is around (27*40) inch.",
       "category": "Antiques & Collectibles",
-      "starting_bid": 150.00,
-      "image_urls": ["https://2.bp.blogspot.com/-HQiTkk16pvY/VEIPNChDfnI/AAAAAAABBeg/AbAzqY1iy2I/s1600/Vintage%2BMovie%2BPosters%2Bfrom%2BClassic%2BHollywood%2Bin%2Bthe%2B1920s%2B(3).jpg"],
+      "starting_bid": 150,
+      "image_urls": [
+        "https://2.bp.blogspot.com/-HQiTkk16pvY/VEIPNChDfnI/AAAAAAABBeg/AbAzqY1iy2I/s1600/Vintage%2BMovie%2BPosters%2Bfrom%2BClassic%2BHollywood%2Bin%2Bthe%2B1920s%2B(3).jpg"
+      ],
       "auction_end_time": "11:00:00",
-      "auction_start_time": "09:00:00"
+      "auction_start_time": "09:00:00",
+      "id": "f10f"
     },
-      {
-        "item_id": 7,
-        "name": "Vintage Jewelry (Pendant)",
-        "description": "A beautiful piece of vintage (Pendant) jewelry from the (600BC).nveil a touch of Art Deco elegance with this captivating vintage pendant. Glistening marcasite stones adorn a geometric silver design, catching the light with a touch of old-world glamour",
-        "details":"Material: Sterling silver, marcasite stones Size: 25mm x 18mm (diameter x height) Chain: 18-inch sterling silver chain with a spring clasp (not included)Markings: None visible Condition: Excellent vintage condition with minor wear",
-        "category": "Antiques & Collectibles",
-        "starting_bid": 1250.00,
-        "image_urls": ["https://cdn0.rubylane.com/shops/759489/necklace24.1L.jpg"],
-        "auction_end_time": "17:00:00",
-        "auction_start_time": "15:00:00"
-      },
-      {
-        "item_id": 8,
-        "name": "Pocket Watch (waltham, 1999)",
-        "description": "A vintage pocket watch from (Waltham) made in (Year).This classic pocket watch boasts a rich heritage,  crafted by the renowned Waltham company in 1999.  The watch features a (material, e.g., polished stainless steel) case,  exuding an air of sophistication.",
-        "details":"Brand: WalthamYear:1999 ", "category":"Antiques & Collectibles",
-        "starting_bid": 200.00,
-        "image_urls": ["https://www.antiquesboutique.com/upload/images/shopprod/14770/fancy-cased-gold-plated-waltham-pocket-watch-c1906_14770_pic1_size1.jpg"],
-        "auction_end_time":"19:00:00",
-        "auction_start_time": "17:00:00"
-      },
-      {
-        "item_id": 9,
-        "name": "Luxury Throw Blanket",
-        "category": "Antiques & Collectibles",
-        "starting_bid": 999.99,
-        "description": "Luxuriously soft and warm throw blanket.Indulge in unparalleled comfort and timeless style with this luxurious throw blanket.",
-        "details":"Material: exact material (100% cashmere)Size: Mention the dimensions of the blanket ( 50 inch x 70 inch).Weight:  lightweight",
-        "image_urls": ["https://www.comfortnerd.com/wp-content/uploads/2019/09/bedsurethrow-1024x1024.jpg"],
-        "auction_end_time": "21:00:00",
-        "auction_start_time": "19:00:00"
-      },
-      {
-        "item_id": 10,
-        "name": "Wall Mirror with Decorative Frame",
-        "category": "Antiques & Collectibles",
-        "starting_bid": 74.99,
-        "description": "Elegant wall mirror with a decorative frame for added style. Elevate your space with this stunning wall mirror featuring a decorative frame. ",
-        "details":"Frame Design:  intricate floral patterns;Mirror Shape:arched top",
-        "image_urls": ["https://i5.walmartimages.com/asr/6edf6487-877f-414a-857d-337584114276.0d0f0f774165cb754e9f06dcd96bbf02.jpeg"],
-        "auction_end_time": "23:00:00",
-        "auction_start_time": "21:00:00"
-      },
-      
+    {
+      "item_id": 7,
+      "name": "Vintage Jewelry (Pendant)",
+      "description": "A beautiful piece of vintage (Pendant) jewelry from the (600BC).nveil a touch of Art Deco elegance with this captivating vintage pendant. Glistening marcasite stones adorn a geometric silver design, catching the light with a touch of old-world glamour",
+      "details": "Material: Sterling silver, marcasite stones Size: 25mm x 18mm (diameter x height) Chain: 18-inch sterling silver chain with a spring clasp (not included)Markings: None visible Condition: Excellent vintage condition with minor wear",
+      "category": "Antiques & Collectibles",
+      "starting_bid": 1250,
+      "image_urls": [
+        "https://cdn0.rubylane.com/shops/759489/necklace24.1L.jpg"
+      ],
+      "auction_end_time": "17:00:00",
+      "auction_start_time": "15:00:00",
+      "id": "e978"
+    },
+    {
+      "item_id": 8,
+      "name": "Pocket Watch (waltham, 1999)",
+      "description": "A vintage pocket watch from (Waltham) made in (Year).This classic pocket watch boasts a rich heritage,  crafted by the renowned Waltham company in 1999.  The watch features a (material, e.g., polished stainless steel) case,  exuding an air of sophistication.",
+      "details": "Brand: WalthamYear:1999 ",
+      "category": "Antiques & Collectibles",
+      "starting_bid": 200,
+      "image_urls": [
+        "https://www.antiquesboutique.com/upload/images/shopprod/14770/fancy-cased-gold-plated-waltham-pocket-watch-c1906_14770_pic1_size1.jpg"
+      ],
+      "auction_end_time": "19:00:00",
+      "auction_start_time": "17:00:00",
+      "id": "6298"
+    },
+    {
+      "item_id": 9,
+      "name": "Luxury Throw Blanket",
+      "category": "Antiques & Collectibles",
+      "starting_bid": 999.99,
+      "description": "Luxuriously soft and warm throw blanket.Indulge in unparalleled comfort and timeless style with this luxurious throw blanket.",
+      "details": "Material: exact material (100% cashmere)Size: Mention the dimensions of the blanket ( 50 inch x 70 inch).Weight:  lightweight",
+      "image_urls": [
+        "https://www.comfortnerd.com/wp-content/uploads/2019/09/bedsurethrow-1024x1024.jpg"
+      ],
+      "auction_end_time": "21:00:00",
+      "auction_start_time": "19:00:00",
+      "id": "d550"
+    },
+    {
+      "item_id": 10,
+      "name": "Wall Mirror with Decorative Frame",
+      "category": "Antiques & Collectibles",
+      "starting_bid": 74.99,
+      "description": "Elegant wall mirror with a decorative frame for added style. Elevate your space with this stunning wall mirror featuring a decorative frame. ",
+      "details": "Frame Design:  intricate floral patterns;Mirror Shape:arched top",
+      "image_urls": [
+        "https://i5.walmartimages.com/asr/6edf6487-877f-414a-857d-337584114276.0d0f0f774165cb754e9f06dcd96bbf02.jpeg"
+      ],
+      "auction_end_time": "23:00:00",
+      "auction_start_time": "21:00:00",
+      "id": "97dc"
+    },
     {
       "item_id": 1,
       "name": "High-End Gaming Laptop (asus, a15)",
       "description": "The ASUS TUF Gaming A15 is a high-end gaming laptop that strikes a balance between performance and affordability. It's a great option for gamers who want a powerful machine that can handle the latest games at high settings, without breaking the bank",
-      "details":"Processor: Up to AMD Ryzen 9 8940H Processor Graphics: Up to NVIDIA GeForce RTX 4070 Laptop GPU with a max TGP of 140W Display: Up to QHD 165Hz IPS-level display Memory: Up to 16GB of DDR5 RAM Storage: Up to 1TB PCIe NVMe SSD",
+      "details": "Processor: Up to AMD Ryzen 9 8940H Processor Graphics: Up to NVIDIA GeForce RTX 4070 Laptop GPU with a max TGP of 140W Display: Up to QHD 165Hz IPS-level display Memory: Up to 16GB of DDR5 RAM Storage: Up to 1TB PCIe NVMe SSD",
       "category": "Electronics",
-      "starting_bid": 25000.00,
-      "image_urls": ["https://m.media-amazon.com/images/I/91zVSkGGZbS.SL1500.jpg"],
+      "starting_bid": 25000,
+      "image_urls": [
+        "https://m.media-amazon.com/images/I/91zVSkGGZbS.SL1500.jpg"
+      ],
       "auction_end_time": "14:00:00Z",
-      "auction_start_time": "12:30:00Z"
+      "auction_start_time": "12:30:00Z",
+      "id": "3141"
     },
     {
       "item_id": 2,
       "name": "Smartphone (apple)",
       "description": "A selection of unlocked smartphones from popular brand apple,samsung,etc with different features and specifications.This is the newest and most powerful iPhone. It has the best camera system, the fastest processor, and the most durable design.",
-      "details":"Display: 6.1-inch 15.54 cm (diagonal) Super Retina XDR OLED display with HDR and True Tone  Processor: A17 Bionic chipRear Camera System: Dual-lens 12MP wide and ultrawide cameras; 12MP TrueDepth front camera with Face ID Battery: Up to 17 hours of video playback Storage: 128GB, 256GB, 512GB, or 1TB",
+      "details": "Display: 6.1-inch 15.54 cm (diagonal) Super Retina XDR OLED display with HDR and True Tone  Processor: A17 Bionic chipRear Camera System: Dual-lens 12MP wide and ultrawide cameras; 12MP TrueDepth front camera with Face ID Battery: Up to 17 hours of video playback Storage: 128GB, 256GB, 512GB, or 1TB",
       "category": "Electronics",
-      "starting_bid": 20000.00,
-      "image_urls": ["https://external.webstorage.gr/Product-Images/1421066/iphone11-black-1000-1421066.jpg"],
+      "starting_bid": 20000,
+      "image_urls": [
+        "https://external.webstorage.gr/Product-Images/1421066/iphone11-black-1000-1421066.jpg"
+      ],
       "auction_end_time": "11:00:00",
-      "auction_start_time": "09:30:00"
-  
+      "auction_start_time": "09:30:00",
+      "id": "b22d"
     },
     {
       "item_id": 3,
       "name": "Noise-Cancelling Headphones (AKG)",
       "description": "A pair of high-quality noise-canceling headphones from (AKG) with excellent audio quality and long battery life.",
-      "details":"These wireless headphones boast excellent sound quality with AKG's signature tuning. They feature active noise cancellation to block out ambient sounds, perfect for travel or focusing on your music. The N700 also has comfortable memory-foam ear cushions and a long battery life of up to 23 hours",
+      "details": "These wireless headphones boast excellent sound quality with AKG's signature tuning. They feature active noise cancellation to block out ambient sounds, perfect for travel or focusing on your music. The N700 also has comfortable memory-foam ear cushions and a long battery life of up to 23 hours",
       "category": "Electronics",
-      "starting_bid": 150.00,
-      "image_urls": ["https://media.wired.com/photos/5abc0f56f0e5120b83803435/191:100/pass/MG_0503.jpg"],
+      "starting_bid": 150,
+      "image_urls": [
+        "https://media.wired.com/photos/5abc0f56f0e5120b83803435/191:100/pass/MG_0503.jpg"
+      ],
       "auction_end_time": "09:30:00",
-      "auction_start_time": "08:00:00"
+      "auction_start_time": "08:00:00",
+      "id": "b555"
     },
     {
       "item_id": 4,
       "name": "Smart Speaker with Voice Assistant (MI)",
       "description": "A smart speaker from (MI) with a built-in voice assistant, perfect for controlling smart home devices and playing music.",
-      "details":"Limited Assistant: Powered by Google Assistant, it won't be compatible with Xiaomi's own Xiao AI assistant. Sound Quality: If superior audio quality is a priority, high-fidelity smart speakers may be a better option. Language Support: Make sure the Google Assistant on the speaker supports your preferred language.",
+      "details": "Limited Assistant: Powered by Google Assistant, it won't be compatible with Xiaomi's own Xiao AI assistant. Sound Quality: If superior audio quality is a priority, high-fidelity smart speakers may be a better option. Language Support: Make sure the Google Assistant on the speaker supports your preferred language.",
       "category": "Electronics",
-      "starting_bid": 500.00,
-      "image_urls": ["https://xiaomiplanet.sk/wp-content/uploads/2020/09/xiaomi-mi-smart-speaker-cover.jpg"],
+      "starting_bid": 500,
+      "image_urls": [
+        "https://xiaomiplanet.sk/wp-content/uploads/2020/09/xiaomi-mi-smart-speaker-cover.jpg"
+      ],
       "auction_end_time": "12:30:00",
-      "auction_start_time": "11:00:00"
+      "auction_start_time": "11:00:00",
+      "id": "750f"
     },
     {
       "item_id": 5,
       "name": "Virtual Reality Headset (samsung, latest)",
       "description": "A virtual reality headset from (samsung) with stunning visuals and immersive gameplay.",
-      "details":"High-Resolution Display: The new headset is expected to feature high-resolution displays for an immersive viewing experience. Improved Processing Power: It will likely be powered by a next-generation processor capable of handling demanding VR applications.Inside-Out Tracking: The headset might utilize inside-out tracking technology, eliminating the need for external sensors for room tracking.",
+      "details": "High-Resolution Display: The new headset is expected to feature high-resolution displays for an immersive viewing experience. Improved Processing Power: It will likely be powered by a next-generation processor capable of handling demanding VR applications.Inside-Out Tracking: The headset might utilize inside-out tracking technology, eliminating the need for external sensors for room tracking.",
       "category": "Electronics",
-      "starting_bid": 300.00,
-      "image_urls": ["https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5980/5980201ld.jpg"],
+      "starting_bid": 300,
+      "image_urls": [
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5980/5980201ld.jpg"
+      ],
       "auction_end_time": "13:00:00",
-      "auction_start_time": "11:30:00"
+      "auction_start_time": "11:30:00",
+      "id": "b18a"
     },
     {
       "item_id": 6,
       "name": "4K Ultra HD Television (43 inch)",
       "description": "A large-screen 4K Ultra HD television with a size of (43) inches, perfect for watching movies and shows in stunning detail.",
-      "details":"Resolution: A 4K Ultra HD TV has a resolution of 3840 x 2160 pixels. This is four times the resolution of a Full HD TV (1920 x 1080 pixels).HDR: High Dynamic Range (HDR) is a technology that improves the contrast ratio of a TV. This means that whites will be brighter and blacks will be darker, resulting in a more realistic picture. Not all 4K Ultra HD TVs support HDR, so be sure to check if this is an important feature for you. Smart TV: A smart TV has a built-in internet connection that allows you to stream movies, TV shows, and music. You can also use a smart TV to browse the web, check social media, and play games.",
+      "details": "Resolution: A 4K Ultra HD TV has a resolution of 3840 x 2160 pixels. This is four times the resolution of a Full HD TV (1920 x 1080 pixels).HDR: High Dynamic Range (HDR) is a technology that improves the contrast ratio of a TV. This means that whites will be brighter and blacks will be darker, resulting in a more realistic picture. Not all 4K Ultra HD TVs support HDR, so be sure to check if this is an important feature for you. Smart TV: A smart TV has a built-in internet connection that allows you to stream movies, TV shows, and music. You can also use a smart TV to browse the web, check social media, and play games.",
       "category": "Electronics",
-      "starting_bid": 5000.00,
-      "image_urls": ["https://images.unsplash.com/photo-1461151304267-38535e780c79?q=80&w=1933&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
+      "starting_bid": 5000,
+      "image_urls": [
+        "https://images.unsplash.com/photo-1461151304267-38535e780c79?q=80&w=1933&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
       "auction_end_time": "11:00:00",
-      "auction_start_time": "09:00:00"
+      "auction_start_time": "09:00:00",
+      "id": "3f46"
     },
     {
       "item_id": 7,
       "name": "Instant Camera (instax)",
       "description": "A fun and easy-to-use instant camera from (instax) that captures photos and prints them out instantly.",
-      "details":"Instax cameras come in a variety of film formats, most commonly:  Mini: The classic Instax film format, credit card sized (2.1 x 3.4)inch . Great for carrying around and sharing in albums or wallets.Square: A square format for unique photos (2.4 x 2.4)inch .",
+      "details": "Instax cameras come in a variety of film formats, most commonly:  Mini: The classic Instax film format, credit card sized (2.1 x 3.4)inch . Great for carrying around and sharing in albums or wallets.Square: A square format for unique photos (2.4 x 2.4)inch .",
       "category": "Electronics",
-      "starting_bid": 75.00,
-      "image_urls": ["https://www.bhphotovideo.com/images/images2500x2500/fujifilm_16581458_instax_square_sq6_instant_1399694.jpg"],
+      "starting_bid": 75,
+      "image_urls": [
+        "https://www.bhphotovideo.com/images/images2500x2500/fujifilm_16581458_instax_square_sq6_instant_1399694.jpg"
+      ],
       "auction_end_time": "17:00:00",
-      "auction_start_time": "15:00:00"
+      "auction_start_time": "15:00:00",
+      "id": "6713"
     },
     {
       "item_id": 8,
       "name": "Wireless Earbuds (realme)",
       "description": "A pair of true wireless earbuds from (realme) with excellent sound quality and a comfortable.These boast active noise cancellation (ANC) to block out ambient sounds, perfect for travel or focusing on music. They feature transparency mode to hear your surroundings when needed. The Buds Air 3 offer impressive sound quality with clear highs and deep bass",
-      "details":"Water Resistance: Some realme earbuds, like the Buds Air 3, have water resistance for workouts or splashes.Bass Boost: If you love strong bass, some models offer a bass boost mode.Gaming Mode: Certain realme buds have a low-latency gaming mode for synchronized sound in games.Touch Controls: Most realme earbuds have touch controls for music playback, calls, and volume adjustments.",
-      "category":"Electronics",
-      "starting_bid":800.00,
-      "image_urls":["https://m.media-amazon.com/images/I/61q65Ob+nrL.SL1500.jpg"],
-      "auction_end_time":"19:00:00",
-      "auction_start_time": "17:00:00"
+      "details": "Water Resistance: Some realme earbuds, like the Buds Air 3, have water resistance for workouts or splashes.Bass Boost: If you love strong bass, some models offer a bass boost mode.Gaming Mode: Certain realme buds have a low-latency gaming mode for synchronized sound in games.Touch Controls: Most realme earbuds have touch controls for music playback, calls, and volume adjustments.",
+      "category": "Electronics",
+      "starting_bid": 800,
+      "image_urls": [
+        "https://m.media-amazon.com/images/I/61q65Ob+nrL.SL1500.jpg"
+      ],
+      "auction_end_time": "19:00:00",
+      "auction_start_time": "17:00:00",
+      "id": "fddc"
     },
     {
       "item_id": 1,
@@ -205,10 +258,13 @@
       "category": "Art and Decoration",
       "starting_bid": 49.99,
       "description": "A vibrant abstract landscape printed on hiy ssogh-quality canvas.mmerse yourself in the tranquility of this captivating abstract landscape.",
-      "details":"SIZE:Medium (24 x 36) inch.Material:High-quality artist-grade canvas",
-      "image_urls": ["https://i5.walmartimages.com/asr/7f8cd5ef-3775-46e6-9d31-5e5ec1d4a2f8.4f8d09ead98c90ae81bde815f8486420.jpeg"],
+      "details": "SIZE:Medium (24 x 36) inch.Material:High-quality artist-grade canvas",
+      "image_urls": [
+        "https://i5.walmartimages.com/asr/7f8cd5ef-3775-46e6-9d31-5e5ec1d4a2f8.4f8d09ead98c90ae81bde815f8486420.jpeg"
+      ],
       "auction_end_time": "14:00:00Z",
-      "auction_start_time": "12:30:00Z"
+      "auction_start_time": "12:30:00Z",
+      "id": "9316"
     },
     {
       "item_id": 2,
@@ -216,11 +272,13 @@
       "category": "Art and Decoration",
       "starting_bid": 34.99,
       "description": "Sleek and modern ceramic vase in a variety of colors.Elevate your home décor with this stunning ceramic vase, boasting a modern design.",
-      "details":"Crafted from high-quality ceramic, this vase offers a smooth, sleek finish that complements various aesthetics.SIZE:Medium (24 x 36) inch.",
-      "image_urls": ["https://exceptionalhomedecor.com/wp-content/uploads/sites/2887/2020/11/61xmP5Xqn6L._AC_SL1000_.jpg"],
+      "details": "Crafted from high-quality ceramic, this vase offers a smooth, sleek finish that complements various aesthetics.SIZE:Medium (24 x 36) inch.",
+      "image_urls": [
+        "https://exceptionalhomedecor.com/wp-content/uploads/sites/2887/2020/11/61xmP5Xqn6L._AC_SL1000_.jpg"
+      ],
       "auction_end_time": "11:00:00",
-      "auction_start_time": "09:30:00"
-  
+      "auction_start_time": "09:30:00",
+      "id": "6acf"
     },
     {
       "item_id": 3,
@@ -228,10 +286,13 @@
       "category": "Art and Decoration",
       "starting_bid": 99.99,
       "description": "Unique geometric metal sculpture for a contemporary touch.The sculpture is a fusion of geometric shapes, such as (list specific shapes, e.g., interlocking triangles, cascading squares, or a series of curved planes).",
-      "details":"Dimensions: (20x29)inch.Placement: This sculpture is ideal for a variety of settings, gracing an (location, e.g., entryway, living room mantle, or office space) with a touch of modern elegance. Care: Easy to maintain, the sculpture can be dusted with a soft cloth.",
-      "image_urls": ["https://www.pastperfectsf.com/wp-content/uploads/2017/01/Abstract-Steel-Sculpture-by-Curtis-Jer%C3%A9-1.jpg"],
+      "details": "Dimensions: (20x29)inch.Placement: This sculpture is ideal for a variety of settings, gracing an (location, e.g., entryway, living room mantle, or office space) with a touch of modern elegance. Care: Easy to maintain, the sculpture can be dusted with a soft cloth.",
+      "image_urls": [
+        "https://www.pastperfectsf.com/wp-content/uploads/2017/01/Abstract-Steel-Sculpture-by-Curtis-Jer%C3%A9-1.jpg"
+      ],
       "auction_end_time": "09:30:00",
-      "auction_start_time": "08:00:00"
+      "auction_start_time": "08:00:00",
+      "id": "6e9d"
     },
     {
       "item_id": 4,
@@ -239,10 +300,13 @@
       "category": "Art and Decoration",
       "starting_bid": 69.99,
       "description": "Cozy and stylish woven throw blanket in luxurious materials.Woven throws are typically made from soft and breathable materials like cotton, wool, or a blend of both.Cuddle up with a woven throw on the couch for movie night, add an extra layer of warmth to your bed, or drape it over a chair for a cozy accent.",
-      "details":"Care: Depending on the material, woven throws can usually be machine washed and dried for easy care. Be sure to follow the cleaning instructions on the label.Size: 40 inch to 50 inch",
-      "image_urls": ["https://i.etsystatic.com/21185340/r/il/c5bb01/2660120239/il_fullxfull.2660120239_racx.jpg"],
+      "details": "Care: Depending on the material, woven throws can usually be machine washed and dried for easy care. Be sure to follow the cleaning instructions on the label.Size: 40 inch to 50 inch",
+      "image_urls": [
+        "https://i.etsystatic.com/21185340/r/il/c5bb01/2660120239/il_fullxfull.2660120239_racx.jpg"
+      ],
       "auction_end_time": "12:30:00",
-      "auction_start_time": "11:00:00"
+      "auction_start_time": "11:00:00",
+      "id": "1ca9"
     },
     {
       "item_id": 5,
@@ -250,10 +314,13 @@
       "category": "Art and Decoration",
       "starting_bid": 75.99,
       "description": "Vintage poster with a classic design, framed for display. This unique piece of wall art is more than just a decoration; it's a conversation starter and a window into a bygone era. ",
-      "details":"Condition: Look for minor wear and tear consistent with age, but avoid major rips, fading, or water damage.Theme: Select a poster that resonates with your interests, whether it's a travel destination you dream of visiting, a historical event that fascinates you, or a product that evokes a sense of nostalgia.",
-      "image_urls": ["https://www.canvasprintsaustralia.net.au/wp-content/uploads/2014/03/Star-Wars-movie-poster2-Framed-Wall-Art-copy.jpg"],
+      "details": "Condition: Look for minor wear and tear consistent with age, but avoid major rips, fading, or water damage.Theme: Select a poster that resonates with your interests, whether it's a travel destination you dream of visiting, a historical event that fascinates you, or a product that evokes a sense of nostalgia.",
+      "image_urls": [
+        "https://www.canvasprintsaustralia.net.au/wp-content/uploads/2014/03/Star-Wars-movie-poster2-Framed-Wall-Art-copy.jpg"
+      ],
       "auction_end_time": "13:00:00",
-      "auction_start_time": "11:30:00"
+      "auction_start_time": "11:30:00",
+      "id": "2ae8"
     },
     {
       "item_id": 6,
@@ -261,10 +328,13 @@
       "category": "Art and Decoration",
       "starting_bid": 44.99,
       "description": "Set of decorative throw pillows to add a pop of color.Decorative pillow sets come in a vast array of colors, patterns, textures, and sizes. You can find sets with a cohesive theme, like florals or geometric patterns, or mix-and-match sets with contrasting colors and textures for a playful look.",
-      "details":"Number of Pillows: Sets typically include 2-4 pillows .Size:18 inch x 18 inch,Decorative pillow sets can be easily swapped out seasonally to refresh your decor.",
-      "image_urls": ["https://i5.walmartimages.com/asr/426e0787-23b9-429c-b10a-869590b3745d_1.88179e39ec6e2a1d1b4b82cdab987dcb.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff"],
+      "details": "Number of Pillows: Sets typically include 2-4 pillows .Size:18 inch x 18 inch,Decorative pillow sets can be easily swapped out seasonally to refresh your decor.",
+      "image_urls": [
+        "https://i5.walmartimages.com/asr/426e0787-23b9-429c-b10a-869590b3745d_1.88179e39ec6e2a1d1b4b82cdab987dcb.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff"
+      ],
       "auction_end_time": "11:00:00",
-      "auction_start_time": "09:00:00"
+      "auction_start_time": "09:00:00",
+      "id": "1ab4"
     },
     {
       "item_id": 7,
@@ -272,10 +342,13 @@
       "category": "Art and Decoration",
       "starting_bid": 29.99,
       "description": "Small abstract sculpture, perfect for a table centerpiece.his sculpture adds a touch of modern sophistication to any space.  Imagine it gracing your living room coffee table, sparking curiosity in your entryway, or nestled amongst your favorite books, adding a touch of artistic intrigue.",
-      "details":"Dimensions: 10 in x 12 in  ; Material: ceramic ",
-      "image_urls": ["https://homedesignlover.com/wp-content/uploads/2013/12/3-casa-cortes.jpg"],
+      "details": "Dimensions: 10 in x 12 in  ; Material: ceramic ",
+      "image_urls": [
+        "https://homedesignlover.com/wp-content/uploads/2013/12/3-casa-cortes.jpg"
+      ],
       "auction_end_time": "17:00:00",
-      "auction_start_time": "15:00:00"
+      "auction_start_time": "15:00:00",
+      "id": "8f1d"
     },
     {
       "item_id": 8,
@@ -283,10 +356,13 @@
       "category": "Art and Decoration",
       "starting_bid": 89.99,
       "description": "Unique woven wall tapestry with a rich visual texture.Bring a touch of history and artistry to your space with a beautiful woven wall tapestry.woven tapestries are handcrafted on a loom, creating a one-of-a-kind work of art. Each colored thread is meticulously woven together, building a picture or design thread by thread",
-      "details":"Size: medium,Care: Depending on the material, tapestries may require special cleaning methods. Look for cleaning instructions or consult a professional cleaner.",
-      "image_urls": ["https://i.pinimg.com/originals/fe/3c/d6/fe3cd60df86b3194c45278bad07063c0.jpg"],
-      "auction_end_time":"19:00:00",
-      "auction_start_time": "17:00:00" 
+      "details": "Size: medium,Care: Depending on the material, tapestries may require special cleaning methods. Look for cleaning instructions or consult a professional cleaner.",
+      "image_urls": [
+        "https://i.pinimg.com/originals/fe/3c/d6/fe3cd60df86b3194c45278bad07063c0.jpg"
+      ],
+      "auction_end_time": "19:00:00",
+      "auction_start_time": "17:00:00",
+      "id": "cee7"
     },
     {
       "item_id": 9,
@@ -294,10 +370,13 @@
       "category": "Art and Decoration",
       "starting_bid": 54.99,
       "description": "Stylish and functional modern wall clock.Modern wall clocks break away from traditional styles. Think minimalist faces, geometric shapes, oversized numbers, or even mirrored finishes for a touch of glamour.",
-      "details":"Size:unobtrusive, Power Source: Modern clocks may be battery-powered or require an electrical outlet. Consider your needs and placement when choosing a clock.",
-      "image_urls": ["https://www.homerises.com/images/upload/201802/151945436933.jpg"],
+      "details": "Size:unobtrusive, Power Source: Modern clocks may be battery-powered or require an electrical outlet. Consider your needs and placement when choosing a clock.",
+      "image_urls": [
+        "https://www.homerises.com/images/upload/201802/151945436933.jpg"
+      ],
       "auction_end_time": "21:00:00",
-      "auction_start_time": "19:00:00"
+      "auction_start_time": "19:00:00",
+      "id": "4b13"
     },
     {
       "item_id": 10,
@@ -305,22 +384,27 @@
       "category": "Art and Decoration",
       "starting_bid": 39.99,
       "description": "Striking black and white photography print framed for display.Black and white photography encompasses a vast array of subjects. Find captivating landscapes with stunning contrasts, powerful portraits that reveal emotions, or architectural details brought to life through light and shadow.",
-      "details":"Size: intimate & small , Finish: Some prints may come with a frame or mat included, while others are sold unframed. Consider how you'll display the print when making your selection",
-      "image_urls": ["https://inspirationfeeed.wordpress.com/wp-content/uploads/2014/03/20481.jpg"],
+      "details": "Size: intimate & small , Finish: Some prints may come with a frame or mat included, while others are sold unframed. Consider how you'll display the print when making your selection",
+      "image_urls": [
+        "https://inspirationfeeed.wordpress.com/wp-content/uploads/2014/03/20481.jpg"
+      ],
       "auction_end_time": "23:00:00",
-      "auction_start_time": "21:00:00"
+      "auction_start_time": "21:00:00",
+      "id": "a8d3"
     },
-  
     {
       "item_id": 1,
       "name": "Mid-Century Modern Armchair",
       "category": "Furniture and Home Decoration",
       "starting_bid": 199.99,
       "description": "Stylish and comfortable mid-century modern armchair,Embrace the iconic style of the 1950s and 60s with a mid-century modern armchair. This piece of furniture isn't just about comfort; it's a statement piece that injects a touch of vintage flair and timeless design into your home.",
-      "details":"Material: Consider the look you're going for. Opt for the warmth of wood and leather for a classic feel, or choose a chrome and vinyl combination for a more space-age aesthetic.Upholstery: Choose a fabric that complements your existing decor and suits your lifestyle. Leather offers a luxurious feel, while wool or synthetic blends provide durability and easy care.Condition: When considering vintage pieces, look for normal wear and tear consistent with age. ",
-      "image_urls": ["https://epochfurnishings.com/wp-content/uploads/2017/10/mid-century-modern-walnut-spindled-back-armchair-baumritter-5.jpg"],
+      "details": "Material: Consider the look you're going for. Opt for the warmth of wood and leather for a classic feel, or choose a chrome and vinyl combination for a more space-age aesthetic.Upholstery: Choose a fabric that complements your existing decor and suits your lifestyle. Leather offers a luxurious feel, while wool or synthetic blends provide durability and easy care.Condition: When considering vintage pieces, look for normal wear and tear consistent with age. ",
+      "image_urls": [
+        "https://epochfurnishings.com/wp-content/uploads/2017/10/mid-century-modern-walnut-spindled-back-armchair-baumritter-5.jpg"
+      ],
       "auction_end_time": "14:00:00Z",
-      "auction_start_time": "12:30:00Z"
+      "auction_start_time": "12:30:00Z",
+      "id": "402b"
     },
     {
       "item_id": 2,
@@ -328,10 +412,13 @@
       "category": "Furniture and Home Decoration",
       "starting_bid": 79.99,
       "description": "Soft and stylish woven area rug in various sizes and patterns,Woven area rugs are a beautiful and practical way to add comfort, style, and definition to any space. They come in a vast array of colors, patterns, and textures, making them a versatile choice for any decor.",
-      "details":"Comfort and Warmth: Woven area rugs provide a soft and comfortable layer underfoot, especially on hardwood or tile floors. Noise Reduction: Rugs help absorb sound, creating a quieter and more peaceful environment in your home.Floor Protection: A woven area rug can protect your floors from scratches, spills, and everyday wear and tear.",
-      "image_urls": ["https://secure.img2-fg.wfcdn.com/im/d5ea3c03/resize-h2000-p1-w2000%5Ecompr-r85/3707/37075596/Grassmere+Hand-Woven+Area+Rug.jpg"],
+      "details": "Comfort and Warmth: Woven area rugs provide a soft and comfortable layer underfoot, especially on hardwood or tile floors. Noise Reduction: Rugs help absorb sound, creating a quieter and more peaceful environment in your home.Floor Protection: A woven area rug can protect your floors from scratches, spills, and everyday wear and tear.",
+      "image_urls": [
+        "https://secure.img2-fg.wfcdn.com/im/d5ea3c03/resize-h2000-p1-w2000%5Ecompr-r85/3707/37075596/Grassmere+Hand-Woven+Area+Rug.jpg"
+      ],
       "auction_end_time": "11:00:00",
-      "auction_start_time": "09:30:00"
+      "auction_start_time": "09:30:00",
+      "id": "85f6"
     },
     {
       "item_id": 3,
@@ -339,10 +426,13 @@
       "category": "Furniture and Home Decoration",
       "starting_bid": 349.99,
       "description": "Modern dining table set with chairs, perfect for gatherings.A dining table set is the centerpiece of your dining room, a place for gathering friends and family to create lasting memories over delicious meals and conversation.",
-      "details":"Classic and Traditional: Rich wood finishes like mahogany or cherry. Modern and Sleek: Clean lines, geometric shapes, glass tabletops with metal bases. Rustic and Natural: Reclaimed wood, natural fibers like woven rattan. Mid-Century Modern: Tapered legs, organic shapes, walnut or teak materials.",
-      "image_urls": ["https://images.furnituredealer.net/img/products/new_classic/color/oscar-1869927981_d1651-11%2B20-b3.jpg"],
+      "details": "Classic and Traditional: Rich wood finishes like mahogany or cherry. Modern and Sleek: Clean lines, geometric shapes, glass tabletops with metal bases. Rustic and Natural: Reclaimed wood, natural fibers like woven rattan. Mid-Century Modern: Tapered legs, organic shapes, walnut or teak materials.",
+      "image_urls": [
+        "https://images.furnituredealer.net/img/products/new_classic/color/oscar-1869927981_d1651-11%2B20-b3.jpg"
+      ],
       "auction_end_time": "09:30:00",
-      "auction_start_time": "08:00:00"
+      "auction_start_time": "08:00:00",
+      "id": "6ff1"
     },
     {
       "item_id": 4,
@@ -350,10 +440,13 @@
       "category": "Furniture and Home Decoration",
       "starting_bid": 299.99,
       "description": "Set of decorative throw pillows to add a pop of color.Decorative pillow sets come in a vast array of colors, patterns, textures, and sizes. You can find sets with a cohesive theme, like florals or geometric patterns, or mix-and-match sets with contrasting colors and textures for a playful look.",
-      "details":"Number of Pillows: Sets typically include 2-4 pillows .Size:18 inch x 18 inch,Decorative pillow sets can be easily swapped out seasonally to refresh your decor.",
-      "image_urls": ["https://i5.walmartimages.com/asr/426e0787-23b9-429c-b10a-869590b3745d_1.88179e39ec6e2a1d1b4b82cdab987dcb.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff"],
+      "details": "Number of Pillows: Sets typically include 2-4 pillows .Size:18 inch x 18 inch,Decorative pillow sets can be easily swapped out seasonally to refresh your decor.",
+      "image_urls": [
+        "https://i5.walmartimages.com/asr/426e0787-23b9-429c-b10a-869590b3745d_1.88179e39ec6e2a1d1b4b82cdab987dcb.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff"
+      ],
       "auction_end_time": "12:30:00",
-      "auction_start_time": "11:00:00"
+      "auction_start_time": "11:00:00",
+      "id": "836b"
     },
     {
       "item_id": 5,
@@ -361,10 +454,13 @@
       "category": "Furniture and Home Decoration",
       "starting_bid": 149.99,
       "description": "Functional coffee table with storage compartments.A coffee table with storage becomes a stylish and functional centerpiece for your living room, offering hidden compartments to keep your space organized and clutter-free.",
-      "details":"Versatile Style: No matter your taste, there's a coffee table with storage to match. Find minimalistic designs with hidden drawers, rustic tables with woven baskets for storage, or ottomans with lift-top surfaces that reveal compartments.",
-      "image_urls": ["https://i5.walmartimages.com/asr/a9dbee1d-dadb-4350-9f26-f12798d542cf_2.ccf79caafa7340f6462ee65ea52b22d5.jpeg"],
+      "details": "Versatile Style: No matter your taste, there's a coffee table with storage to match. Find minimalistic designs with hidden drawers, rustic tables with woven baskets for storage, or ottomans with lift-top surfaces that reveal compartments.",
+      "image_urls": [
+        "https://i5.walmartimages.com/asr/a9dbee1d-dadb-4350-9f26-f12798d542cf_2.ccf79caafa7340f6462ee65ea52b22d5.jpeg"
+      ],
       "auction_end_time": "13:00:00",
-      "auction_start_time": "11:30:00"
+      "auction_start_time": "11:30:00",
+      "id": "bcd3"
     },
     {
       "item_id": 6,
@@ -372,10 +468,13 @@
       "category": "Furniture and Home Decoration",
       "starting_bid": 59.99,
       "description": "Stylish floor lamp for ambient lighting.:Modern floor lamps typically have clean lines and uncluttered designs. They often feature geometric shapes, such as spheres, cones, and squares.",
-      "details":"High-quality materials: Modern floor lamps are often made from high-quality materials, such as metal, glass, and marble. These materials give the lamps a sleek and sophisticated look.Functional design: Modern floor lamps are designed to be both stylish and functional. ",
-      "image_urls": ["https://static.welldonestuff.com/images/modern_twist_lamp_contemporary.jpg"],
+      "details": "High-quality materials: Modern floor lamps are often made from high-quality materials, such as metal, glass, and marble. These materials give the lamps a sleek and sophisticated look.Functional design: Modern floor lamps are designed to be both stylish and functional. ",
+      "image_urls": [
+        "https://static.welldonestuff.com/images/modern_twist_lamp_contemporary.jpg"
+      ],
       "auction_end_time": "11:00:00",
-      "auction_start_time": "09:00:00"
+      "auction_start_time": "09:00:00",
+      "id": "ebb9"
     },
     {
       "item_id": 7,
@@ -383,10 +482,13 @@
       "category": "Furniture and Home Decoration",
       "starting_bid": 229.99,
       "description": "Sturdy and comfortable queen-size bed frame.Platform beds are a simple and stylish option. They typically have a solid base that supports the mattress, eliminating the need for a box spring. Platform beds can be made from a variety of materials, including wood, metal, and upholstered fabric.",
-      "details":"Queen-size bed frames are designed to fit a standard queen-size mattress, which measures 60 inches wide by 80 inches long. However, the actual dimensions of the bed frame itself can vary depending on the style.  In general, you can expect a queen-size bed frame to be somewhere between 62-65 inches wide and 82-85 inches long.",
-      "image_urls": ["https://i5.walmartimages.com/asr/5566947f-8e55-4281-8b59-e117b6e8e6f7.c503a7fb346c03279b2fc63c4207911c.jpeg"],
+      "details": "Queen-size bed frames are designed to fit a standard queen-size mattress, which measures 60 inches wide by 80 inches long. However, the actual dimensions of the bed frame itself can vary depending on the style.  In general, you can expect a queen-size bed frame to be somewhere between 62-65 inches wide and 82-85 inches long.",
+      "image_urls": [
+        "https://i5.walmartimages.com/asr/5566947f-8e55-4281-8b59-e117b6e8e6f7.c503a7fb346c03279b2fc63c4207911c.jpeg"
+      ],
       "auction_end_time": "17:00:00",
-      "auction_start_time": "15:00:00"
+      "auction_start_time": "15:00:00",
+      "id": "01b8"
     },
     {
       "item_id": 8,
@@ -394,10 +496,13 @@
       "category": "Furniture and Home Decoration",
       "starting_bid": 34.99,
       "description": "Set of decorative ceramic vases in various sizes and colors.A set of ceramic vases is a beautiful and versatile decorative item that can be used to add style and elegance to any home. They come in a wide variety of sizes, shapes, and colors, so you can find a set that perfectly complements your existing décor.",
-      "details":"Style: Vases come in a variety of styles, from traditional to modern. Shape: Vases come in a wide variety of shapes, from classic cylinders to more modern organic forms.",
-      "image_urls": ["https://i.pinimg.com/originals/b7/ba/37/b7ba37e4dc299f407676544b272164e5.jpg"],
+      "details": "Style: Vases come in a variety of styles, from traditional to modern. Shape: Vases come in a wide variety of shapes, from classic cylinders to more modern organic forms.",
+      "image_urls": [
+        "https://i.pinimg.com/originals/b7/ba/37/b7ba37e4dc299f407676544b272164e5.jpg"
+      ],
       "auction_end_time": "19:00:00",
-      "auction_start_time": "17:00:00"
+      "auction_start_time": "17:00:00",
+      "id": "d0db"
     },
     {
       "item_id": 9,
@@ -405,260 +510,321 @@
       "category": "Furniture and Home Decoration",
       "starting_bid": 499.99,
       "description": "Relaxing outdoor patio furniture set for enjoying the sunshine.An outdoor patio furniture set is a great way to create a comfortable and inviting space to relax and enjoy the outdoors. They come in a wide variety of materials, styles, and sizes to suit your needs and budget.",
-      "details":"Style: Consider the style of your home and garden when choosing outdoor furniture. Use: Think about how you will be using your patio furniture. If you will be using it for dining, you will need a table and chairs.",
-      "image_urls": ["https://i5.walmartimages.com/asr/45566bec-5f9c-4412-aa65-e4c22bebcbb3_1.213fd2662100f20b04fe71ffe2f8559f.jpeg"],
+      "details": "Style: Consider the style of your home and garden when choosing outdoor furniture. Use: Think about how you will be using your patio furniture. If you will be using it for dining, you will need a table and chairs.",
+      "image_urls": [
+        "https://i5.walmartimages.com/asr/45566bec-5f9c-4412-aa65-e4c22bebcbb3_1.213fd2662100f20b04fe71ffe2f8559f.jpeg"
+      ],
       "auction_end_time": "21:00:00",
-      "auction_start_time": "19:00:00"
+      "auction_start_time": "19:00:00",
+      "id": "6081"
     },
-    
     {
       "item_id": 10,
       "name": "Scandinavian-Style Sofa",
       "category": "Furniture and Home Decoration",
       "starting_bid": 599.99,
       "description": "Sleek and minimalist Scandinavian-style sofa.Scandinavian sofas tend to prioritize functionality and clean lines over bulky or overly plush designs.",
-      "details":"Length:They typically range between 6 feet (183 cm) to 8 feet (244 cm) long, perfect for smaller living spaces or creating a more open and airy feel in larger rooms.Depth:The depth of a Scandinavian sofa usually falls between 30-35 inches (76-89 cm),",
-      "image_urls": ["https://uk.privatefloor.com/images/variations/5096.jpeg"],
+      "details": "Length:They typically range between 6 feet (183 cm) to 8 feet (244 cm) long, perfect for smaller living spaces or creating a more open and airy feel in larger rooms.Depth:The depth of a Scandinavian sofa usually falls between 30-35 inches (76-89 cm),",
+      "image_urls": [
+        "https://uk.privatefloor.com/images/variations/5096.jpeg"
+      ],
       "auction_end_time": "23:00:00",
-      "auction_start_time": "21:00:00"
+      "auction_start_time": "21:00:00",
+      "id": "09b5"
     },
-   
-  
-  {
+    {
       "item_id": 1,
       "name": "Used Sedan - Reliable & Affordable",
       "category": "Vehicles",
-      "starting_bid": 59999.00,
+      "starting_bid": 59999,
       "description": "A reliable and fuel-efficient used sedan, perfect for everyday driving. Make and model details to be provided upon winning the auction.",
-      "details":"Engaging to Drive: The Mazda3 is known for its fun driving dynamics and sharp handling, making it a pleasure to drive. Stylish: The Mazda3 offers a stylish and sporty design that sets it apart from other sedans in this class.Fuel-Efficient: The Mazda3 delivers good fuel economy, especially with the SKYACTIV® engine technologies.",
-      "image_urls": ["https://s1.cdn.autoevolution.com/images/news/gallery/these-are-the-five-most-reliable-used-sedans-you-can-get-for-5000-or-less_13.jpg"],
+      "details": "Engaging to Drive: The Mazda3 is known for its fun driving dynamics and sharp handling, making it a pleasure to drive. Stylish: The Mazda3 offers a stylish and sporty design that sets it apart from other sedans in this class.Fuel-Efficient: The Mazda3 delivers good fuel economy, especially with the SKYACTIV® engine technologies.",
+      "image_urls": [
+        "https://s1.cdn.autoevolution.com/images/news/gallery/these-are-the-five-most-reliable-used-sedans-you-can-get-for-5000-or-less_13.jpg"
+      ],
       "auction_end_time": "14:00:00Z",
-      "auction_start_time": "12:30:00Z"
+      "auction_start_time": "12:30:00Z",
+      "id": "65b4"
     },
     {
       "item_id": 2,
       "name": "Classic Motorcycle - Restored Vintage Beauty",
       "category": "Vehicles",
-      "starting_bid": 89999.00,
+      "starting_bid": 89999,
       "description": "A meticulously restored classic motorcycle, a head-turner for any enthusiast. Year, make, and model details to be provided upon winning the auction.",
-      "details":"Restoration Details: This is where the real individuality comes in. Descriptions should detail the restoration work done.Frame: Look for information on the frame's condition and any repairs made. Was it repainted to its original color or a custom color? Bodywork: Descriptions will mention any bodywork replaced or repaired. This could include the fuel tank, fenders, or side panels. Components: Listings will detail restored or replaced components like chrome parts (handlebars, exhaust pipes), wheels, tires, lights, and instruments.",
-      "image_urls": ["https://i.pinimg.com/originals/a9/2d/33/a92d331ae8bced8ad8d4b91210d80110.jpg"],
+      "details": "Restoration Details: This is where the real individuality comes in. Descriptions should detail the restoration work done.Frame: Look for information on the frame's condition and any repairs made. Was it repainted to its original color or a custom color? Bodywork: Descriptions will mention any bodywork replaced or repaired. This could include the fuel tank, fenders, or side panels. Components: Listings will detail restored or replaced components like chrome parts (handlebars, exhaust pipes), wheels, tires, lights, and instruments.",
+      "image_urls": [
+        "https://i.pinimg.com/originals/a9/2d/33/a92d331ae8bced8ad8d4b91210d80110.jpg"
+      ],
       "auction_end_time": "11:00:00",
-      "auction_start_time": "09:30:00"
-  
+      "auction_start_time": "09:30:00",
+      "id": "0424"
     },
     {
       "item_id": 3,
       "name": "Electric Scooter - Eco-Friendly & Fun",
       "category": "Vehicles",
-      "starting_bid": 89999.00,
+      "starting_bid": 89999,
       "description": "A brand-new electric scooter, perfect for short commutes and eco-conscious riders. Make and model details to be provided upon winning the auction.Electric scooters are a fun and eco-friendly way to get around, especially for short trips around town.",
-      "details":"Battery Capacity: How far do you typically need to ride on a single charge? Choose a battery capacity that will accommodate your needs.Top Speed: Electric scooter speeds are typically limited by law, often ranging from 15-60 mph (24-98 km/h). Braking System: Disc brakes offer better stopping power than drum brakes",
-      "image_urls": ["https://i5.walmartimages.com/asr/fe023053-5588-43cb-9ef3-b727aef79fba.4bbe72b72e2824f86a167bc44c50dc90.jpeg"],
+      "details": "Battery Capacity: How far do you typically need to ride on a single charge? Choose a battery capacity that will accommodate your needs.Top Speed: Electric scooter speeds are typically limited by law, often ranging from 15-60 mph (24-98 km/h). Braking System: Disc brakes offer better stopping power than drum brakes",
+      "image_urls": [
+        "https://i5.walmartimages.com/asr/fe023053-5588-43cb-9ef3-b727aef79fba.4bbe72b72e2824f86a167bc44c50dc90.jpeg"
+      ],
       "auction_end_time": "09:30:00",
-      "auction_start_time": "08:00:00"
+      "auction_start_time": "08:00:00",
+      "id": "0977"
     },
     {
       "item_id": 4,
       "name": "Luxury SUV - Spacious & Powerful",
       "category": "Vehicles",
-      "starting_bid": 299999.00,
+      "starting_bid": 299999,
       "description": "A luxurious and powerful SUV, offering comfort and performance. Make and model details to be provided upon winning the auction.Luxury SUVs combine the functionality of a sport utility vehicle with the opulence and comfort of a high-end car. ",
-      "details":"powerful engines with 6 or 8 cylinders,Transmission: Automatic transmissions are standard, often with 8 or 10 speeds for smooth shifting.Drivetrain: All-wheel drive (AWD) is common for all-weather capability.",
-      "image_urls": ["https://www.expressandstar.com/resizer/IGX4wiMY1LE7SpShVTK5uWq8Kbw=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/F4TKPSMSKREC3NBT5YUBBUROKY.jpg"],
+      "details": "powerful engines with 6 or 8 cylinders,Transmission: Automatic transmissions are standard, often with 8 or 10 speeds for smooth shifting.Drivetrain: All-wheel drive (AWD) is common for all-weather capability.",
+      "image_urls": [
+        "https://www.expressandstar.com/resizer/IGX4wiMY1LE7SpShVTK5uWq8Kbw=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/F4TKPSMSKREC3NBT5YUBBUROKY.jpg"
+      ],
       "auction_end_time": "12:30:00",
-      "auction_start_time": "11:00:00"
+      "auction_start_time": "11:00:00",
+      "id": "b7f7"
     },
     {
       "item_id": 5,
       "name": "Off-Road Truck - Adventure Awaits",
       "category": "Vehicles",
-      "starting_bid": 159999.00,
+      "starting_bid": 159999,
       "description": "A capable off-road truck, ready for your next adventure. Make and model details to be provided upon winning the auction.high-performance off-road truck known for its impressive capabilities and aggressive styling.",
-      "details":"They come equipped with powerful engines, typically V6 or V8, that provide the necessary torque and horsepower to navigate challenging off-road conditions.A four-wheel drive system with low-range gearing is essential for off-road driving. ",
-      "image_urls": ["https://www.motortrend.com/uploads/sites/11/2017/11/Legacy-Classic-Trucks-Dodge-Power-Wagon-10.jpg"],
+      "details": "They come equipped with powerful engines, typically V6 or V8, that provide the necessary torque and horsepower to navigate challenging off-road conditions.A four-wheel drive system with low-range gearing is essential for off-road driving. ",
+      "image_urls": [
+        "https://www.motortrend.com/uploads/sites/11/2017/11/Legacy-Classic-Trucks-Dodge-Power-Wagon-10.jpg"
+      ],
       "auction_end_time": "13:00:00",
-      "auction_start_time": "11:30:00"
+      "auction_start_time": "11:30:00",
+      "id": "5216"
     },
     {
       "item_id": 6,
       "name": "Custom Motorcycle - A Work of Art",
       "category": "Vehicles",
-      "starting_bid": 99999.00,
+      "starting_bid": 99999,
       "description": "A one-of-a-kind custom motorcycle, built with passion and precision. Details and starting bid to be confirmed upon final inspection.Custom motorcycles are motorcycles that have been modified from their original state to reflect the owner's personality, riding style, or desired functionality.  ",
-      "details":"This might involve cosmetic changes like handlebars, mirrors, seats, or a different paint job.This involves modifying the engine, suspension, or brakes to improve performance.These are motorcycles that are essentially built from scratch, using a custom frame and a variety of aftermarket parts. ",
-      "image_urls": ["https://www.hdwallpaper.nu/wp-content/uploads/2021/03/custom_motorcycle-21.jpg"],
+      "details": "This might involve cosmetic changes like handlebars, mirrors, seats, or a different paint job.This involves modifying the engine, suspension, or brakes to improve performance.These are motorcycles that are essentially built from scratch, using a custom frame and a variety of aftermarket parts. ",
+      "image_urls": [
+        "https://www.hdwallpaper.nu/wp-content/uploads/2021/03/custom_motorcycle-21.jpg"
+      ],
       "auction_end_time": "11:00:00",
-      "auction_start_time": "09:00:00"
+      "auction_start_time": "09:00:00",
+      "id": "d91d"
     },
     {
       "item_id": 7,
       "name": "Electric Car - The Future of Driving",
       "category": "Vehicles",
-      "starting_bid": 349999.00,
+      "starting_bid": 349999,
       "description": "A sleek and innovative electric car, offering a sustainable driving experience. Make and model details to be provided upon winning the auction.Electric cars are powered by electricity stored in onboard batteries, making them a quiet and eco-friendly alternative to gasoline-powered vehicles.",
-      "details":"Electric Motor:The electric motor replaces the gasoline engine in a traditional car.Battery Pack:The battery pack stores the electricity that powers the electric motor.",
-      "image_urls": ["https://lerablog.org/wp-content/uploads/2013/12/Electric-Cars-1024x682.jpg"],
+      "details": "Electric Motor:The electric motor replaces the gasoline engine in a traditional car.Battery Pack:The battery pack stores the electricity that powers the electric motor.",
+      "image_urls": [
+        "https://lerablog.org/wp-content/uploads/2013/12/Electric-Cars-1024x682.jpg"
+      ],
       "auction_end_time": "17:00:00",
-      "auction_start_time": "15:00:00"
+      "auction_start_time": "15:00:00",
+      "id": "f4de"
     },
     {
       "item_id": 8,
       "name": "Vintage Sports Car - A Timeless Classic",
       "category": "Vehicles",
-      "starting_bid": 129990.00,
+      "starting_bid": 129990,
       "description": "A beautiful and well-maintained vintage sports car, a collector's dream. Year, make, and model details to be provided upon winning the auction.Vintage sports cars are like rolling pieces of automotive history, combining timeless design with the thrill of driving a machine built for performance.",
-      "details":"Classic Design:Vintage sports cars boast iconic design elements that have transcended trends. From the curvaceous figures of the 1930s to the muscular designs of the 1960s, these cars are instantly recognizable and admired for their beauty.",
-      "image_urls": ["https://tse3.mm.bing.net/th?id=OIP.nuobAe6Kyk5TWiCS8I3azgAAAA&pid=Api&P=0&h=180"],
+      "details": "Classic Design:Vintage sports cars boast iconic design elements that have transcended trends. From the curvaceous figures of the 1930s to the muscular designs of the 1960s, these cars are instantly recognizable and admired for their beauty.",
+      "image_urls": [
+        "https://tse3.mm.bing.net/th?id=OIP.nuobAe6Kyk5TWiCS8I3azgAAAA&pid=Api&P=0&h=180"
+      ],
       "auction_end_time": "19:00:00",
-      "auction_start_time": "17:00:00"
+      "auction_start_time": "17:00:00",
+      "id": "4eb9"
     },
     {
       "item_id": 9,
       "name": "Family Van - Comfort for All",
       "category": "Vehicles",
-      "starting_bid": 799900.00,
+      "starting_bid": 799900,
       "description": "A reliable and comfortable family van, perfect for road trips and everyday adventures. Make and model details to be provided upon winning the auction.Family vans, also known as minivans, are lifesavers for families on the go.  They offer unmatched versatility, comfort, and functionality, making them perfect for hauling people and cargo.",
-      "details":"Spacious Interior: Minivans boast a spacious interior with comfortable seating for up to seven or eight passengers. Sliding doors on both sides allow for easy entry and exit, especially for car seats and little ones.Comfort and Convenience: Family vans are designed with comfort and convenience in mind. ",
-      "image_urls": ["https://tse4.mm.bing.net/th?id=OIP.h-94Bvyc4b6Phet0bcKZyQHaE8&pid=Api&P=0&h=180"],
+      "details": "Spacious Interior: Minivans boast a spacious interior with comfortable seating for up to seven or eight passengers. Sliding doors on both sides allow for easy entry and exit, especially for car seats and little ones.Comfort and Convenience: Family vans are designed with comfort and convenience in mind. ",
+      "image_urls": [
+        "https://tse4.mm.bing.net/th?id=OIP.h-94Bvyc4b6Phet0bcKZyQHaE8&pid=Api&P=0&h=180"
+      ],
       "auction_end_time": "21:00:00",
-      "auction_start_time": "19:00:00"
+      "auction_start_time": "19:00:00",
+      "id": "1a93"
     },
     {
       "item_id": 10,
       "name": "Motorcycle Helmet - Safety in Style",
       "category": "Vehicles",
-      "starting_bid": 1990.00,
+      "starting_bid": 1990,
       "description": "A high-quality motorcycle helmet for safe and stylish riding. Make, model, and size details to be provided upon winning the auction.A motorcycle helmet is a crucial piece of safety gear for any rider. It protects your head in the event of a crash, which can be life-saving. ",
-      "details":"Weight: A lighter helmet Ventilation: A well-ventilated helmet",
-      "image_urls": ["https://tse2.mm.bing.net/th?id=OIP.GZzZgE24gxCX9bpYFEOkJQHaHa&pid=Api&P=0&h=180"],
+      "details": "Weight: A lighter helmet Ventilation: A well-ventilated helmet",
+      "image_urls": [
+        "https://tse2.mm.bing.net/th?id=OIP.GZzZgE24gxCX9bpYFEOkJQHaHa&pid=Api&P=0&h=180"
+      ],
       "auction_end_time": "23:00:00",
-      "auction_start_time": "21:00:00"
+      "auction_start_time": "21:00:00",
+      "id": "cde9"
     },
-  
     {
       "item_id": 1,
       "name": "Charming Bungalow in Quiet Neighborhood",
       "category": "Real Estate",
-      "starting_bid": 2300000.00,
+      "starting_bid": 2300000,
       "description": "A delightful bungalow offering cozy living in a peaceful neighborhood. Details like square footage, bedrooms, and bathrooms will be provided upon inquiry.",
-      "details":"Size and Layout: Bungalows are typically single-story homes, ranging from around 1,000 to 2,500 square feet.Architectural Style:Bungalows were most popular from the early 1900s to the 1950sExterior Features: Bungalows often have a low-pitched roof with wide eaves that provide shade and a sense of shelter.",
-      "image_urls": ["https://tse1.mm.bing.net/th?id=OIP.JyxL0AvNUcR4EdnVXC2IkgHaFj&pid=Api&P=0&h=180"],
+      "details": "Size and Layout: Bungalows are typically single-story homes, ranging from around 1,000 to 2,500 square feet.Architectural Style:Bungalows were most popular from the early 1900s to the 1950sExterior Features: Bungalows often have a low-pitched roof with wide eaves that provide shade and a sense of shelter.",
+      "image_urls": [
+        "https://tse1.mm.bing.net/th?id=OIP.JyxL0AvNUcR4EdnVXC2IkgHaFj&pid=Api&P=0&h=180"
+      ],
       "auction_end_time": "14:00:00Z",
-      "auction_start_time": "12:30:00Z"
+      "auction_start_time": "12:30:00Z",
+      "id": "310a"
     },
     {
       "item_id": 2,
       "name": "Modern Condo with City Views",
       "category": "Real Estate",
-      "starting_bid": 3400000.00,
+      "starting_bid": 3400000,
       "description": "Sleek and modern condo boasting stunning city views. Details like square footage, bedrooms, and bathrooms will be provided upon inquiry.A modern condo with city views conjures up images of sleek design, luxurious amenities, and a vibrant urban lifestyle.",
-
-      "details":"Open Floor Plan:Modern condos often feature open floor plans that maximize light and create a sense of spaciousness.Floor-to-Ceiling Windows:Large windows showcase the city views and bathe the interior in natural light. These windows can be made of high-quality materials for soundproofing and energy efficiency.",
-      "image_urls": ["https://homeworlddesign.com/wp-content/uploads/2014/06/Apartment-with-majestic-view-over-the-city-of-San-Francisco-1.jpg"],
+      "details": "Open Floor Plan:Modern condos often feature open floor plans that maximize light and create a sense of spaciousness.Floor-to-Ceiling Windows:Large windows showcase the city views and bathe the interior in natural light. These windows can be made of high-quality materials for soundproofing and energy efficiency.",
+      "image_urls": [
+        "https://homeworlddesign.com/wp-content/uploads/2014/06/Apartment-with-majestic-view-over-the-city-of-San-Francisco-1.jpg"
+      ],
       "auction_end_time": "11:00:00",
-      "auction_start_time": "09:30:00"
-  
+      "auction_start_time": "09:30:00",
+      "id": "4842"
     },
     {
       "item_id": 3,
       "name": "Spacious Family Home in Desirable Area",
       "category": "Real Estate",
-      "starting_bid": 5400000.00,
+      "starting_bid": 5400000,
       "description": "A spacious and inviting family home in a highly sought-after area. Details like square footage, bedrooms, and bathrooms will be provided upon inquiry.A spacious family home in a desirable area ticks many boxes for families looking for comfort, convenience, and a great place to raise children.",
-      "details":"Multiple Bedrooms: These homes typically have 3-5 bedrooms, providing ample space for families to grow and have dedicated rooms for sleep, work, and hobbies.Functional Bathrooms: Family homes often have multiple bathrooms, reducing morning traffic and ensuring everyone has their own space to get ready.",
-      "image_urls": ["https://tse3.mm.bing.net/th?id=OIP.fS6KKLt-oEkCY6NHKjisKgHaE8&pid=Api&P=0&h=180"],
+      "details": "Multiple Bedrooms: These homes typically have 3-5 bedrooms, providing ample space for families to grow and have dedicated rooms for sleep, work, and hobbies.Functional Bathrooms: Family homes often have multiple bathrooms, reducing morning traffic and ensuring everyone has their own space to get ready.",
+      "image_urls": [
+        "https://tse3.mm.bing.net/th?id=OIP.fS6KKLt-oEkCY6NHKjisKgHaE8&pid=Api&P=0&h=180"
+      ],
       "auction_end_time": "09:30:00",
-      "auction_start_time": "08:00:00" 
+      "auction_start_time": "08:00:00",
+      "id": "9d38"
     },
     {
       "item_id": 4,
       "name": "Luxury Estate with Private Pool",
       "category": "Real Estate",
-      "starting_bid": 1500000.00,
+      "starting_bid": 1500000,
       "description": "An opulent estate featuring luxurious amenities and a private pool. Details like square footage, bedrooms, and bathrooms will be provided upon inquiry.Ah, a luxury estate with a private pool – that conjures up images of grand living and resort-style relaxation in your own backyard. ",
-      "details":"Sparkling pools with custom designs.Smart Home Technology:Many luxury estates are equipped with smart home technology, allowing you to control lighting, temperature, security systems, and even appliances with your voice or smartphone.",
-      "image_urls":["https://www.luva-villas.com/img/news_11_crop_0_1671810979.webp"],
+      "details": "Sparkling pools with custom designs.Smart Home Technology:Many luxury estates are equipped with smart home technology, allowing you to control lighting, temperature, security systems, and even appliances with your voice or smartphone.",
+      "image_urls": [
+        "https://www.luva-villas.com/img/news_11_crop_0_1671810979.webp"
+      ],
       "auction_end_time": "12:30:00",
-      "auction_start_time": "11:00:00"
+      "auction_start_time": "11:00:00",
+      "id": "82c3"
     },
     {
       "item_id": 5,
       "name": "Cozy Cabin Retreat in the Mountains",
       "category": "Real Estate",
-      "starting_bid": 1200000.00,
+      "starting_bid": 1200000,
       "description": "A charming cabin nestled in the mountains, perfect for nature enthusiasts. Details like square footage, bedrooms, and bathrooms will be provided upon inquiry.The décor in a cozy cabin is typically uncluttered and focused on comfort. Think comfy couches, warm throws, and rustic furniture that complements the natural surroundings.",
-      "details":"Natural Materials:Cozy cabins are often built with wood, stone, and other natural materials that blend seamlessly with the mountain surroundings. This creates a warm and inviting atmosphere.Fireplace Magic:A central fireplace is a must-have feature in a cozy cabin. Imagine curling up with a good book on a chilly evening while the fire crackles merrily. ",
-      "image_urls":["https://cf.bstatic.com/xdata/images/hotel/max1280x900/505009961.jpg?k=2a96409dc06d55039d1946dbd99bad89ba5617926ff96e6e9646dabde032daec&o=&hp=1"],
+      "details": "Natural Materials:Cozy cabins are often built with wood, stone, and other natural materials that blend seamlessly with the mountain surroundings. This creates a warm and inviting atmosphere.Fireplace Magic:A central fireplace is a must-have feature in a cozy cabin. Imagine curling up with a good book on a chilly evening while the fire crackles merrily. ",
+      "image_urls": [
+        "https://cf.bstatic.com/xdata/images/hotel/max1280x900/505009961.jpg?k=2a96409dc06d55039d1946dbd99bad89ba5617926ff96e6e9646dabde032daec&o=&hp=1"
+      ],
       "auction_end_time": "13:00:00",
-      "auction_start_time": "11:30:00"  
+      "auction_start_time": "11:30:00",
+      "id": "5dec"
     },
     {
       "item_id": 6,
       "name": "Historic Victorian Townhouse",
       "category": "Real Estate",
-      "starting_bid": 2000000.00,
+      "starting_bid": 2000000,
       "description": "A beautifully restored Victorian townhouse steeped in history. Details like square footage, bedrooms, and bathrooms will be provided upon inquiry.Historic Victorian townhouses evoke a sense of old-world charm and elegance.",
-      "details":"Era-Specific Details:Victorian townhouses, built from the mid-1800s to the early 1900s,Grand Entryways:Victorian townhouses often have grand entryways with high ceilings, ornate doors, and transom windows that allow natural light to flow in.Updated Kitchens and Bathrooms",
-      "image_urls":["https://i.pinimg.com/736x/4a/75/21/4a7521b7a0fc7f1836eefe582ad4afc3.jpg"],
+      "details": "Era-Specific Details:Victorian townhouses, built from the mid-1800s to the early 1900s,Grand Entryways:Victorian townhouses often have grand entryways with high ceilings, ornate doors, and transom windows that allow natural light to flow in.Updated Kitchens and Bathrooms",
+      "image_urls": [
+        "https://i.pinimg.com/736x/4a/75/21/4a7521b7a0fc7f1836eefe582ad4afc3.jpg"
+      ],
       "auction_end_time": "11:00:00",
-      "auction_start_time": "09:00:00"  
+      "auction_start_time": "09:00:00",
+      "id": "5d7b"
     },
     {
       "item_id": 7,
       "name": "Beachfront Property with Breathtaking Views",
       "category": "Real Estate",
-      "starting_bid": 890000.00,
+      "starting_bid": 890000,
       "description": "A dream beachfront property offering stunning ocean views. Details like square footage, bedrooms, and bathrooms will be provided upon inquiry.A beachfront property with breathtaking views is the epitome of coastal living. ",
-      "details":"Beachfront condo or a luxurious estate, expansive windows or a spacious balcony will ensure you can maximize your enjoyment of the seascape.The sound of waves crashing is a natural soother, proven to reduce stress and promote relaxation. ",
-      "image_urls": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/409037062.jpg?k=6689d0fa16b5f990a68c3e98d49427803cac21eac8d229df840835cd59001288&o=&hp=1"],
+      "details": "Beachfront condo or a luxurious estate, expansive windows or a spacious balcony will ensure you can maximize your enjoyment of the seascape.The sound of waves crashing is a natural soother, proven to reduce stress and promote relaxation. ",
+      "image_urls": [
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409037062.jpg?k=6689d0fa16b5f990a68c3e98d49427803cac21eac8d229df840835cd59001288&o=&hp=1"
+      ],
       "auction_end_time": "17:00:00",
-      "auction_start_time": "15:00:00"  
+      "auction_start_time": "15:00:00",
+      "id": "d1cd"
     },
     {
       "item_id": 8,
       "name": "Studio Apartment in Prime Location",
       "category": "Real Estate",
-      "starting_bid": 900000.00,
+      "starting_bid": 900000,
       "description": "A functional studio apartment in a vibrant and central location. Details like square footage and amenities will be provided upon inquiry. It's ideal for young professionals, students, or anyone who prioritizes a vibrant city life over a lot of space.",
-      "details":"Studio apartments, typically ranging from 250 to 500 square feet, offer a single main living area. The studio functions as a living room, bedroom, and sometimes even a kitchen all in one. Utilizing furniture like Murphy beds, fold-out tables, and room dividers can help create designated areas within the limited space.",
-      "image_urls": ["https://images.trvl-media.com/lodging/50000000/49240000/49238000/49237996/ff1c0631.jpg?impolicy=resizecrop&rw=500&ra=fit"],
+      "details": "Studio apartments, typically ranging from 250 to 500 square feet, offer a single main living area. The studio functions as a living room, bedroom, and sometimes even a kitchen all in one. Utilizing furniture like Murphy beds, fold-out tables, and room dividers can help create designated areas within the limited space.",
+      "image_urls": [
+        "https://images.trvl-media.com/lodging/50000000/49240000/49238000/49237996/ff1c0631.jpg?impolicy=resizecrop&rw=500&ra=fit"
+      ],
       "auction_end_time": "19:00:00",
-      "auction_start_time": "17:00:00"
+      "auction_start_time": "17:00:00",
+      "id": "db71"
     },
     {
       "item_id": 9,
       "name": "Investment Opportunity: Apartment Building",
       "category": "Real Estate",
-      "starting_bid": 1000000.00,
+      "starting_bid": 1000000,
       "description": "A multi-unit apartment building offering a great investment opportunity. Details like number of units and square footage will be provided upon inquiry.Investing in an apartment building can be a lucrative opportunity, offering the potential for steady income, property appreciation, and tax benefits.",
-      "details":"Tax Benefits: You may qualify for tax deductions on mortgage interest, property taxes, and depreciation. It's important to consult with a tax advisor for specific details.Direct Ownership: This involves purchasing an apartment building outright. It offers the highest potential returns but also comes with the most responsibility.",
-      "image_urls": ["https://miro.medium.com/v2/resize:fit:652/0*ayp9ZfcdbS2lZ-ef.jpg"],
+      "details": "Tax Benefits: You may qualify for tax deductions on mortgage interest, property taxes, and depreciation. It's important to consult with a tax advisor for specific details.Direct Ownership: This involves purchasing an apartment building outright. It offers the highest potential returns but also comes with the most responsibility.",
+      "image_urls": [
+        "https://miro.medium.com/v2/resize:fit:652/0*ayp9ZfcdbS2lZ-ef.jpg"
+      ],
       "auction_end_time": "21:00:00",
-      "auction_start_time": "19:00:00"
+      "auction_start_time": "19:00:00",
+      "id": "ad76"
     },
     {
       "item_id": 10,
       "name": "Commercial Property with High Visibility",
       "category": "Real Estate",
-      "starting_bid": 1005000.00,
+      "starting_bid": 1005000,
       "description": "A commercial property with excellent visibility and prime location. Details like square footage and zoning will be provided upon inquiry. the property will be situated on a busy road with high traffic counts. This ensures a large audience sees the business and increases the likelihood of attracting customers.",
-      "details":"High Frontage: A property with a large frontage along a busy road allows for prominent signage. This is your chance to showcase your brand and grab attention.Eye-Catching Design: The building's design itself should be visually appealing and eye-catching to stand out from surrounding structures.",
-      "image_urls": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfpKXbECDA-2A-r8c32nLuWyKUdWrzyQPUg&usqp=CAU"],
+      "details": "High Frontage: A property with a large frontage along a busy road allows for prominent signage. This is your chance to showcase your brand and grab attention.Eye-Catching Design: The building's design itself should be visually appealing and eye-catching to stand out from surrounding structures.",
+      "image_urls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfpKXbECDA-2A-r8c32nLuWyKUdWrzyQPUg&usqp=CAU"
+      ],
       "auction_end_time": "23:00:00",
-      "auction_start_time": "21:00:00"
+      "auction_start_time": "21:00:00",
+      "id": "266d"
     },
-    
     {
       "item_id": 1,
       "name": "Flowy Floral Maxi Dress",
       "category": "Fashion",
       "starting_bid": 309.99,
       "description": "A breezy and elegant maxi dress with a beautiful floral print. Perfect for summer days or special occasions.A flowy floral maxi dress is a versatile and stylish piece that can be dressed up or down for any occasion. It's a perfect outfit for summer as the loose-fitting silhouette keeps you cool and comfortable.",
-      "details":"For a more dressed-up look:Add some heels or wedges and a statement necklace or earrings. You can also try a clutch or a belt to cinch in your waist and add some definition.",
-      "image_urls":["https://n.nordstrommedia.com/id/sr3/4edcd329-afc2-4cf1-aadb-a5550a8da401.jpeg?crop=pad&w=780&h=1196"],
+      "details": "For a more dressed-up look:Add some heels or wedges and a statement necklace or earrings. You can also try a clutch or a belt to cinch in your waist and add some definition.",
+      "image_urls": [
+        "https://n.nordstrommedia.com/id/sr3/4edcd329-afc2-4cf1-aadb-a5550a8da401.jpeg?crop=pad&w=780&h=1196"
+      ],
       "auction_end_time": "14:00:00Z",
-      "auction_start_time": "12:30:00Z" 
+      "auction_start_time": "12:30:00Z",
+      "id": "4e6a"
     },
     {
       "item_id": 2,
@@ -666,11 +832,13 @@
       "category": "Fashion",
       "starting_bid": 300.99,
       "description": "A timeless and versatile leather jacket that will never go out of style. Adds a touch of edge to any outfit.A classic leather jacket is a timeless wardrobe staple that offers both style and functionality. ",
-      "details":"Durable Material: Leather is a resilient material that can last for years with proper care. This makes it a worthwhile investment for your wardrobe.asymmetrical zipper closure, lapel collars, and zippered pockets.",
-      "image_urls": ["https://thelong-voyage.com/cdn/shop/products/Jacket_91.jpg?v=1625811264"],
+      "details": "Durable Material: Leather is a resilient material that can last for years with proper care. This makes it a worthwhile investment for your wardrobe.asymmetrical zipper closure, lapel collars, and zippered pockets.",
+      "image_urls": [
+        "https://thelong-voyage.com/cdn/shop/products/Jacket_91.jpg?v=1625811264"
+      ],
       "auction_end_time": "11:00:00",
-      "auction_start_time": "09:30:00"
-  
+      "auction_start_time": "09:30:00",
+      "id": "1dda"
     },
     {
       "item_id": 3,
@@ -678,10 +846,13 @@
       "category": "Fashion",
       "starting_bid": 790.99,
       "description": "A luxurious and soft cashmere sweater that will keep you warm and stylish. Perfect for layering in colder weather.It  offers  unmatched softness, warmth, and breathability, making it a perfect choice for cooler weather.",
-      "details":"Softness Supreme: Cashmere is renowned for its incredibly soft feel against the skin. The fine fibers are much thinner than wool, creating a luxurious and gentle touch.Lightweight Warmth: Cashmere fibers trap air effectively, providing excellent insulation without feeling bulky. This makes it ideal for layering or wearing on its own on chilly days.Breathable Fabric: Cashmere allows your skin to breathe, preventing overheating and ensuring comfortable wear throughout the day.",
-      "image_urls": ["https://plus.unsplash.com/premium_photo-1705554519628-5d17d796e488?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
+      "details": "Softness Supreme: Cashmere is renowned for its incredibly soft feel against the skin. The fine fibers are much thinner than wool, creating a luxurious and gentle touch.Lightweight Warmth: Cashmere fibers trap air effectively, providing excellent insulation without feeling bulky. This makes it ideal for layering or wearing on its own on chilly days.Breathable Fabric: Cashmere allows your skin to breathe, preventing overheating and ensuring comfortable wear throughout the day.",
+      "image_urls": [
+        "https://plus.unsplash.com/premium_photo-1705554519628-5d17d796e488?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
       "auction_end_time": "09:30:00",
-      "auction_start_time": "08:00:00"
+      "auction_start_time": "08:00:00",
+      "id": "5fe8"
     },
     {
       "item_id": 4,
@@ -689,10 +860,13 @@
       "category": "Fashion",
       "starting_bid": 490.99,
       "description": "High-waisted and relachxed-fit mom jeans, a current fashion staple. Flattering and comfortable for everyday wear.Trendy mom jeans are a relaxed-fit style that blends comfort and fashion.",
-      "details":"Confidence Booster:  The high waist can offer a confidence boost by smoothing your tummy and creating a more defined waist.Unlike the baggy mom jeans of the 90s, trendy mom jeans offer a more flattering silhouette.  They have a high waist that sits at your natural waistline or slightly above, and relaxed fit through the hips and thighs.",
-      "image_urls": ["https://m.media-amazon.com/images/I/61ymfOSc6lL.AC_UY1100.jpg"],
+      "details": "Confidence Booster:  The high waist can offer a confidence boost by smoothing your tummy and creating a more defined waist.Unlike the baggy mom jeans of the 90s, trendy mom jeans offer a more flattering silhouette.  They have a high waist that sits at your natural waistline or slightly above, and relaxed fit through the hips and thighs.",
+      "image_urls": [
+        "https://m.media-amazon.com/images/I/61ymfOSc6lL.AC_UY1100.jpg"
+      ],
       "auction_end_time": "12:30:00",
-      "auction_start_time": "11:00:00"
+      "auction_start_time": "11:00:00",
+      "id": "dba7"
     },
     {
       "item_id": 5,
@@ -700,10 +874,13 @@
       "category": "Fashion",
       "starting_bid": 190.99,
       "description": "A pair of eye-catching earrings that will add personality to any outfit. Available in various styles and colors.Statement earrings are all about adding personality and drama to your outfit. They come in a wide variety of styles, sizes, and colors, making them perfect for any occasion where you want to stand out.",
-      "details":" They can be large, oversized, or feature unique shapes, colors, and textures that turn heads.prefer classic pearls",
-      "image_urls":["https://www.liliorigin.com/cdn/shop/files/14_51084645-f265-4f8b-9318-a132944ba036.jpg?v=1700900304&width=823"],
+      "details": " They can be large, oversized, or feature unique shapes, colors, and textures that turn heads.prefer classic pearls",
+      "image_urls": [
+        "https://www.liliorigin.com/cdn/shop/files/14_51084645-f265-4f8b-9318-a132944ba036.jpg?v=1700900304&width=823"
+      ],
       "auction_end_time": "13:00:00",
-      "auction_start_time": "11:30:00" 
+      "auction_start_time": "11:30:00",
+      "id": "55ff"
     },
     {
       "item_id": 6,
@@ -711,21 +888,27 @@
       "category": "Fashion",
       "starting_bid": 599.99,
       "description": "A sleek and sophisticated watch with a clean design. Perfect for everyday wear or dressier occasions.A minimalist watch is the epitome of pared-back sophistication. It shuns unnecessary elements, focusing on clean lines, functionality, and timeless design. ",
-      "details":"Durable Materials:  Minimalist watches are often crafted from high-quality materials like stainless steel, titanium, or even ceramic. Versatility and Style:  The beauty of a minimalist watch lies in its versatility.",
-      "image_urls": ["https://www.linjer.co/cdn/shop/products/linjer-minimalist-watch-38-rose-gold-mocha-1-front_720x.jpg?v=1571295293"],
+      "details": "Durable Materials:  Minimalist watches are often crafted from high-quality materials like stainless steel, titanium, or even ceramic. Versatility and Style:  The beauty of a minimalist watch lies in its versatility.",
+      "image_urls": [
+        "https://www.linjer.co/cdn/shop/products/linjer-minimalist-watch-38-rose-gold-mocha-1-front_720x.jpg?v=1571295293"
+      ],
       "auction_end_time": "11:00:00",
-      "auction_start_time": "09:00:00" 
+      "auction_start_time": "09:00:00",
+      "id": "d466"
     },
     {
       "item_id": 7,
       "name": "Designer Sunglasses",
       "category": "Fashion",
-      "starting_bid": 39.00,
+      "starting_bid": 39,
       "description": "A pair of stylish sunglasses from a renowned designer. Exact details and starting bid will be confirmed upon inspection.Designer sunglasses are not just for protecting your eyes from the sun's harmful rays, they are a fashion statement that can elevate your outfit and make you look polished.  ",
-      "details":" They are crafted from high-quality materials, with superior lenses that provide excellent UV protection.",
-      "image_urls": ["https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/656x464/9df78eab33525d08d6e5fb8d27136e95//j/i/pink-gradient-rose-gold-full-rim-square-john-jacobs-jj-tints-jj-s12961--c3-sunglasses_john-jacobs-jj-s12961-c3-sunglasses_untitled-2_05_july23.jpg"],
+      "details": " They are crafted from high-quality materials, with superior lenses that provide excellent UV protection.",
+      "image_urls": [
+        "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/656x464/9df78eab33525d08d6e5fb8d27136e95//j/i/pink-gradient-rose-gold-full-rim-square-john-jacobs-jj-tints-jj-s12961--c3-sunglasses_john-jacobs-jj-s12961-c3-sunglasses_untitled-2_05_july23.jpg"
+      ],
       "auction_end_time": "17:00:00",
-      "auction_start_time": "15:00:00"
+      "auction_start_time": "15:00:00",
+      "id": "ee8a"
     },
     {
       "item_id": 8,
@@ -733,10 +916,13 @@
       "category": "Fashion",
       "starting_bid": 24.99,
       "description": "A warm and comfortable knit scarf, perfect for adding a touch of style and warmth during colder weather.A cozy knit scarf is the ultimate winter accessory, offering both warmth and effortless style. It's a versatile piece that can instantly elevate your outfit and add a touch of cozy charm.",
-      "details":"Beyond warmth and style, knit scarves can also serve a functional purpose.  On a particularly windy day, you can pull the scarf up to cover your lower face for added protection.  They can also be used as a makeshift blanket while traveling or at chilly outdoor events.",
-      "image_urls": ["https://i0.wp.com/theknitmckinley.com/wp-content/uploads/2022/02/wp-1643857932043.jpg?resize=768%2C1107&ssl=1"],
+      "details": "Beyond warmth and style, knit scarves can also serve a functional purpose.  On a particularly windy day, you can pull the scarf up to cover your lower face for added protection.  They can also be used as a makeshift blanket while traveling or at chilly outdoor events.",
+      "image_urls": [
+        "https://i0.wp.com/theknitmckinley.com/wp-content/uploads/2022/02/wp-1643857932043.jpg?resize=768%2C1107&ssl=1"
+      ],
       "auction_end_time": "19:00:00",
-      "auction_start_time": "17:00:00"
+      "auction_start_time": "17:00:00",
+      "id": "cc7a"
     },
     {
       "item_id": 9,
@@ -744,10 +930,13 @@
       "category": "Fashion",
       "starting_bid": 69.99,
       "description": "A functional and fashionable handbag, available in various styles and sizes to suit your needs.A stylish handbag is more than just a place to carry your essentials; it's an extension of your personal style and can elevate any outfit.",
-      "details":"Leather is a classic choice, offering durability and timeless style. Pockets, compartments, and closures all contribute to functionality. Choose a bag with features that suit your needs to keep you organized.",
-      "image_urls": ["https://www.jiomart.com/images/product/original/rvwq9x3eyx/cigati-women-stylish-handbag-and-sling-bag-ladies-purse-light-green-product-images-rvwq9x3eyx-0-202308200818.jpg?im=Resize=(1000,1000)"],
+      "details": "Leather is a classic choice, offering durability and timeless style. Pockets, compartments, and closures all contribute to functionality. Choose a bag with features that suit your needs to keep you organized.",
+      "image_urls": [
+        "https://www.jiomart.com/images/product/original/rvwq9x3eyx/cigati-women-stylish-handbag-and-sling-bag-ladies-purse-light-green-product-images-rvwq9x3eyx-0-202308200818.jpg?im=Resize=(1000,1000)"
+      ],
       "auction_end_time": "21:00:00",
-      "auction_start_time": "19:00:00"  
+      "auction_start_time": "19:00:00",
+      "id": "c2b8"
     },
     {
       "item_id": 10,
@@ -755,67 +944,83 @@
       "category": "Fashion",
       "starting_bid": 129.99,
       "description": "A pair of high-end sneakers from a popular brand. Comfortable and stylish, perfect for everyday wear or athletic activities.Luxury sneakers are a unique blend of high fashion and athletic performance. They are crafted from premium materials, often featuring collaborations with renowned designers or limited-edition releases",
-      "details":"Material: leather,  Luxury sneakers often feature intricate details, unique design elements, and superior construction techniques.  Meticulous stitching, innovative cushioning systems, and soles designed for both comfort and style are all hallmarks of luxury sneakers",
-      "image_urls": ["https://th.bing.com/th/id/OIP.84oConum-EAjMOvqhTjSwQHaDH?rs=1&pid=ImgDetMain"],
+      "details": "Material: leather,  Luxury sneakers often feature intricate details, unique design elements, and superior construction techniques.  Meticulous stitching, innovative cushioning systems, and soles designed for both comfort and style are all hallmarks of luxury sneakers",
+      "image_urls": [
+        "https://th.bing.com/th/id/OIP.84oConum-EAjMOvqhTjSwQHaDH?rs=1&pid=ImgDetMain"
+      ],
       "auction_end_time": "23:00:00",
-      "auction_start_time": "21:00:00"  
+      "auction_start_time": "21:00:00",
+      "id": "e4a9"
     },
-  
     {
       "item_id": 1,
       "name": "Diamond Stud Earrings",
       "category": "Jewellery",
-      "starting_bid": 1999.99,
+      "starting_bid": 2000,
       "description": "A timeless and elegant pair of diamond stud earrings. Perfect for everyday wear or special occasions.Available in various sizes to suit your style.Diamond stud earrings are classic and versatile pieces of jewelry. ",
-      "details":"Diamond Grading Reports: Reputable retailers will provide a diamond grading report from a gemological institute like GIA (Gemological Institute of America) or AGS (American Gem Society). This report details the diamond's carat weight, cut, clarity, and color.Consider the type of earring back, such as screw backs for added security or push backs for easier wear.",
-      "image_urls": ["https://www.populardiamonds.com/cdn/shop/products/Screen_Shot_2017-11-05_at_10.12.47_AM_38649993-303b-468e-b09c-0c7ac0a7548f_480x480.png?v=1571899479"],
+      "details": "Diamond Grading Reports: Reputable retailers will provide a diamond grading report from a gemological institute like GIA (Gemological Institute of America) or AGS (American Gem Society). This report details the diamond's carat weight, cut, clarity, and color.Consider the type of earring back, such as screw backs for added security or push backs for easier wear.",
+      "image_urls": [
+        "https://www.populardiamonds.com/cdn/shop/products/Screen_Shot_2017-11-05_at_10.12.47_AM_38649993-303b-468e-b09c-0c7ac0a7548f_480x480.png?v=1571899479"
+      ],
       "auction_end_time": "14:00:00Z",
-      "auction_start_time": "12:30:00Z"
+      "auction_start_time": "12:30:00Z",
+      "id": "95a9"
     },
     {
       "item_id": 2,
       "name": "Gold Hoop Earrings",
       "category": "Jewellery",
-      "starting_bid": 4999.99,
+      "starting_bid": 5001,
       "description": "A classic and versatile pair of gold hoop earrings.Gold hoop earrings can have a high-shine polished finish, a brushed matte finish, or even a textured finish. Choose a finish that complements your style.",
-      "details":"Gold Type: Yellow gold is the classic choice.Hoop Diameter: This refers to the width of the hoop, ranging from small (15mm)",
-      "image_urls": ["https://th.bing.com/th/id/OIP.lz0u6HypHdc4lIJSaO-pfQHaHa?rs=1&pid=ImgDetMain"],
+      "details": "Gold Type: Yellow gold is the classic choice.Hoop Diameter: This refers to the width of the hoop, ranging from small (15mm)",
+      "image_urls": [
+        "https://th.bing.com/th/id/OIP.lz0u6HypHdc4lIJSaO-pfQHaHa?rs=1&pid=ImgDetMain"
+      ],
       "auction_end_time": "11:00:00",
-      "auction_start_time": "09:30:00"
-   
+      "auction_start_time": "09:30:00",
+      "id": "96f7"
     },
     {
       "item_id": 3,
       "name": "Pearl Necklace",
       "category": "Jewellery",
-      "starting_bid": 7999.99,
+      "starting_bid": 8002,
       "description": "A sophisticated and elegant pearl necklace. Adds a touch of class to any outfit.Pearl necklaces are timeless and elegant pieces of jewelry, perfect for adding a touch of sophistication to any outfit.",
-      "details":"Akoya Pearls: Known for their high luster and near-perfect round shape, these are classic white or cream-colored pearls.Necklace Length:around 14 inches",
-      "image_urls": ["https://i.etsystatic.com/7311825/r/il/d18a4c/2075194920/il_fullxfull.2075194920_hag7.jpg"],
+      "details": "Akoya Pearls: Known for their high luster and near-perfect round shape, these are classic white or cream-colored pearls.Necklace Length:around 14 inches",
+      "image_urls": [
+        "https://i.etsystatic.com/7311825/r/il/d18a4c/2075194920/il_fullxfull.2075194920_hag7.jpg"
+      ],
       "auction_end_time": "09:30:00",
-      "auction_start_time": "08:00:00"  
+      "auction_start_time": "08:00:00",
+      "id": "705e"
     },
     {
       "item_id": 4,
       "name": "Layered Pendant Necklace",
       "category": "Jewellery",
-      "starting_bid": 3900.99,
+      "starting_bid": 3999,
       "description": "A trendy and stylish layered pendant necklace. Perfect for adding a touch of personality to your look.A layered pendant necklace is a trendy jewelry piece that combines multiple strands with different pendants, creating a stylish and textured look. It offers endless possibilities for customization and self-expression. ",
-      "details":"Layered pendant necklaces often combine different metals like gold and silver or incorporate materials like pearls, gemstones, or beads. This adds visual texture and allows you to match the necklace to various jewelry pieces.",
-      "image_urls": ["https://images.unsplash.com/photo-1664178266066-e37e0d25e6a1?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
-      "auction_end_time":"12:30:00",
-      "auction_start_time": "11:00:00"
+      "details": "Layered pendant necklaces often combine different metals like gold and silver or incorporate materials like pearls, gemstones, or beads. This adds visual texture and allows you to match the necklace to various jewelry pieces.",
+      "image_urls": [
+        "https://images.unsplash.com/photo-1664178266066-e37e0d25e6a1?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "auction_end_time": "12:30:00",
+      "auction_start_time": "11:00:00",
+      "id": "3f23"
     },
     {
       "item_id": 5,
       "name": "Gold Tennis Bracelet",
       "category": "Jewellery",
-      "starting_bid": 1499.99,
+      "starting_bid": 1501,
       "description": "A timeless and luxurious gold tennis bracelet. A staple piece for any jewellery collection.A gold tennis bracelet is a timeless and sophisticated piece of jewelry that adds a touch of elegance and sparkle to any wrist.",
-      "details":"Gold Type:yellow,Gold Karat:18k,The most popular cut for diamond tennis bracelets is the round brilliant cut. This cut maximizes sparkle and fire, creating a dazzling display.",
-      "image_urls": ["https://th.bing.com/th/id/OIP.EJ3_TeAI2HofoIOZVkocUQHaG1?rs=1&pid=ImgDetMain"],
+      "details": "Gold Type:yellow,Gold Karat:18k,The most popular cut for diamond tennis bracelets is the round brilliant cut. This cut maximizes sparkle and fire, creating a dazzling display.",
+      "image_urls": [
+        "https://th.bing.com/th/id/OIP.EJ3_TeAI2HofoIOZVkocUQHaG1?rs=1&pid=ImgDetMain"
+      ],
       "auction_end_time": "13:00:00",
-      "auction_start_time": "11:30:00"  
+      "auction_start_time": "11:30:00",
+      "id": "87d0"
     },
     {
       "item_id": 6,
@@ -823,10 +1028,13 @@
       "category": "Jewellery",
       "starting_bid": 2900.99,
       "description": "A personalized and sentimental charm bracelet. You can add or remove charms to create your own unique piece.A charm bracelet is a delightful and sentimental piece of jewelry that tells your story through a collection of trinkets and charms. It's more than just an ornament; it's a personalized treasure trove of memories and experiences",
-      "details":"Luxury Charms: Designer brands and high-end jewelers offer luxury charms crafted from precious metals and gemstones, adding a touch of exclusivity to your braceletThis allows you to find a bracelet that complements your personal style and can be dressed up or down for any occasion..",
-      "image_urls": ["https://th.bing.com/th/id/OIP.br7TcuZLJKJj1sNAwN2_vgHaHa?w=184&h=183&c=7&r=0&o=5&dpr=1.5&pid=1.7"],
+      "details": "Luxury Charms: Designer brands and high-end jewelers offer luxury charms crafted from precious metals and gemstones, adding a touch of exclusivity to your braceletThis allows you to find a bracelet that complements your personal style and can be dressed up or down for any occasion..",
+      "image_urls": [
+        "https://th.bing.com/th/id/OIP.br7TcuZLJKJj1sNAwN2_vgHaHa?w=184&h=183&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+      ],
       "auction_end_time": "11:00:00",
-      "auction_start_time": "09:00:00"  
+      "auction_start_time": "09:00:00",
+      "id": "1890"
     },
     {
       "item_id": 7,
@@ -834,10 +1042,13 @@
       "category": "Jewellery",
       "starting_bid": 8900.99,
       "description": "A stylish and sophisticated men's watch with a leather band and silver accents. Perfect for everyday wear or dressier occasions.Men's leather watches with silver accents are a timeless and versatile option. They can be dressed up or down, making them suitable for any occasion. ",
-      "details":"Style:There are many different styles of men's leather watches available, from classic dress watches to sporty chronographs.Strap Material: Leather is a popular choice for watch straps because it is comfortable, stylish, and durable. Case Size: The case size of the watch should be proportionate to the size of your wrist.",
-      "image_urls": ["https://th.bing.com/th/id/OIP.-oeU-HZfO46ncOnZpU0BDgHaHa?rs=1&pid=ImgDetMain"],
+      "details": "Style:There are many different styles of men's leather watches available, from classic dress watches to sporty chronographs.Strap Material: Leather is a popular choice for watch straps because it is comfortable, stylish, and durable. Case Size: The case size of the watch should be proportionate to the size of your wrist.",
+      "image_urls": [
+        "https://th.bing.com/th/id/OIP.-oeU-HZfO46ncOnZpU0BDgHaHa?rs=1&pid=ImgDetMain"
+      ],
       "auction_end_time": "17:00:00",
-      "auction_start_time": "15:00:00"
+      "auction_start_time": "15:00:00",
+      "id": "3202"
     },
     {
       "item_id": 8,
@@ -845,31 +1056,41 @@
       "category": "Jewellery",
       "starting_bid": 2490.99,
       "description": "A dainty and feminine silver necklace. Perfect for layering with other pieces or wearing on its own.A delicate silver necklace is a versatile and timeless piece of jewelry that adds a touch of elegance and sophistication to any outfit.",
-      "details":"Silver Purity: Delicate necklaces are usually made from sterling silver, which is 92.5% silver and 7.5% other metals for added strength and durability.These are the hallmark of a delicate necklace.",
-      "image_urls": ["https://th.bing.com/th/id/OIP.V99NW2IzdE-DxS6uXgPXCAHaHa?rs=1&pid=ImgDetMain"],
+      "details": "Silver Purity: Delicate necklaces are usually made from sterling silver, which is 92.5% silver and 7.5% other metals for added strength and durability.These are the hallmark of a delicate necklace.",
+      "image_urls": [
+        "https://th.bing.com/th/id/OIP.V99NW2IzdE-DxS6uXgPXCAHaHa?rs=1&pid=ImgDetMain"
+      ],
       "auction_end_time": "19:00:00",
-      "auction_start_time": "17:00:00"
+      "auction_start_time": "17:00:00",
+      "id": "8cb6"
     },
     {
       "item_id": 9,
       "name": "Statement Cocktail Ring",
       "category": "Jewellery",
-      "starting_bid": 3900.00,
+      "starting_bid": 3900,
       "description": "A bold and eye-catching cocktail ring. Exact details and starting bid will be confirmed upon inspection.A statement cocktail ring is a bold and eye-catching piece of jewelry designed to be the star of the show. It's more than just an accessory; it's a conversation starter and a way to express your unique style",
-      "details":"Eye-Catching Materials: Cocktail rings are not shy about using eye-catching materials. From bold colored gemstones like emeralds, rubies, and sapphires to unique cuts like pear-shaped diamonds or baguette diamonds, these rings are designed to grab attention.",
-      "image_urls": ["https://th.bing.com/th/id/OIP.-WY7zW72TBAXnz3SwpduSwHaHa?w=182&h=182&c=7&r=0&o=5&dpr=1.5&pid=1.7"],
+      "details": "Eye-Catching Materials: Cocktail rings are not shy about using eye-catching materials. From bold colored gemstones like emeralds, rubies, and sapphires to unique cuts like pear-shaped diamonds or baguette diamonds, these rings are designed to grab attention.",
+      "image_urls": [
+        "https://th.bing.com/th/id/OIP.-WY7zW72TBAXnz3SwpduSwHaHa?w=182&h=182&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+      ],
       "auction_end_time": "21:00:00",
-      "auction_start_time": "19:00:00"
+      "auction_start_time": "19:00:00",
+      "id": "5117"
     },
     {
       "item_id": 10,
       "name": "Gemstone Bracelet",
       "category": "Jewellery",
-      "starting_bid": 99.99,
+      "starting_bid": 1000,
       "description": "A beautiful and unique bracelet featuring a variety of gemstones. Select gem types may vary.A gemstone bracelet is a dazzling and versatile piece of jewelry that adds a touch of color, light, and personality to your wrist.",
-      "details":"From bold colored gemstones like emeralds, rubies, and sapphires to unique cuts like pear-shaped diamonds or baguette diamonds, these are designed to grab attention",
-      "image_urls": ["https://th.bing.com/th/id/OIP.aBXsQQpp7TwFFHtxAynDowHaHa?w=184&h=184&c=7&r=0&o=5&dpr=1.5&pid=1.7"],
+      "details": "From bold colored gemstones like emeralds, rubies, and sapphires to unique cuts like pear-shaped diamonds or baguette diamonds, these are designed to grab attention",
+      "image_urls": [
+        "https://th.bing.com/th/id/OIP.aBXsQQpp7TwFFHtxAynDowHaHa?w=184&h=184&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+      ],
       "auction_end_time": "23:00:00",
-      "auction_start_time": "21:00:00"
+      "auction_start_time": "21:00:00",
+      "id": "9fe7"
     }
-  ]}
+  ]
+}

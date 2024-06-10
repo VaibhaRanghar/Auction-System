@@ -1,6 +1,11 @@
 import React from "react";
+import { useAuth } from "../context";
+import { doSignOut } from "../auth";
+import { useNavigate } from "react-router-dom";
 
 export default function NavBar() {
+  const navigate = useNavigate();
+  const { userLoggedIn } = useAuth();
   return (
     <div className="bg-slate-800 text-white flex justify-between ">
       <div className="pl-4">
@@ -29,9 +34,20 @@ export default function NavBar() {
         </div>
 
         <div className="p-7 hover:bg-emerald-700">
-          <a className="p-5 text-xl" href="/projects">
-            Login
-          </a>
+          {userLoggedIn ? (
+            <>
+              <button
+                className="text-xl"
+                onClick={() => {
+                  doSignOut();
+                }}
+              >
+                Logout
+              </button>
+            </>
+          ) : (
+            navigate("/login")
+          )}
         </div>
       </div>
     </div>

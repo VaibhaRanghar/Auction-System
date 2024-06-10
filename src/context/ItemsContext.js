@@ -3,6 +3,8 @@ import React, { useState, useEffect, createContext } from "react";
 const ItemsContext = createContext({
   items: [],
   setItems: () => {},
+  dataUpdated: false,
+  setDataUpdated: () => {},
   showFilter: false,
   setShowFilter: () => {},
   filter: [],
@@ -13,6 +15,7 @@ const ItemsContext = createContext({
 });
 
 const ItemsProvider = ({ children }) => {
+  const [dataUpdated, setDataUpdated] = useState(false);
   const [items, setItems] = useState([]);
   const [showFilter, setShowFilter] = useState(false);
   const [filter, setFilters] = useState([]);
@@ -22,9 +25,10 @@ const ItemsProvider = ({ children }) => {
       const res = await fetch("http://localhost:1000/data");
       const data = await res.json();
       setItems(data);
+      setDataUpdated(false);
     };
     fetchData();
-  }, []);
+  }, [dataUpdated]);
 
   const handleFilterClick = () => {
     setShowFilter(!showFilter);
@@ -56,6 +60,8 @@ const ItemsProvider = ({ children }) => {
   const value = {
     items,
     setItems,
+    dataUpdated,
+    setDataUpdated,
     showFilter,
     setShowFilter,
     filter,

@@ -2,6 +2,7 @@ import React, { useContext, useEffect, useState } from "react";
 import { ItemsContext } from "../context/ItemsContext.js";
 import { useLocation } from "react-router-dom";
 import RelatedProducts from "../components/RelatedProducts.js";
+import MoneyInput from "../components/MoneyInput.js";
 
 export default function Product() {
   //code b/w these cmts if for finding id of the product which is clicked from items list.
@@ -18,7 +19,7 @@ export default function Product() {
   }, [item, setElement]);
 
   return (
-    <div>
+    <div key={element.id}>
       <div className="flex justify-center items-center" id="productSection">
         <div className="flex shadow-lg border m-10  rounded-xl p-10 gap-10  ">
           <img
@@ -34,17 +35,15 @@ export default function Product() {
             <p className="text-slate-500 text-lg mt-5">
               Bid Amount: Minimum Bid ${element?.starting_bid}
             </p>
-            <div className="mt-5 flex flex-col gap-3 justify-self-end">
-              <h2 className="text-xl font-bold">Bid Now</h2>
-              <input
+            {/* <input
                 placeholder="$00.00"
                 type="number"
                 className="p-2 border-black border-2 rounded-lg"
-              />
-              <button className="p-3 justify-self-end rounded-lg text-white text-lg font-bold bg-emerald-600">
-                Place Bid
-              </button>
-            </div>
+              /> */}
+            <MoneyInput
+              placeholderValue={element?.starting_bid}
+              productId={productId}
+            />
           </div>
         </div>
       </div>

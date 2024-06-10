@@ -1,8 +1,11 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
+import { useAuth } from "../context";
 
 export default function Home() {
   const navigate = useNavigate();
+  const { currentUser } = useAuth();
+  console.log(currentUser);
   return (
     // bg-hero-pattern bg-cover bg-no-repeat relative
     <div className="flex justify-between bg-gradient-to-t from-white to-emerald-100">
